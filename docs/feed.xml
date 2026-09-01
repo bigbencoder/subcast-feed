@@ -11,7 +11,36 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 01 Sep 2026 18:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:52:44 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 1, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• anthropic-models: `claude-fable-5-1`
+  https://docs.anthropic.com/en/docs/about-claude/models/overview
+
+• Anthropic: Degraded performance on platform.claude.com and Claude for Microsoft Office 365
+  https://status.anthropic.com
+
+• Claude Code `v2.1.257`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.257]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• anthropic-models: `claude-fable-5-1`
+  https://docs.anthropic.com/en/docs/about-claude/models/overview
+
+• Anthropic: Degraded performance on platform.claude.com and Claude for Microsoft Office 365
+  https://status.anthropic.com
+
+• Claude Code `v2.1.257`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.257]]></itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 18:52:31 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260901-1852.mp3" length="1314525" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260901-1852</guid>
+      <itunes:duration>1:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 1, 2026</title>
       <description><![CDATA[Sources for this episode:
