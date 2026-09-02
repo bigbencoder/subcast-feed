@@ -11,7 +11,24 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 02 Sep 2026 08:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:30:09 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 2, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated errors creating new accounts
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated errors creating new accounts
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Wed, 02 Sep 2026 18:30:00 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260902-1830.mp3" length="462306" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260902-1830</guid>
+      <itunes:duration>0:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 2, 2026</title>
       <description><![CDATA[Sources for this episode:
