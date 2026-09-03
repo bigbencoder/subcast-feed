@@ -11,7 +11,48 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 02 Sep 2026 18:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:00:42 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 3, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Codex `rust-v0.153.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.153.0
+
+• Claude Code `v2.1.259`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.259
+
+• Anthropic: Elevated errors for Claude Sonnet 5
+  https://status.anthropic.com
+
+• opencode `v1.18.27`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.27
+
+• OpenAI: Elevated errors creating new accounts
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Codex `rust-v0.153.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.153.0
+
+• Claude Code `v2.1.259`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.259
+
+• Anthropic: Elevated errors for Claude Sonnet 5
+  https://status.anthropic.com
+
+• opencode `v1.18.27`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.27
+
+• OpenAI: Elevated errors creating new accounts
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Thu, 03 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260903-0800.mp3" length="3918829" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260903-0800</guid>
+      <itunes:duration>4:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 2, 2026</title>
       <description><![CDATA[Sources for this episode:
