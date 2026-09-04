@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 04 Sep 2026 08:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:30:13 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 4, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Drummer&apos;s Artemis 31B v1 and v1.1 - Coming back with a bang!
+  https://huggingface.co/TheDrummer
+  https://www.reddit.com/r/LocalLLaMA/comments/1w77ath/drummers_artemis_31b_v1_and_v11_coming_back_with/
+
+• opencode `v1.18.28`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.28
+
+• OpenAI: Users in APAC region may face increased error in ChatGPT, Work, image generation, file upload, Voice, and Codex Cloud
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Drummer&apos;s Artemis 31B v1 and v1.1 - Coming back with a bang!
+  https://huggingface.co/TheDrummer
+  https://www.reddit.com/r/LocalLLaMA/comments/1w77ath/drummers_artemis_31b_v1_and_v11_coming_back_with/
+
+• opencode `v1.18.28`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.28
+
+• OpenAI: Users in APAC region may face increased error in ChatGPT, Work, image generation, file upload, Voice, and Codex Cloud
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Fri, 04 Sep 2026 18:30:00 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260904-1830.mp3" length="1214633" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260904-1830</guid>
+      <itunes:duration>1:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 4, 2026</title>
       <description><![CDATA[Sources for this episode:
