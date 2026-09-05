@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 05 Sep 2026 08:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:30:17 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 5, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• gfx906-llama-cpp: New PP/TG gains for MI50/MI60/Radeon VII/AMD GCN
+  https://github.com/iacopPBK/llama.cpp-gfx906/releases
+  https://www.reddit.com/r/LocalLLaMA/comments/1w82kpd/gfx906llamacpp_new_pptg_gains_for_mi50mi60radeon/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• gfx906-llama-cpp: New PP/TG gains for MI50/MI60/Radeon VII/AMD GCN
+  https://github.com/iacopPBK/llama.cpp-gfx906/releases
+  https://www.reddit.com/r/LocalLLaMA/comments/1w82kpd/gfx906llamacpp_new_pptg_gains_for_mi50mi60radeon/]]></itunes:summary>
+      <pubDate>Sat, 05 Sep 2026 18:30:04 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260905-1830.mp3" length="1113905" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260905-1830</guid>
+      <itunes:duration>1:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 5, 2026</title>
       <description><![CDATA[Sources for this episode:
