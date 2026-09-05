@@ -11,7 +11,58 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 04 Sep 2026 18:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:00:33 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 5, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Fable 5.1 usage improved after 7.2% → 29.2% cache regression was fixed
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1w7tnt7/fable_51_usage_improved_after_72_292_cache/
+
+• GPT-6 Astra is now out to all Plus, Business, Pro, and Enterprise users
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1w7l3yj/gpt6_astra_is_now_out_to_all_plus_business_pro/
+
+• opencode `v1.18.29`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.29
+
+• Codex `rust-v0.153.4`
+  https://github.com/openai/codex/releases/tag/rust-v0.153.4
+
+• Claude Code `v2.1.261`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.261
+
+• Codex `rust-v0.153.3`
+  https://github.com/openai/codex/releases/tag/rust-v0.153.3]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Fable 5.1 usage improved after 7.2% → 29.2% cache regression was fixed
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1w7tnt7/fable_51_usage_improved_after_72_292_cache/
+
+• GPT-6 Astra is now out to all Plus, Business, Pro, and Enterprise users
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1w7l3yj/gpt6_astra_is_now_out_to_all_plus_business_pro/
+
+• opencode `v1.18.29`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.29
+
+• Codex `rust-v0.153.4`
+  https://github.com/openai/codex/releases/tag/rust-v0.153.4
+
+• Claude Code `v2.1.261`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.261
+
+• Codex `rust-v0.153.3`
+  https://github.com/openai/codex/releases/tag/rust-v0.153.3]]></itunes:summary>
+      <pubDate>Sat, 05 Sep 2026 08:00:01 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260905-0800.mp3" length="3429399" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260905-0800</guid>
+      <itunes:duration>3:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 4, 2026</title>
       <description><![CDATA[Sources for this episode:
