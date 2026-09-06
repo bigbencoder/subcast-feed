@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 06 Sep 2026 08:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 6, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• [Model] Support for Spark2_5ForCausalLM implementation by KnightYao · Pull Request #27868 · ggml-org/llama.cpp
+  https://github.com/ggml-org/llama.cpp/pull/27868
+  https://www.reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• [Model] Support for Spark2_5ForCausalLM implementation by KnightYao · Pull Request #27868 · ggml-org/llama.cpp
+  https://github.com/ggml-org/llama.cpp/pull/27868
+  https://www.reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm/]]></itunes:summary>
+      <pubDate>Sun, 06 Sep 2026 18:30:04 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260906-1830.mp3" length="706395" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260906-1830</guid>
+      <itunes:duration>0:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 6, 2026</title>
       <description><![CDATA[Sources for this episode:
