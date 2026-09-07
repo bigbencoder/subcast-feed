@@ -11,7 +11,34 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 06 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 7, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• MiniCPM5-2B Release Day
+  https://huggingface.co/openbmb/MiniCPM5-2B
+  https://www.reddit.com/r/LocalLLaMA/comments/1w9skjz/minicpm52b_release_day/
+
+• tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)
+  https://huggingface.co/tencent/EVIE-8B
+  https://www.reddit.com/r/LocalLLaMA/comments/1w9nphc/tencentevie8b_and_evie45b_highcapacity_visual/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• MiniCPM5-2B Release Day
+  https://huggingface.co/openbmb/MiniCPM5-2B
+  https://www.reddit.com/r/LocalLLaMA/comments/1w9skjz/minicpm52b_release_day/
+
+• tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)
+  https://huggingface.co/tencent/EVIE-8B
+  https://www.reddit.com/r/LocalLLaMA/comments/1w9nphc/tencentevie8b_and_evie45b_highcapacity_visual/]]></itunes:summary>
+      <pubDate>Mon, 07 Sep 2026 18:30:01 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260907-1830.mp3" length="1351724" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260907-1830</guid>
+      <itunes:duration>1:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 6, 2026</title>
       <description><![CDATA[Sources for this episode:
