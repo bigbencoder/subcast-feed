@@ -11,7 +11,52 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 07 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 8, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Qwen/Qwen-Drive-1.0-4B · Hugging Face
+  https://huggingface.co/Qwen/Qwen-Drive-1.0-4B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/
+
+• nex-agi/Nex-N2.5-mini - 35b
+  https://huggingface.co/nex-agi/Nex-N2.5-mini
+  https://www.reddit.com/r/LocalLLaMA/comments/1wat4ay/nexaginexn25mini_35b/
+
+• inclusionAI/Ling-3.0-flash-VL · Hugging Face
+  https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/
+
+• OpenAI: Elevated errors for image generation
+  https://status.openai.com
+
+• OpenAI: File uploads are delayed or failing
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Qwen/Qwen-Drive-1.0-4B · Hugging Face
+  https://huggingface.co/Qwen/Qwen-Drive-1.0-4B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/
+
+• nex-agi/Nex-N2.5-mini - 35b
+  https://huggingface.co/nex-agi/Nex-N2.5-mini
+  https://www.reddit.com/r/LocalLLaMA/comments/1wat4ay/nexaginexn25mini_35b/
+
+• inclusionAI/Ling-3.0-flash-VL · Hugging Face
+  https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/
+
+• OpenAI: Elevated errors for image generation
+  https://status.openai.com
+
+• OpenAI: File uploads are delayed or failing
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Tue, 08 Sep 2026 18:30:00 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260908-1830.mp3" length="1556942" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260908-1830</guid>
+      <itunes:duration>1:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 7, 2026</title>
       <description><![CDATA[Sources for this episode:
