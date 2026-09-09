@@ -11,7 +11,80 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 08 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:30:24 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 9, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Usage went from 87% to 0% in 2 minutes on a Pro 5x Plan running Astra-Low
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbsa6y/usage_went_from_87_to_0_in_2_minutes_on_a_pro_5x/
+
+• Weekly usage dropped from ~90% to 68% overnight without using Codex
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbruuf/weekly_usage_dropped_from_90_to_68_overnight/
+
+• Weird Instant Drop On 20x Plan, 61% &gt; 0% in 30 minutes.
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbs42r/weird_instant_drop_on_20x_plan_61_0_in_30_minutes/
+
+• Usage went to 0 after switching model in the same chat
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbruh6/usage_went_to_0_after_switching_model_in_the_same/
+
+• Codex has eaten 76% of $200 weekly quota in 44 seconds
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbs4ki/codex_has_eaten_76_of_200_weekly_quota_in_44/
+
+• WTF. My usage went from 80% to 29% without me doing anything. It just disappeared by itself when I wasn’t even using it.
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbs5lm/wtf_my_usage_went_from_80_to_29_without_me_doing/
+
+• Just dropped from 50% to 0 in 1 minute on 20x weekly limit
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbrwnk/just_dropped_from_50_to_0_in_1_minute_on_20x/
+
+• Codex issue vaporized weekly limit out of nowhere! Anyone else?
+  https://www.reddit.com/r/codex/comments/1wbr0xt/codex_issue_vaporized_weekly_limit_out_of_nowhere/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Usage went from 87% to 0% in 2 minutes on a Pro 5x Plan running Astra-Low
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbsa6y/usage_went_from_87_to_0_in_2_minutes_on_a_pro_5x/
+
+• Weekly usage dropped from ~90% to 68% overnight without using Codex
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbruuf/weekly_usage_dropped_from_90_to_68_overnight/
+
+• Weird Instant Drop On 20x Plan, 61% &gt; 0% in 30 minutes.
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbs42r/weird_instant_drop_on_20x_plan_61_0_in_30_minutes/
+
+• Usage went to 0 after switching model in the same chat
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbruh6/usage_went_to_0_after_switching_model_in_the_same/
+
+• Codex has eaten 76% of $200 weekly quota in 44 seconds
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbs4ki/codex_has_eaten_76_of_200_weekly_quota_in_44/
+
+• WTF. My usage went from 80% to 29% without me doing anything. It just disappeared by itself when I wasn’t even using it.
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbs5lm/wtf_my_usage_went_from_80_to_29_without_me_doing/
+
+• Just dropped from 50% to 0 in 1 minute on 20x weekly limit
+  https://status.openai.com/
+  https://www.reddit.com/r/codex/comments/1wbrwnk/just_dropped_from_50_to_0_in_1_minute_on_20x/
+
+• Codex issue vaporized weekly limit out of nowhere! Anyone else?
+  https://www.reddit.com/r/codex/comments/1wbr0xt/codex_issue_vaporized_weekly_limit_out_of_nowhere/]]></itunes:summary>
+      <pubDate>Wed, 09 Sep 2026 18:30:03 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260909-1830.mp3" length="1914297" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260909-1830</guid>
+      <itunes:duration>2:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 8, 2026</title>
       <description><![CDATA[Sources for this episode:
