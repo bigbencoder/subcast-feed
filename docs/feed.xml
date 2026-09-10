@@ -11,7 +11,58 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 09 Sep 2026 18:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:00:43 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 10, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• DeepSeek V4-1 Flash is out
+  https://huggingface.co/deepseek-ai
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/
+
+• DeepSeek V4.1 Flash: Stronger, Faster, More Accessible
+  https://api-docs.deepseek.com/news/
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible/
+
+• Ollama `v0.34.0`
+  https://github.com/ollama/ollama/releases/tag/v0.34.0
+
+• OpenAI: Unable to open shared ChatGPT Project using direct link
+  https://status.openai.com
+
+• Codex `rust-v0.154.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.154.0
+
+• Claude Code `v2.1.267`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.267]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• DeepSeek V4-1 Flash is out
+  https://huggingface.co/deepseek-ai
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/
+
+• DeepSeek V4.1 Flash: Stronger, Faster, More Accessible
+  https://api-docs.deepseek.com/news/
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible/
+
+• Ollama `v0.34.0`
+  https://github.com/ollama/ollama/releases/tag/v0.34.0
+
+• OpenAI: Unable to open shared ChatGPT Project using direct link
+  https://status.openai.com
+
+• Codex `rust-v0.154.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.154.0
+
+• Claude Code `v2.1.267`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.267]]></itunes:summary>
+      <pubDate>Thu, 10 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260910-0800.mp3" length="4499792" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260910-0800</guid>
+      <itunes:duration>4:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 9, 2026</title>
       <description><![CDATA[Sources for this episode:
