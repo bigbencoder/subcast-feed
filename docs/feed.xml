@@ -11,7 +11,78 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 10 Sep 2026 08:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:30:29 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 10, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OUI-1: a model that generates bespoke UI elements
+  https://www.openui.com/blog/oui-1
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/
+
+• openai-models: `gpt-live`
+  https://platform.openai.com/docs/models
+
+• DeepSeek V4.1 Flash is available in HuggingChat
+  https://huggingface.co/chat/models/deepseek-ai/DeepSeek-V4.1-Flash
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcng44/deepseek_v41_flash_is_available_in_huggingchat/
+
+• So just learned that fork_turns defaults to &quot;all&quot; = astra subagents get dumped with 800k+ initial context bloat
+  https://github.com/openai/codex/blob/main/codex-rs/core/src/tools/handlers/multi_agents_spec.rs
+  https://www.reddit.com/r/codex/comments/1wcn7yl/so_just_learned_that_fork_turns_defaults_to_all/
+
+• GigaChat-3.5-Reasoning
+  https://huggingface.co/ai-sage/GigaChat3.5-432B-A28B-Reasoning
+  https://www.reddit.com/r/LocalLLaMA/comments/1wchl1x/gigachat35reasoning/
+
+• Deepseek V4.1 Flash Release Video [Made with Deepseek V4.1 Flash]
+  https://www.deepseek.com/en/news/deepseek-v4-1-flash/
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcgdz8/deepseek_v41_flash_release_video_made_with/
+
+• Apodex-1.1-mini-GGUF*Hugging Face
+  https://huggingface.co/apodex/Apodex-1.1-mini-GGUF
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcdwl6/apodex11miniggufhugging_face/
+
+• Anthropic: Degraded functionality for Claude Cowork on Windows
+  https://stspg.io/5yp3rhhztm30]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OUI-1: a model that generates bespoke UI elements
+  https://www.openui.com/blog/oui-1
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/
+
+• openai-models: `gpt-live`
+  https://platform.openai.com/docs/models
+
+• DeepSeek V4.1 Flash is available in HuggingChat
+  https://huggingface.co/chat/models/deepseek-ai/DeepSeek-V4.1-Flash
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcng44/deepseek_v41_flash_is_available_in_huggingchat/
+
+• So just learned that fork_turns defaults to &quot;all&quot; = astra subagents get dumped with 800k+ initial context bloat
+  https://github.com/openai/codex/blob/main/codex-rs/core/src/tools/handlers/multi_agents_spec.rs
+  https://www.reddit.com/r/codex/comments/1wcn7yl/so_just_learned_that_fork_turns_defaults_to_all/
+
+• GigaChat-3.5-Reasoning
+  https://huggingface.co/ai-sage/GigaChat3.5-432B-A28B-Reasoning
+  https://www.reddit.com/r/LocalLLaMA/comments/1wchl1x/gigachat35reasoning/
+
+• Deepseek V4.1 Flash Release Video [Made with Deepseek V4.1 Flash]
+  https://www.deepseek.com/en/news/deepseek-v4-1-flash/
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcgdz8/deepseek_v41_flash_release_video_made_with/
+
+• Apodex-1.1-mini-GGUF*Hugging Face
+  https://huggingface.co/apodex/Apodex-1.1-mini-GGUF
+  https://www.reddit.com/r/LocalLLaMA/comments/1wcdwl6/apodex11miniggufhugging_face/
+
+• Anthropic: Degraded functionality for Claude Cowork on Windows
+  https://stspg.io/5yp3rhhztm30]]></itunes:summary>
+      <pubDate>Thu, 10 Sep 2026 18:30:01 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260910-1830.mp3" length="2349810" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260910-1830</guid>
+      <itunes:duration>2:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 10, 2026</title>
       <description><![CDATA[Sources for this episode:
