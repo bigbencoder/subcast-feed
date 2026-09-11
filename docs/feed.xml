@@ -11,7 +11,62 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 10 Sep 2026 18:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:00:47 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 11, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Livebench added Deepseek v4.1 flash
+  https://github.com/LiveBench/LiveBench/commit/0edef1710338da97d78e071e3c3ac06426a937a8
+  https://www.reddit.com/r/LocalLLaMA/comments/1wctnzd/livebench_added_deepseek_v41_flash/
+
+• Anthropic: Elevated latency on the Claude API for some users
+  https://status.anthropic.com
+
+• OpenAI: Delays in customer support responses
+  https://status.openai.com
+
+• Anthropic: Degraded performance on the Claude API
+  https://stspg.io/hfs7749ykl14
+
+• OpenAI: Elevated errors affecting ChatGPT Work
+  https://status.openai.com
+
+• Claude Code `v2.1.268`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.268
+
+• Codex `python-v0.154.0`
+  https://github.com/openai/codex/releases/tag/python-v0.154.0]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Livebench added Deepseek v4.1 flash
+  https://github.com/LiveBench/LiveBench/commit/0edef1710338da97d78e071e3c3ac06426a937a8
+  https://www.reddit.com/r/LocalLLaMA/comments/1wctnzd/livebench_added_deepseek_v41_flash/
+
+• Anthropic: Elevated latency on the Claude API for some users
+  https://status.anthropic.com
+
+• OpenAI: Delays in customer support responses
+  https://status.openai.com
+
+• Anthropic: Degraded performance on the Claude API
+  https://stspg.io/hfs7749ykl14
+
+• OpenAI: Elevated errors affecting ChatGPT Work
+  https://status.openai.com
+
+• Claude Code `v2.1.268`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.268
+
+• Codex `python-v0.154.0`
+  https://github.com/openai/codex/releases/tag/python-v0.154.0]]></itunes:summary>
+      <pubDate>Fri, 11 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260911-0800.mp3" length="3933457" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260911-0800</guid>
+      <itunes:duration>4:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 10, 2026</title>
       <description><![CDATA[Sources for this episode:
