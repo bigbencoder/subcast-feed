@@ -11,7 +11,68 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 11 Sep 2026 08:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:30:21 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 11, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Qwen3.8-27B-Humanlike-Chat: A model I tuned to imitate realistic human-to-human conversation
+  https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF
+  https://www.reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate/
+
+• Orukeet, new ASR model based on Parakeet
+  https://arxiv.org/abs/2609.10054
+  https://www.reddit.com/r/LocalLLaMA/comments/1wdk2he/orukeet_new_asr_model_based_on_parakeet/
+
+• Claude Code errors eased after this afternoon&apos;s partial outage
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeCode/comments/1wdizn4/claude_code_errors_eased_after_this_afternoons/
+
+• Fable 5.1 usage for the week suddenly at 60%, two days later drops back to 4% and 5-hour usage suddenly at 90% after 1hr of work. Usage overall off.
+  https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+  https://www.reddit.com/r/ClaudeCode/comments/1wdbbql/fable_51_usage_for_the_week_suddenly_at_60_two/
+
+• OpenAI: 1% of ChatGPT Work (mobile/web) turns are failing
+  https://status.openai.com
+
+• OpenAI: Elevated errors for GPT-5.6 Sol on the API
+  https://status.openai.com
+
+• OpenAI: Elevated errors for ChatGPT users in Europe
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Qwen3.8-27B-Humanlike-Chat: A model I tuned to imitate realistic human-to-human conversation
+  https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF
+  https://www.reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate/
+
+• Orukeet, new ASR model based on Parakeet
+  https://arxiv.org/abs/2609.10054
+  https://www.reddit.com/r/LocalLLaMA/comments/1wdk2he/orukeet_new_asr_model_based_on_parakeet/
+
+• Claude Code errors eased after this afternoon&apos;s partial outage
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeCode/comments/1wdizn4/claude_code_errors_eased_after_this_afternoons/
+
+• Fable 5.1 usage for the week suddenly at 60%, two days later drops back to 4% and 5-hour usage suddenly at 90% after 1hr of work. Usage overall off.
+  https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+  https://www.reddit.com/r/ClaudeCode/comments/1wdbbql/fable_51_usage_for_the_week_suddenly_at_60_two/
+
+• OpenAI: 1% of ChatGPT Work (mobile/web) turns are failing
+  https://status.openai.com
+
+• OpenAI: Elevated errors for GPT-5.6 Sol on the API
+  https://status.openai.com
+
+• OpenAI: Elevated errors for ChatGPT users in Europe
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Fri, 11 Sep 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260911-1830.mp3" length="2229438" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260911-1830</guid>
+      <itunes:duration>2:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 11, 2026</title>
       <description><![CDATA[Sources for this episode:
