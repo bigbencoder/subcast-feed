@@ -11,7 +11,42 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 12 Sep 2026 08:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:30:15 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 12, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• tencent/AuK-Flash · Hugging Face
+  https://huggingface.co/tencent/AuK-Flash
+  https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face/
+
+• Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36
+  https://huggingface.co/Agnes-AI/Agnes-3.0-Flash
+  https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36/
+
+• Codex for Linux (yes this exists now)
+  https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  https://www.reddit.com/r/codex/comments/1wec5ht/codex_for_linux_yes_this_exists_now/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• tencent/AuK-Flash · Hugging Face
+  https://huggingface.co/tencent/AuK-Flash
+  https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face/
+
+• Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36
+  https://huggingface.co/Agnes-AI/Agnes-3.0-Flash
+  https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36/
+
+• Codex for Linux (yes this exists now)
+  https://github.com/openai/codex/releases/tag/rust-v0.154.0
+  https://www.reddit.com/r/codex/comments/1wec5ht/codex_for_linux_yes_this_exists_now/]]></itunes:summary>
+      <pubDate>Sat, 12 Sep 2026 18:30:00 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260912-1830.mp3" length="1381399" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260912-1830</guid>
+      <itunes:duration>1:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 12, 2026</title>
       <description><![CDATA[Sources for this episode:
