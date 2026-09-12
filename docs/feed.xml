@@ -11,7 +11,58 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 11 Sep 2026 18:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:00:31 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 12, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Antirez Deepseek 4.1 flash gguf on HF
+  https://huggingface.co/antirez/deepseek-v4.1-flash-gguf
+  https://www.reddit.com/r/LocalLLaMA/comments/1we5jne/antirez_deepseek_41_flash_gguf_on_hf/
+
+• openai-models: `gpt-rosalind-research`
+  https://platform.openai.com/docs/models
+
+• openai-models: `gpt-rosalind`
+  https://platform.openai.com/docs/models
+
+• OpenAI: 1% of ChatGPT Work (mobile/web) turns are failing for existing threads
+  https://status.openai.com
+
+• Claude Code `v2.1.269`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.269
+
+• Appshots finally comes to the Windows Desktop App
+  https://developers.openai.com/codex/changelog
+  https://www.reddit.com/r/codex/comments/1wdtebd/appshots_finally_comes_to_the_windows_desktop_app/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Antirez Deepseek 4.1 flash gguf on HF
+  https://huggingface.co/antirez/deepseek-v4.1-flash-gguf
+  https://www.reddit.com/r/LocalLLaMA/comments/1we5jne/antirez_deepseek_41_flash_gguf_on_hf/
+
+• openai-models: `gpt-rosalind-research`
+  https://platform.openai.com/docs/models
+
+• openai-models: `gpt-rosalind`
+  https://platform.openai.com/docs/models
+
+• OpenAI: 1% of ChatGPT Work (mobile/web) turns are failing for existing threads
+  https://status.openai.com
+
+• Claude Code `v2.1.269`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.269
+
+• Appshots finally comes to the Windows Desktop App
+  https://developers.openai.com/codex/changelog
+  https://www.reddit.com/r/codex/comments/1wdtebd/appshots_finally_comes_to_the_windows_desktop_app/]]></itunes:summary>
+      <pubDate>Sat, 12 Sep 2026 08:00:01 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260912-0800.mp3" length="3455730" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260912-0800</guid>
+      <itunes:duration>3:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 11, 2026</title>
       <description><![CDATA[Sources for this episode:
