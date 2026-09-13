@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 13 Sep 2026 08:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 18:30:13 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 13, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• internlm/Intern-S2 · Hugging Face
+  https://huggingface.co/internlm/Intern-S2
+  https://www.reddit.com/r/LocalLLaMA/comments/1wf3wt2/internlminterns2_hugging_face/
+
+• OpenAI: Elevated errors for ChatGPT users in Europe
+  https://status.openai.com
+
+• OpenAI: Codex GitHub Review and Pull Request Failures
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• internlm/Intern-S2 · Hugging Face
+  https://huggingface.co/internlm/Intern-S2
+  https://www.reddit.com/r/LocalLLaMA/comments/1wf3wt2/internlminterns2_hugging_face/
+
+• OpenAI: Elevated errors for ChatGPT users in Europe
+  https://status.openai.com
+
+• OpenAI: Codex GitHub Review and Pull Request Failures
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Sun, 13 Sep 2026 18:30:01 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260913-1830.mp3" length="917046" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260913-1830</guid>
+      <itunes:duration>0:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 13, 2026</title>
       <description><![CDATA[Sources for this episode:
