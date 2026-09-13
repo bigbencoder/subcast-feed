@@ -11,7 +11,24 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 12 Sep 2026 18:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:00:21 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 13, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Code `v2.1.270`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.270]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Code `v2.1.270`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.270]]></itunes:summary>
+      <pubDate>Sun, 13 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260913-0800.mp3" length="1338349" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260913-0800</guid>
+      <itunes:duration>1:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 12, 2026</title>
       <description><![CDATA[Sources for this episode:
