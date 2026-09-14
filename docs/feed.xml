@@ -11,7 +11,62 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 14 Sep 2026 08:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:30:21 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 14, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• internlm/Atria-Dawn-Preview • HuggingFace
+  https://huggingface.co/internlm/Atria-Dawn-Preview
+  https://www.reddit.com/r/LocalLLaMA/comments/1wg40mz/internlmatriadawnpreview_huggingface/
+
+• UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh
+  https://huggingface.co/ukisai/Swift-Qwen3.8-27b
+  https://www.reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed/
+
+• Intern-S2-397B (multimodal, reasoning, coding, and scientific agent capabilities)
+  https://huggingface.co/internlm/Intern-S2-397B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wfzqwh/interns2397b_multimodal_reasoning_coding_and/
+
+• opencode `v1.18.31`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.31
+
+• OpenAI: Elevated errors affecting Work Mode in ChatGPT
+  https://status.openai.com
+
+• llama: add Maple 20B-A1B ternary MoE architecture (CPU) by AlexGabbia · Pull Request #27000 · ggml-org/llama.cpp
+  https://github.com/ggml-org/llama.cpp/pull/27000
+  https://www.reddit.com/r/LocalLLaMA/comments/1wg1o5b/llama_add_maple_20ba1b_ternary_moe_architecture/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• internlm/Atria-Dawn-Preview • HuggingFace
+  https://huggingface.co/internlm/Atria-Dawn-Preview
+  https://www.reddit.com/r/LocalLLaMA/comments/1wg40mz/internlmatriadawnpreview_huggingface/
+
+• UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh
+  https://huggingface.co/ukisai/Swift-Qwen3.8-27b
+  https://www.reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed/
+
+• Intern-S2-397B (multimodal, reasoning, coding, and scientific agent capabilities)
+  https://huggingface.co/internlm/Intern-S2-397B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wfzqwh/interns2397b_multimodal_reasoning_coding_and/
+
+• opencode `v1.18.31`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.31
+
+• OpenAI: Elevated errors affecting Work Mode in ChatGPT
+  https://status.openai.com
+
+• llama: add Maple 20B-A1B ternary MoE architecture (CPU) by AlexGabbia · Pull Request #27000 · ggml-org/llama.cpp
+  https://github.com/ggml-org/llama.cpp/pull/27000
+  https://www.reddit.com/r/LocalLLaMA/comments/1wg1o5b/llama_add_maple_20ba1b_ternary_moe_architecture/]]></itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260914-1830.mp3" length="1924746" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260914-1830</guid>
+      <itunes:duration>2:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 14, 2026</title>
       <description><![CDATA[Sources for this episode:
