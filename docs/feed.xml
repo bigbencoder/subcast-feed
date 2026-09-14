@@ -11,7 +11,32 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 13 Sep 2026 18:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 14, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Aurora1.0-150M Releases!
+  https://huggingface.co/AuroraAI-Research/Aurora1.0-150M
+  https://www.reddit.com/r/LocalLLaMA/comments/1wfg0sb/aurora10150m_releases/
+
+• OpenAI: Elevated error rates for Codex and ChatGPT Work
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Aurora1.0-150M Releases!
+  https://huggingface.co/AuroraAI-Research/Aurora1.0-150M
+  https://www.reddit.com/r/LocalLLaMA/comments/1wfg0sb/aurora10150m_releases/
+
+• OpenAI: Elevated error rates for Codex and ChatGPT Work
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260914-0800.mp3" length="1595812" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260914-0800</guid>
+      <itunes:duration>1:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 13, 2026</title>
       <description><![CDATA[Sources for this episode:
