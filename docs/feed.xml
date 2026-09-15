@@ -11,7 +11,54 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 14 Sep 2026 18:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:00:30 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 15, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans
+  https://status.openai.com
+
+• OpenAI: Elevated errors affecting Work Mode in ChatGPT
+  https://status.openai.com
+
+• Claude Code `v2.1.272`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.272
+
+• OpenAI: Degraded Performance affecting Agents API
+  https://status.openai.com
+
+• Claude Code `v2.1.271`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.271
+
+• Anthropic: Degraded functionality for Claude Cowork on Windows
+  https://status.anthropic.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans
+  https://status.openai.com
+
+• OpenAI: Elevated errors affecting Work Mode in ChatGPT
+  https://status.openai.com
+
+• Claude Code `v2.1.272`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.272
+
+• OpenAI: Degraded Performance affecting Agents API
+  https://status.openai.com
+
+• Claude Code `v2.1.271`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.271
+
+• Anthropic: Degraded functionality for Claude Cowork on Windows
+  https://status.anthropic.com]]></itunes:summary>
+      <pubDate>Tue, 15 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260915-0800.mp3" length="2685431" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260915-0800</guid>
+      <itunes:duration>2:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 14, 2026</title>
       <description><![CDATA[Sources for this episode:
