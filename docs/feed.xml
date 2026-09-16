@@ -11,7 +11,44 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 15 Sep 2026 18:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:00:37 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 16, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• mlabonne/LFM2.5-230M-Chess · Hugging Face
+  https://huggingface.co/mlabonne/LFM2.5-230M-Chess
+  https://www.reddit.com/r/LocalLLaMA/comments/1whngur/mlabonnelfm25230mchess_hugging_face/
+
+• OpenAI: Elevated errors with gpt-image-2.5-flare
+  https://status.openai.com
+
+• Claude Code `v2.1.273`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.273
+
+• Ollama `v0.34.1`
+  https://github.com/ollama/ollama/releases/tag/v0.34.1]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• mlabonne/LFM2.5-230M-Chess · Hugging Face
+  https://huggingface.co/mlabonne/LFM2.5-230M-Chess
+  https://www.reddit.com/r/LocalLLaMA/comments/1whngur/mlabonnelfm25230mchess_hugging_face/
+
+• OpenAI: Elevated errors with gpt-image-2.5-flare
+  https://status.openai.com
+
+• Claude Code `v2.1.273`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.273
+
+• Ollama `v0.34.1`
+  https://github.com/ollama/ollama/releases/tag/v0.34.1]]></itunes:summary>
+      <pubDate>Wed, 16 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260916-0800.mp3" length="3552279" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260916-0800</guid>
+      <itunes:duration>3:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 15, 2026</title>
       <description><![CDATA[Sources for this episode:
