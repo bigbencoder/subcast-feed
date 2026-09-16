@@ -11,7 +11,32 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 16 Sep 2026 08:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:30:14 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 16, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Qwen3.8 Max (0902) scores 45 on the Artificial Analysis Intelligence Index, up 5 points in a month and back on top of China&apos;s leaderboard, nosing out GLM-5.3 (44.9) and Kimi K3 (43.8)
+  https://artificialanalysis.ai/models/qwen3-8-max
+  https://www.reddit.com/r/LocalLLaMA/comments/1wi0dme/qwen38_max_0902_scores_45_on_the_artificial/
+
+• Anthropic: Issues with Google Play subscriptions
+  https://status.anthropic.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Qwen3.8 Max (0902) scores 45 on the Artificial Analysis Intelligence Index, up 5 points in a month and back on top of China&apos;s leaderboard, nosing out GLM-5.3 (44.9) and Kimi K3 (43.8)
+  https://artificialanalysis.ai/models/qwen3-8-max
+  https://www.reddit.com/r/LocalLLaMA/comments/1wi0dme/qwen38_max_0902_scores_45_on_the_artificial/
+
+• Anthropic: Issues with Google Play subscriptions
+  https://status.anthropic.com]]></itunes:summary>
+      <pubDate>Wed, 16 Sep 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260916-1830.mp3" length="737742" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260916-1830</guid>
+      <itunes:duration>0:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 16, 2026</title>
       <description><![CDATA[Sources for this episode:
