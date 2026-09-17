@@ -11,7 +11,46 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 16 Sep 2026 18:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:00:31 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 17, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• ZDTaichu5.0-9B
+  https://github.com/Taichu-AI/ZDTaichu5.0-9B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wimjnv/zdtaichu509b/
+
+• XingChen-AGI/Xing4.0-29B-A4B MoE
+  https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe/
+
+• Claude Code `v2.1.274`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.274
+
+• OpenAI: Elevated errors in ChatGPT Work
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• ZDTaichu5.0-9B
+  https://github.com/Taichu-AI/ZDTaichu5.0-9B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wimjnv/zdtaichu509b/
+
+• XingChen-AGI/Xing4.0-29B-A4B MoE
+  https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe/
+
+• Claude Code `v2.1.274`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.274
+
+• OpenAI: Elevated errors in ChatGPT Work
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Thu, 17 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260917-0800.mp3" length="3055325" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260917-0800</guid>
+      <itunes:duration>3:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 16, 2026</title>
       <description><![CDATA[Sources for this episode:
