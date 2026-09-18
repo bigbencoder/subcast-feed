@@ -11,7 +11,88 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 17 Sep 2026 08:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:00:49 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 18, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Ternary Bonsai 2 27B
+  https://prismml.com/news/bonsai-2-27b
+  https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b/
+
+• FreedomIntelligence/HuatuoGPT-3-9B · Hugging Face
+  https://huggingface.co/FreedomIntelligence/HuatuoGPT-3-9B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wiyu3e/freedomintelligencehuatuogpt39b_hugging_face/
+
+• WeVisDoc from tencent
+  https://huggingface.co/tencent
+  https://www.reddit.com/r/LocalLLaMA/comments/1wix0pe/wevisdoc_from_tencent/
+
+• Ternary Bonsai 2 (27B) just released on Hugging Face. At &lt;6GB in size, it can even run locally in-browser on WebGPU.
+  https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf
+  https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/
+
+• IFM/K2-Horizon-7B-Uno · Hugging Face - 5200tps with no quality loss
+  https://huggingface.co/IFM/K2-Horizon-7B-Uno
+  https://www.reddit.com/r/LocalLLaMA/comments/1wj2hsm/ifmk2horizon7buno_hugging_face_5200tps_with_no/
+
+• Claude Code `v2.1.276`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.276
+
+• Ollama `v0.34.2`
+  https://github.com/ollama/ollama/releases/tag/v0.34.2
+
+• Codex `rust-v0.155.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.155.0
+
+• Claude Code `v2.1.275`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.275
+
+• OpenAI: We are seeing elevated error rates across API models
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Ternary Bonsai 2 27B
+  https://prismml.com/news/bonsai-2-27b
+  https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b/
+
+• FreedomIntelligence/HuatuoGPT-3-9B · Hugging Face
+  https://huggingface.co/FreedomIntelligence/HuatuoGPT-3-9B
+  https://www.reddit.com/r/LocalLLaMA/comments/1wiyu3e/freedomintelligencehuatuogpt39b_hugging_face/
+
+• WeVisDoc from tencent
+  https://huggingface.co/tencent
+  https://www.reddit.com/r/LocalLLaMA/comments/1wix0pe/wevisdoc_from_tencent/
+
+• Ternary Bonsai 2 (27B) just released on Hugging Face. At &lt;6GB in size, it can even run locally in-browser on WebGPU.
+  https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf
+  https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/
+
+• IFM/K2-Horizon-7B-Uno · Hugging Face - 5200tps with no quality loss
+  https://huggingface.co/IFM/K2-Horizon-7B-Uno
+  https://www.reddit.com/r/LocalLLaMA/comments/1wj2hsm/ifmk2horizon7buno_hugging_face_5200tps_with_no/
+
+• Claude Code `v2.1.276`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.276
+
+• Ollama `v0.34.2`
+  https://github.com/ollama/ollama/releases/tag/v0.34.2
+
+• Codex `rust-v0.155.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.155.0
+
+• Claude Code `v2.1.275`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.275
+
+• OpenAI: We are seeing elevated error rates across API models
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Fri, 18 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260918-0800.mp3" length="4628524" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260918-0800</guid>
+      <itunes:duration>4:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 17, 2026</title>
       <description><![CDATA[Sources for this episode:
