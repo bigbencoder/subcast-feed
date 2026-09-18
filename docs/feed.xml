@@ -11,7 +11,58 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 18 Sep 2026 08:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:30:17 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 18, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• MiniMax Code is now open source. Maybe M3.1 is the next thing to watch.
+  https://github.com/MiniMax-AI/minimax-code
+  https://www.reddit.com/r/LocalLLaMA/comments/1wjujri/minimax_code_is_now_open_source_maybe_m31_is_the/
+
+• inclusionAI/Realtime-Venus · Hugging Face
+  https://huggingface.co/inclusionAI/Realtime-Venus
+  https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/
+
+• OpenAI’s current documentation still says new Pro 20x subscriptions and upgrades from Pro 5x are paused
+  https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers
+  https://www.reddit.com/r/codex/comments/1wjr07r/openais_current_documentation_still_says_new_pro/
+
+• MiniMax Code goes open source
+  https://github.com/MiniMax-AI/minimax-code
+  https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/
+
+• LlamAmpere v0.3.1 updated with support for EXL + ternary bonsai, with custom kernels for faster MTP
+  https://github.com/JakeATX/llamAmpere
+  https://www.reddit.com/r/LocalLLaMA/comments/1wjuohn/llamampere_v031_updated_with_support_for_exl/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• MiniMax Code is now open source. Maybe M3.1 is the next thing to watch.
+  https://github.com/MiniMax-AI/minimax-code
+  https://www.reddit.com/r/LocalLLaMA/comments/1wjujri/minimax_code_is_now_open_source_maybe_m31_is_the/
+
+• inclusionAI/Realtime-Venus · Hugging Face
+  https://huggingface.co/inclusionAI/Realtime-Venus
+  https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/
+
+• OpenAI’s current documentation still says new Pro 20x subscriptions and upgrades from Pro 5x are paused
+  https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers
+  https://www.reddit.com/r/codex/comments/1wjr07r/openais_current_documentation_still_says_new_pro/
+
+• MiniMax Code goes open source
+  https://github.com/MiniMax-AI/minimax-code
+  https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/
+
+• LlamAmpere v0.3.1 updated with support for EXL + ternary bonsai, with custom kernels for faster MTP
+  https://github.com/JakeATX/llamAmpere
+  https://www.reddit.com/r/LocalLLaMA/comments/1wjuohn/llamampere_v031_updated_with_support_for_exl/]]></itunes:summary>
+      <pubDate>Fri, 18 Sep 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260918-1830.mp3" length="1484217" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260918-1830</guid>
+      <itunes:duration>1:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 18, 2026</title>
       <description><![CDATA[Sources for this episode:
