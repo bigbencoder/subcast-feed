@@ -11,7 +11,72 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 18 Sep 2026 18:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:00:41 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 19, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions
+  https://github.com/alibaba-damo-academy/damo-radar
+  https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/
+
+• OpenAI: Overbilling for OpenAI-hosted containers in the Agent API
+  https://status.openai.com
+
+• Claude Code `v2.1.278`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.278
+
+• OpenAI: Delayed support responses
+  https://status.openai.com
+
+• Codex `rust-v0.155.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.155.1
+
+• Claude Code `v2.1.277`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.277
+
+• AGENTS.md now supported in Claude Code
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1wk2q8v/agentsmd_now_supported_in_claude_code/
+
+• Claude Code is getting native AGENTS.md support!
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1wjxwoj/claude_code_is_getting_native_agentsmd_support/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions
+  https://github.com/alibaba-damo-academy/damo-radar
+  https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/
+
+• OpenAI: Overbilling for OpenAI-hosted containers in the Agent API
+  https://status.openai.com
+
+• Claude Code `v2.1.278`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.278
+
+• OpenAI: Delayed support responses
+  https://status.openai.com
+
+• Codex `rust-v0.155.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.155.1
+
+• Claude Code `v2.1.277`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.277
+
+• AGENTS.md now supported in Claude Code
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1wk2q8v/agentsmd_now_supported_in_claude_code/
+
+• Claude Code is getting native AGENTS.md support!
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1wjxwoj/claude_code_is_getting_native_agentsmd_support/]]></itunes:summary>
+      <pubDate>Sat, 19 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260919-0800.mp3" length="3813085" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260919-0800</guid>
+      <itunes:duration>3:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 18, 2026</title>
       <description><![CDATA[Sources for this episode:
