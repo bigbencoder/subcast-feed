@@ -11,7 +11,42 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 19 Sep 2026 08:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 18:30:20 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 19, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Von: Open-source 395M &quot;System One&quot; model
+  https://github.com/wfzyx/von
+  https://www.reddit.com/r/LocalLLaMA/comments/1wkpxn6/von_opensource_395m_system_one_model/
+
+• Claude Code sub-agents have a 5m prompt cache. Long commands can burn your 5-hour window.
+  https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+  https://www.reddit.com/r/ClaudeCode/comments/1wkpm2i/claude_code_subagents_have_a_5m_prompt_cache_long/
+
+• References to MiniMax M3.1 appear in test files in a recent commit to the MiniMax-Code Repo
+  https://github.com/MiniMax-AI/minimax-code/blob/main/packages/local-runtime-v2/src/service/model-system/catalog/model-selection.test.ts
+  https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Von: Open-source 395M &quot;System One&quot; model
+  https://github.com/wfzyx/von
+  https://www.reddit.com/r/LocalLLaMA/comments/1wkpxn6/von_opensource_395m_system_one_model/
+
+• Claude Code sub-agents have a 5m prompt cache. Long commands can burn your 5-hour window.
+  https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+  https://www.reddit.com/r/ClaudeCode/comments/1wkpm2i/claude_code_subagents_have_a_5m_prompt_cache_long/
+
+• References to MiniMax M3.1 appear in test files in a recent commit to the MiniMax-Code Repo
+  https://github.com/MiniMax-AI/minimax-code/blob/main/packages/local-runtime-v2/src/service/model-system/catalog/model-selection.test.ts
+  https://www.reddit.com/r/LocalLLaMA/comments/1wkjm9f/references_to_minimax_m31_appear_in_test_files_in/]]></itunes:summary>
+      <pubDate>Sat, 19 Sep 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260919-1830.mp3" length="1760906" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260919-1830</guid>
+      <itunes:duration>1:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 19, 2026</title>
       <description><![CDATA[Sources for this episode:
