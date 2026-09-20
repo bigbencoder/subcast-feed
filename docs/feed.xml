@@ -11,7 +11,50 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 19 Sep 2026 18:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:30:19 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 20, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Qwen-Image-2.1 released!
+  https://huggingface.co/Qwen/Qwen-Image-2.1
+  https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/
+
+• rene98c/Step-5-Preview-BF16 • HuggingFace (Fork)
+  https://huggingface.co/rene98c/Step-5-Preview-BF16
+  https://www.reddit.com/r/LocalLLaMA/comments/1wleycb/rene98cstep5previewbf16_huggingface_fork/
+
+• focus-llama: a llama.cpp fork implementing Declarative Attention (arXiv:2609.02737)
+  https://github.com/edwardyoon/focus-llama
+  https://www.reddit.com/r/LocalLLaMA/comments/1wli0wz/focusllama_a_llamacpp_fork_implementing/
+
+• claude code supports AGENTS.md now, but i think memory is still the bigger problem
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1wlb9x9/claude_code_supports_agentsmd_now_but_i_think/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Qwen-Image-2.1 released!
+  https://huggingface.co/Qwen/Qwen-Image-2.1
+  https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/
+
+• rene98c/Step-5-Preview-BF16 • HuggingFace (Fork)
+  https://huggingface.co/rene98c/Step-5-Preview-BF16
+  https://www.reddit.com/r/LocalLLaMA/comments/1wleycb/rene98cstep5previewbf16_huggingface_fork/
+
+• focus-llama: a llama.cpp fork implementing Declarative Attention (arXiv:2609.02737)
+  https://github.com/edwardyoon/focus-llama
+  https://www.reddit.com/r/LocalLLaMA/comments/1wli0wz/focusllama_a_llamacpp_fork_implementing/
+
+• claude code supports AGENTS.md now, but i think memory is still the bigger problem
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1wlb9x9/claude_code_supports_agentsmd_now_but_i_think/]]></itunes:summary>
+      <pubDate>Sun, 20 Sep 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260920-1830.mp3" length="1616710" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260920-1830</guid>
+      <itunes:duration>1:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 19, 2026</title>
       <description><![CDATA[Sources for this episode:
