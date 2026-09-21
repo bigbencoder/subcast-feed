@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 21 Sep 2026 08:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:30:15 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 21, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Introducing Grok 4.7
+  https://docs.x.ai/docs/models
+  https://www.reddit.com/r/singularity/comments/1wmgudm/introducing_grok_47/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Introducing Grok 4.7
+  https://docs.x.ai/docs/models
+  https://www.reddit.com/r/singularity/comments/1wmgudm/introducing_grok_47/]]></itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 18:30:03 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260921-1830.mp3" length="801689" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260921-1830</guid>
+      <itunes:duration>0:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 21, 2026</title>
       <description><![CDATA[Sources for this episode:
