@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 20 Sep 2026 18:30:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:00:28 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 21, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• PSA: Codex cache only lasts max 30 minutes
+  https://developers.openai.com/api/docs/guides/prompt-caching
+  https://www.reddit.com/r/codex/comments/1wlqlz6/psa_codex_cache_only_lasts_max_30_minutes/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• PSA: Codex cache only lasts max 30 minutes
+  https://developers.openai.com/api/docs/guides/prompt-caching
+  https://www.reddit.com/r/codex/comments/1wlqlz6/psa_codex_cache_only_lasts_max_30_minutes/]]></itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260921-0800.mp3" length="2425461" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260921-0800</guid>
+      <itunes:duration>2:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 20, 2026</title>
       <description><![CDATA[Sources for this episode:
