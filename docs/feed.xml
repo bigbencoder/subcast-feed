@@ -11,7 +11,54 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 21 Sep 2026 18:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 22, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for multiple models on Sep 22, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1wmv3wh/discussion_hub_for_new_claude_incident_elevated/
+
+• Mimo v 2.6 pro and flash released
+  https://mimo.mi.com/docs/en-US/updates/model
+  https://www.reddit.com/r/singularity/comments/1wmoxgz/mimo_v_26_pro_and_flash_released/
+
+• MiMo v2.6 pro
+  https://mimo.mi.com/docs/en-US/updates/model
+  https://www.reddit.com/r/singularity/comments/1wmpq49/mimo_v26_pro/
+
+• Anthropic: Elevated errors for multiple models
+  https://status.anthropic.com
+
+• opencode `v1.18.32`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.32]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for multiple models on Sep 22, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1wmv3wh/discussion_hub_for_new_claude_incident_elevated/
+
+• Mimo v 2.6 pro and flash released
+  https://mimo.mi.com/docs/en-US/updates/model
+  https://www.reddit.com/r/singularity/comments/1wmoxgz/mimo_v_26_pro_and_flash_released/
+
+• MiMo v2.6 pro
+  https://mimo.mi.com/docs/en-US/updates/model
+  https://www.reddit.com/r/singularity/comments/1wmpq49/mimo_v26_pro/
+
+• Anthropic: Elevated errors for multiple models
+  https://status.anthropic.com
+
+• opencode `v1.18.32`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.32]]></itunes:summary>
+      <pubDate>Tue, 22 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260922-0800.mp3" length="2246574" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260922-0800</guid>
+      <itunes:duration>2:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 21, 2026</title>
       <description><![CDATA[Sources for this episode:
