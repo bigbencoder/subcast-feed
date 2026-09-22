@@ -11,7 +11,76 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 22 Sep 2026 08:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:30:19 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 22, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-6-luna`
+  https://platform.openai.com/docs/models
+
+• openai-models: `gpt-6-sol`
+  https://platform.openai.com/docs/models
+
+• GPT 6 Sol &amp; 6 Luna is live on the model selection
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wngpg6/gpt_6_sol_6_luna_is_live_on_the_model_selection/
+
+• GPT 6 dropped
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wnggya/gpt_6_dropped/
+
+• Opus 5.5 is out &amp; it&apos;s better than Fable 1.1 (as per benchmarks)
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1wnf5y4/opus_55_is_out_its_better_than_fable_11_as_per/
+
+• Opus 5.5 is LIVE!
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1wnfb66/opus_55_is_live/
+
+• anthropic-models: `claude-opus-5-5`
+  https://docs.anthropic.com/en/docs/about-claude/models/overview
+
+• Claude Opus 5.5 is available today
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wnegrk/claude_opus_55_is_available_today/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-6-luna`
+  https://platform.openai.com/docs/models
+
+• openai-models: `gpt-6-sol`
+  https://platform.openai.com/docs/models
+
+• GPT 6 Sol &amp; 6 Luna is live on the model selection
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wngpg6/gpt_6_sol_6_luna_is_live_on_the_model_selection/
+
+• GPT 6 dropped
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wnggya/gpt_6_dropped/
+
+• Opus 5.5 is out &amp; it&apos;s better than Fable 1.1 (as per benchmarks)
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1wnf5y4/opus_55_is_out_its_better_than_fable_11_as_per/
+
+• Opus 5.5 is LIVE!
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1wnfb66/opus_55_is_live/
+
+• anthropic-models: `claude-opus-5-5`
+  https://docs.anthropic.com/en/docs/about-claude/models/overview
+
+• Claude Opus 5.5 is available today
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wnegrk/claude_opus_55_is_available_today/]]></itunes:summary>
+      <pubDate>Tue, 22 Sep 2026 18:30:04 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260922-1830.mp3" length="1726215" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260922-1830</guid>
+      <itunes:duration>1:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 22, 2026</title>
       <description><![CDATA[Sources for this episode:
