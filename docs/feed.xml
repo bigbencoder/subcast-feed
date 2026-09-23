@@ -11,7 +11,32 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 23 Sep 2026 08:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:30:15 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 23, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Updated version of Humanity’s Last Exam: HLE-Diamond
+  https://agi.safe.ai/
+  https://www.reddit.com/r/singularity/comments/1wobyjp/updated_version_of_humanitys_last_exam_hlediamond/
+
+• OpenAI: Elevated Error Rates for ChatGPT across Plus and Pro plans.
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Updated version of Humanity’s Last Exam: HLE-Diamond
+  https://agi.safe.ai/
+  https://www.reddit.com/r/singularity/comments/1wobyjp/updated_version_of_humanitys_last_exam_hlediamond/
+
+• OpenAI: Elevated Error Rates for ChatGPT across Plus and Pro plans.
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Wed, 23 Sep 2026 18:30:04 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260923-1830.mp3" length="988517" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260923-1830</guid>
+      <itunes:duration>1:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 23, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1718,67 +1743,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260901-1852.mp3" length="1314525" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260901-1852</guid>
       <itunes:duration>1:22</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 1, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• New Model: Spark-X2.5-4B, Spark-X2.5-1.7B
-  https://huggingface.co/XHToken/Spark-X2.5-4B
-  https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/
-
-• Deepseek v4 Flash Vision is out...
-  https://api-docs.deepseek.com/news/
-  https://www.reddit.com/r/LocalLLaMA/comments/1w3vhv9/deepseek_v4_flash_vision_is_out/
-
-• Anthropic: Degraded performance on platform.claude.com and Claude for Microsoft Office 365
-  https://stspg.io/4rf459q4pjc3
-
-• Codex `rust-v0.152.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.152.0
-
-• OpenAI: Elevated errors in ChatGPT conversations for Free and Go plans
-  https://status.openai.com
-
-• Kiro Crew (Amazon&apos;s coding frontend) is open source
-  https://github.com/kirodotdev/KiroCrew
-  https://www.reddit.com/r/LocalLLaMA/comments/1w4d3th/kiro_crew_amazons_coding_frontend_is_open_source/
-
-• ExLlamav3 Recent Updates : CPU offload, GLM-5.3-FLASH, Qwen3.8-Flash, SC Quants ++
-  https://github.com/turboderp-org/exllamav3/releases
-  https://www.reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• New Model: Spark-X2.5-4B, Spark-X2.5-1.7B
-  https://huggingface.co/XHToken/Spark-X2.5-4B
-  https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/
-
-• Deepseek v4 Flash Vision is out...
-  https://api-docs.deepseek.com/news/
-  https://www.reddit.com/r/LocalLLaMA/comments/1w3vhv9/deepseek_v4_flash_vision_is_out/
-
-• Anthropic: Degraded performance on platform.claude.com and Claude for Microsoft Office 365
-  https://stspg.io/4rf459q4pjc3
-
-• Codex `rust-v0.152.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.152.0
-
-• OpenAI: Elevated errors in ChatGPT conversations for Free and Go plans
-  https://status.openai.com
-
-• Kiro Crew (Amazon&apos;s coding frontend) is open source
-  https://github.com/kirodotdev/KiroCrew
-  https://www.reddit.com/r/LocalLLaMA/comments/1w4d3th/kiro_crew_amazons_coding_frontend_is_open_source/
-
-• ExLlamav3 Recent Updates : CPU offload, GLM-5.3-FLASH, Qwen3.8-Flash, SC Quants ++
-  https://github.com/turboderp-org/exllamav3/releases
-  https://www.reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash/]]></itunes:summary>
-      <pubDate>Tue, 01 Sep 2026 18:02:19 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260901-1802.mp3" length="3392618" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260901-1802</guid>
-      <itunes:duration>3:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
