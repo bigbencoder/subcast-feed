@@ -11,7 +11,34 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 24 Sep 2026 08:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 24, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Upgraded to Max. The free $100 cloud credits also got upgraded to $250!
+  https://github.com/anthropics/claude-code/issues/96687
+  https://www.reddit.com/r/ClaudeAI/comments/1wp4pe7/upgraded_to_max_the_free_100_cloud_credits_also/
+
+• Just found this in Claude Docs. &quot;Agent Teams&quot;
+  https://code.claude.com/docs/en/agent-teams
+  https://www.reddit.com/r/ClaudeCode/comments/1wp5z44/just_found_this_in_claude_docs_agent_teams/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Upgraded to Max. The free $100 cloud credits also got upgraded to $250!
+  https://github.com/anthropics/claude-code/issues/96687
+  https://www.reddit.com/r/ClaudeAI/comments/1wp4pe7/upgraded_to_max_the_free_100_cloud_credits_also/
+
+• Just found this in Claude Docs. &quot;Agent Teams&quot;
+  https://code.claude.com/docs/en/agent-teams
+  https://www.reddit.com/r/ClaudeCode/comments/1wp5z44/just_found_this_in_claude_docs_agent_teams/]]></itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260924-1830.mp3" length="1478783" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260924-1830</guid>
+      <itunes:duration>1:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 24, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1726,55 +1753,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260902-1830.mp3" length="462306" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260902-1830</guid>
       <itunes:duration>0:29</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 2, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Kaitchup posted Qwen3.8 27B Benchmarks for quants from Q4 to Q1
-  https://kaitchup.substack.com/archive
-  https://www.reddit.com/r/LocalLLaMA/comments/1w4mevo/kaitchup_posted_qwen38_27b_benchmarks_for_quants/
-
-• Anthropic: Delays in credit purchases
-  https://status.anthropic.com
-
-• Codex `rust-v0.152.1`
-  https://github.com/openai/codex/releases/tag/rust-v0.152.1
-
-• Claude Code `v2.1.258`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.258
-
-• opencode `v1.18.26`
-  https://github.com/anomalyco/opencode/releases/tag/v1.18.26
-
-• OpenAI: Elevated latency in the Responses API
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Kaitchup posted Qwen3.8 27B Benchmarks for quants from Q4 to Q1
-  https://kaitchup.substack.com/archive
-  https://www.reddit.com/r/LocalLLaMA/comments/1w4mevo/kaitchup_posted_qwen38_27b_benchmarks_for_quants/
-
-• Anthropic: Delays in credit purchases
-  https://status.anthropic.com
-
-• Codex `rust-v0.152.1`
-  https://github.com/openai/codex/releases/tag/rust-v0.152.1
-
-• Claude Code `v2.1.258`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.258
-
-• opencode `v1.18.26`
-  https://github.com/anomalyco/opencode/releases/tag/v1.18.26
-
-• OpenAI: Elevated latency in the Responses API
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Wed, 02 Sep 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260902-0800.mp3" length="3350404" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260902-0800</guid>
-      <itunes:duration>3:29</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
