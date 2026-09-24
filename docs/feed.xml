@@ -11,7 +11,68 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 23 Sep 2026 18:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:00:42 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 24, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Flux 3 Action: open weights 7B World Action Model
+  https://huggingface.co/black-forest-labs/flux-3-action-base
+  https://www.reddit.com/r/singularity/comments/1wof9q2/flux_3_action_open_weights_7b_world_action_model/
+
+• Opus 5.5 came out this week, so I ran a small experiment against Opus 5. I gave both models the same three normal developer tasks:
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wodzzd/opus_55_came_out_this_week_so_i_ran_a_small/
+
+• Ollama `v0.34.4`
+  https://github.com/ollama/ollama/releases/tag/v0.34.4
+
+• OpenAI: Mobile users unable to see Work Mode and the Model Picker
+  https://status.openai.com
+
+• Claude Code `v2.1.281`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.281
+
+• Muse for Mac now has Computer Use
+  https://x.com/Muse/status/2100714397337264444
+  https://www.reddit.com/r/singularity/comments/1won4j0/muse_for_mac_now_has_computer_use/
+
+• Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed. Existing subscribers get a one-time credit to try them: $100 on Pro, $250 on Max.
+  https://x.com/ClaudeDevs/status/2102871550974427462
+  https://www.reddit.com/r/ClaudeCode/comments/1wojd4c/cloud_sessions_are_officially_available_and_out/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Flux 3 Action: open weights 7B World Action Model
+  https://huggingface.co/black-forest-labs/flux-3-action-base
+  https://www.reddit.com/r/singularity/comments/1wof9q2/flux_3_action_open_weights_7b_world_action_model/
+
+• Opus 5.5 came out this week, so I ran a small experiment against Opus 5. I gave both models the same three normal developer tasks:
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wodzzd/opus_55_came_out_this_week_so_i_ran_a_small/
+
+• Ollama `v0.34.4`
+  https://github.com/ollama/ollama/releases/tag/v0.34.4
+
+• OpenAI: Mobile users unable to see Work Mode and the Model Picker
+  https://status.openai.com
+
+• Claude Code `v2.1.281`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.281
+
+• Muse for Mac now has Computer Use
+  https://x.com/Muse/status/2100714397337264444
+  https://www.reddit.com/r/singularity/comments/1won4j0/muse_for_mac_now_has_computer_use/
+
+• Cloud sessions are officially available and out of research preview! They let you keep Claude Code working, even when your laptop is closed. Existing subscribers get a one-time credit to try them: $100 on Pro, $250 on Max.
+  https://x.com/ClaudeDevs/status/2102871550974427462
+  https://www.reddit.com/r/ClaudeCode/comments/1wojd4c/cloud_sessions_are_officially_available_and_out/]]></itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260924-0800.mp3" length="3890826" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260924-0800</guid>
+      <itunes:duration>4:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 23, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1714,35 +1775,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260902-0800.mp3" length="3350404" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260902-0800</guid>
       <itunes:duration>3:29</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 1, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• anthropic-models: `claude-fable-5-1`
-  https://docs.anthropic.com/en/docs/about-claude/models/overview
-
-• Anthropic: Degraded performance on platform.claude.com and Claude for Microsoft Office 365
-  https://status.anthropic.com
-
-• Claude Code `v2.1.257`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.257]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• anthropic-models: `claude-fable-5-1`
-  https://docs.anthropic.com/en/docs/about-claude/models/overview
-
-• Anthropic: Degraded performance on platform.claude.com and Claude for Microsoft Office 365
-  https://status.anthropic.com
-
-• Claude Code `v2.1.257`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.257]]></itunes:summary>
-      <pubDate>Tue, 01 Sep 2026 18:52:31 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260901-1852.mp3" length="1314525" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260901-1852</guid>
-      <itunes:duration>1:22</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
