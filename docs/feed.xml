@@ -11,7 +11,36 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 24 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 08:00:33 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 25, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Codex `rust-v0.157.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.157.0
+
+• OpenAI: Elevated Error Rates on GPT-6 Astra Pro
+  https://status.openai.com
+
+• Claude Code `v2.1.282`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.282]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Codex `rust-v0.157.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.157.0
+
+• OpenAI: Elevated Error Rates on GPT-6 Astra Pro
+  https://status.openai.com
+
+• Claude Code `v2.1.282`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.282]]></itunes:summary>
+      <pubDate>Fri, 25 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260925-0800.mp3" length="3150202" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260925-0800</guid>
+      <itunes:duration>3:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 24, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1736,23 +1765,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260903-0800.mp3" length="3918829" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260903-0800</guid>
       <itunes:duration>4:05</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 2, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• OpenAI: Elevated errors creating new accounts
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• OpenAI: Elevated errors creating new accounts
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Wed, 02 Sep 2026 18:30:00 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260902-1830.mp3" length="462306" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260902-1830</guid>
-      <itunes:duration>0:29</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
