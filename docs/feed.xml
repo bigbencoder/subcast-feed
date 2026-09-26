@@ -11,7 +11,44 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 25 Sep 2026 18:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:00:34 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 26, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Login via API key will unblock access at this time
+  https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39
+  https://www.reddit.com/r/codex/comments/1wqb71f/login_via_api_key_will_unblock_access_at_this_time/
+
+• Codex `rust-v0.157.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.157.1
+
+• OpenAI: Issues with Codex
+  https://status.openai.com
+
+• Claude Code `v2.1.283`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.283]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Login via API key will unblock access at this time
+  https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39
+  https://www.reddit.com/r/codex/comments/1wqb71f/login_via_api_key_will_unblock_access_at_this_time/
+
+• Codex `rust-v0.157.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.157.1
+
+• OpenAI: Issues with Codex
+  https://status.openai.com
+
+• Claude Code `v2.1.283`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.283]]></itunes:summary>
+      <pubDate>Sat, 26 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260926-0800.mp3" length="3242571" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260926-0800</guid>
+      <itunes:duration>3:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 25, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1668,81 +1705,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260904-0800.mp3" length="4792782" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260904-0800</guid>
       <itunes:duration>4:59</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 3, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• [RELEASE] - SupraGDN-5M - a tiny GatedDeltaNet model competing with other community while models trained on MUCH less data!
-  https://huggingface.co/SupraLabs/SupraGDN-5M
-  https://www.reddit.com/r/LocalLLaMA/comments/1w698jx/release_supragdn5m_a_tiny_gateddeltanet_model/
-
-• AntLing open sourced Ling-3.0-flash-Fin, a finance-enhanced model for real-world workflows
-  https://huggingface.co/inclusionAI/Ling-3.0-flash-Fin
-  https://www.reddit.com/r/LocalLLaMA/comments/1w6bb0b/antling_open_sourced_ling30flashfin_a/
-
-• Chatgpt &amp; Codex are 404
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w69pcs/chatgpt_codex_are_404/
-
-• Codex Bug : unexpected status 404 Not Found: Unknown error, url: https://chatgpt.com/backend-api/codex/responses, cf-ray: a355a8020ea92539-IAD
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w6a352/codex_bug_unexpected_status_404_not_found_unknown/
-
-• So codex is down for everyone seems like Astra is deploying.
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w69nc9/so_codex_is_down_for_everyone_seems_like_astra_is/
-
-• Both Chatgpt and Cursor are down
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w69nk0/both_chatgpt_and_cursor_are_down/
-
-• Anyone else? -  unexpected status 404 Not Found: Unknown error, url: https://chatgpt.com/backend-api/codex/responses, cf-ray:
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w69oob/anyone_else_unexpected_status_404_not_found/
-
-• OMG: They&apos;re BOTH DOWN..................
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeCode/comments/1w69xct/omg_theyre_both_down/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• [RELEASE] - SupraGDN-5M - a tiny GatedDeltaNet model competing with other community while models trained on MUCH less data!
-  https://huggingface.co/SupraLabs/SupraGDN-5M
-  https://www.reddit.com/r/LocalLLaMA/comments/1w698jx/release_supragdn5m_a_tiny_gateddeltanet_model/
-
-• AntLing open sourced Ling-3.0-flash-Fin, a finance-enhanced model for real-world workflows
-  https://huggingface.co/inclusionAI/Ling-3.0-flash-Fin
-  https://www.reddit.com/r/LocalLLaMA/comments/1w6bb0b/antling_open_sourced_ling30flashfin_a/
-
-• Chatgpt &amp; Codex are 404
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w69pcs/chatgpt_codex_are_404/
-
-• Codex Bug : unexpected status 404 Not Found: Unknown error, url: https://chatgpt.com/backend-api/codex/responses, cf-ray: a355a8020ea92539-IAD
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w6a352/codex_bug_unexpected_status_404_not_found_unknown/
-
-• So codex is down for everyone seems like Astra is deploying.
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w69nc9/so_codex_is_down_for_everyone_seems_like_astra_is/
-
-• Both Chatgpt and Cursor are down
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w69nk0/both_chatgpt_and_cursor_are_down/
-
-• Anyone else? -  unexpected status 404 Not Found: Unknown error, url: https://chatgpt.com/backend-api/codex/responses, cf-ray:
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w69oob/anyone_else_unexpected_status_404_not_found/
-
-• OMG: They&apos;re BOTH DOWN..................
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeCode/comments/1w69xct/omg_theyre_both_down/]]></itunes:summary>
-      <pubDate>Thu, 03 Sep 2026 18:30:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260903-1830.mp3" length="2108230" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260903-1830</guid>
-      <itunes:duration>2:12</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
