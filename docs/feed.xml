@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 26 Sep 2026 08:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:30:21 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 26, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Jev already has an open-weight competitor - Deem 9b
+  https://huggingface.co/LibertAIDAI/deem-9b-v1
+  https://www.reddit.com/r/singularity/comments/1wqtjd4/jev_already_has_an_openweight_competitor_deem_9b/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Jev already has an open-weight competitor - Deem 9b
+  https://huggingface.co/LibertAIDAI/deem-9b-v1
+  https://www.reddit.com/r/singularity/comments/1wqtjd4/jev_already_has_an_openweight_competitor_deem_9b/]]></itunes:summary>
+      <pubDate>Sat, 26 Sep 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260926-1830.mp3" length="1102202" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260926-1830</guid>
+      <itunes:duration>1:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 26, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1626,85 +1645,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260904-1830.mp3" length="1214633" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260904-1830</guid>
       <itunes:duration>1:16</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 4, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• ChatGPT down for the APAC region!
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w6x2h9/chatgpt_down_for_the_apac_region/
-
-• Google released TimesFM-3, a 330M-parameter time series foundation model with native multivariate forecasting (non-commercial license)
-  https://github.com/google-research/timesfm/
-  https://www.reddit.com/r/LocalLLaMA/comments/1w6hlpt/google_released_timesfm3_a_330mparameter_time/
-
-• Max X5, busted the 5-hour limit in about 4 minutes on one session alone
-  https://www.reddit.com/r/ClaudeCode/comments/1w6ift5/max_x5_busted_the_5hour_limit_in_about_4_minutes/
-
-• Auto mode prompting for cat, grep, rg since 2.1.257/2.1.259: cause and a fix
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeCode/comments/1w6hrhk/auto_mode_prompting_for_cat_grep_rg_since/
-
-• openai-models: `gpt-6-astra`
-  https://platform.openai.com/docs/models
-
-• openai-models: `gpt-6`
-  https://platform.openai.com/docs/models
-
-• &quot;GPT-6 Astra will first be available to a limited set of organizations in OpenAI&apos;s Daybreak Access program and will be available &quot;in the coming days&quot; for ChatGPT Plus, Pro, Business and Enterprise customers and API developers.&quot;
-  https://openai.com/index/path-to-astra/
-  https://www.reddit.com/r/codex/comments/1w6f5en/gpt6_astra_will_first_be_available_to_a_limited/
-
-• OpenAI: Users in APAC region may face increased error in ChatGPT, Work, image generation, File upload, Voic, and Codex Cloud.
-  https://status.openai.com
-
-• Codex `rust-v0.153.2`
-  https://github.com/openai/codex/releases/tag/rust-v0.153.2
-
-• Claude Code `v2.1.260`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.260]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• ChatGPT down for the APAC region!
-  https://status.openai.com/
-  https://www.reddit.com/r/codex/comments/1w6x2h9/chatgpt_down_for_the_apac_region/
-
-• Google released TimesFM-3, a 330M-parameter time series foundation model with native multivariate forecasting (non-commercial license)
-  https://github.com/google-research/timesfm/
-  https://www.reddit.com/r/LocalLLaMA/comments/1w6hlpt/google_released_timesfm3_a_330mparameter_time/
-
-• Max X5, busted the 5-hour limit in about 4 minutes on one session alone
-  https://www.reddit.com/r/ClaudeCode/comments/1w6ift5/max_x5_busted_the_5hour_limit_in_about_4_minutes/
-
-• Auto mode prompting for cat, grep, rg since 2.1.257/2.1.259: cause and a fix
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeCode/comments/1w6hrhk/auto_mode_prompting_for_cat_grep_rg_since/
-
-• openai-models: `gpt-6-astra`
-  https://platform.openai.com/docs/models
-
-• openai-models: `gpt-6`
-  https://platform.openai.com/docs/models
-
-• &quot;GPT-6 Astra will first be available to a limited set of organizations in OpenAI&apos;s Daybreak Access program and will be available &quot;in the coming days&quot; for ChatGPT Plus, Pro, Business and Enterprise customers and API developers.&quot;
-  https://openai.com/index/path-to-astra/
-  https://www.reddit.com/r/codex/comments/1w6f5en/gpt6_astra_will_first_be_available_to_a_limited/
-
-• OpenAI: Users in APAC region may face increased error in ChatGPT, Work, image generation, File upload, Voic, and Codex Cloud.
-  https://status.openai.com
-
-• Codex `rust-v0.153.2`
-  https://github.com/openai/codex/releases/tag/rust-v0.153.2
-
-• Claude Code `v2.1.260`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.260]]></itunes:summary>
-      <pubDate>Fri, 04 Sep 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260904-0800.mp3" length="4792782" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260904-0800</guid>
-      <itunes:duration>4:59</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
