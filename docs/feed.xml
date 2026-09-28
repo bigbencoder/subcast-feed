@@ -11,7 +11,54 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 28 Sep 2026 08:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 28, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• anthropic-models: `claude-sonnet-5-5`
+  https://docs.anthropic.com/en/docs/about-claude/models/overview
+
+• Sonnet 5.5 available in Claude App
+  https://platform.claude.com/docs/en/models/sonnet-5-5/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wslxm7/sonnet_55_available_in_claude_app/
+
+• Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/
+
+• Sonnet 5.5 is out!!
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wslxd8/sonnet_55_is_out/
+
+• Claude Code `v2.1.284`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.284]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• anthropic-models: `claude-sonnet-5-5`
+  https://docs.anthropic.com/en/docs/about-claude/models/overview
+
+• Sonnet 5.5 available in Claude App
+  https://platform.claude.com/docs/en/models/sonnet-5-5/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wslxm7/sonnet_55_available_in_claude_app/
+
+• Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/
+
+• Sonnet 5.5 is out!!
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1wslxd8/sonnet_55_is_out/
+
+• Claude Code `v2.1.284`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.284]]></itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 18:30:02 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260928-1830.mp3" length="1414835" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260928-1830</guid>
+      <itunes:duration>1:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 28, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1602,57 +1649,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260905-1830.mp3" length="1113905" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260905-1830</guid>
       <itunes:duration>1:10</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 5, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Fable 5.1 usage improved after 7.2% → 29.2% cache regression was fixed
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeCode/comments/1w7tnt7/fable_51_usage_improved_after_72_292_cache/
-
-• GPT-6 Astra is now out to all Plus, Business, Pro, and Enterprise users
-  https://developers.openai.com/api/docs/models
-  https://www.reddit.com/r/codex/comments/1w7l3yj/gpt6_astra_is_now_out_to_all_plus_business_pro/
-
-• opencode `v1.18.29`
-  https://github.com/anomalyco/opencode/releases/tag/v1.18.29
-
-• Codex `rust-v0.153.4`
-  https://github.com/openai/codex/releases/tag/rust-v0.153.4
-
-• Claude Code `v2.1.261`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.261
-
-• Codex `rust-v0.153.3`
-  https://github.com/openai/codex/releases/tag/rust-v0.153.3]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Fable 5.1 usage improved after 7.2% → 29.2% cache regression was fixed
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeCode/comments/1w7tnt7/fable_51_usage_improved_after_72_292_cache/
-
-• GPT-6 Astra is now out to all Plus, Business, Pro, and Enterprise users
-  https://developers.openai.com/api/docs/models
-  https://www.reddit.com/r/codex/comments/1w7l3yj/gpt6_astra_is_now_out_to_all_plus_business_pro/
-
-• opencode `v1.18.29`
-  https://github.com/anomalyco/opencode/releases/tag/v1.18.29
-
-• Codex `rust-v0.153.4`
-  https://github.com/openai/codex/releases/tag/rust-v0.153.4
-
-• Claude Code `v2.1.261`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.261
-
-• Codex `rust-v0.153.3`
-  https://github.com/openai/codex/releases/tag/rust-v0.153.3]]></itunes:summary>
-      <pubDate>Sat, 05 Sep 2026 08:00:01 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260905-0800.mp3" length="3429399" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260905-0800</guid>
-      <itunes:duration>3:34</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
