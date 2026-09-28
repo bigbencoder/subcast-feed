@@ -11,7 +11,46 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 26 Sep 2026 18:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:00:37 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 28, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Opus 5.5 is out — Anthropic says ~40% cheaper than Opus 5 at similar capability, with external evals before release
+  https://platform.claude.com/docs/en/about-claude/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1ws4pam/claude_opus_55_is_out_anthropic_says_40_cheaper/
+
+• Codex `rust-v0.158.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.158.0
+
+• opencode `v1.18.33`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.33
+
+• pixoo-mcp-server now has pixoo_render_html
+  https://github.com/cyanheads/pixoo-mcp-server/releases/tag/v1.4.0
+  https://www.reddit.com/r/ClaudeAI/comments/1wrxpfk/pixoomcpserver_now_has_pixoo_render_html/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Opus 5.5 is out — Anthropic says ~40% cheaper than Opus 5 at similar capability, with external evals before release
+  https://platform.claude.com/docs/en/about-claude/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1ws4pam/claude_opus_55_is_out_anthropic_says_40_cheaper/
+
+• Codex `rust-v0.158.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.158.0
+
+• opencode `v1.18.33`
+  https://github.com/anomalyco/opencode/releases/tag/v1.18.33
+
+• pixoo-mcp-server now has pixoo_render_html
+  https://github.com/cyanheads/pixoo-mcp-server/releases/tag/v1.4.0
+  https://www.reddit.com/r/ClaudeAI/comments/1wrxpfk/pixoomcpserver_now_has_pixoo_render_html/]]></itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260928-0800.mp3" length="3482479" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260928-0800</guid>
+      <itunes:duration>3:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 26, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1614,37 +1653,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260905-0800.mp3" length="3429399" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260905-0800</guid>
       <itunes:duration>3:34</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 4, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Drummer&apos;s Artemis 31B v1 and v1.1 - Coming back with a bang!
-  https://huggingface.co/TheDrummer
-  https://www.reddit.com/r/LocalLLaMA/comments/1w77ath/drummers_artemis_31b_v1_and_v11_coming_back_with/
-
-• opencode `v1.18.28`
-  https://github.com/anomalyco/opencode/releases/tag/v1.18.28
-
-• OpenAI: Users in APAC region may face increased error in ChatGPT, Work, image generation, file upload, Voice, and Codex Cloud
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Drummer&apos;s Artemis 31B v1 and v1.1 - Coming back with a bang!
-  https://huggingface.co/TheDrummer
-  https://www.reddit.com/r/LocalLLaMA/comments/1w77ath/drummers_artemis_31b_v1_and_v11_coming_back_with/
-
-• opencode `v1.18.28`
-  https://github.com/anomalyco/opencode/releases/tag/v1.18.28
-
-• OpenAI: Users in APAC region may face increased error in ChatGPT, Work, image generation, file upload, Voice, and Codex Cloud
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Fri, 04 Sep 2026 18:30:00 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260904-1830.mp3" length="1214633" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260904-1830</guid>
-      <itunes:duration>1:16</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
