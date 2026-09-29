@@ -11,7 +11,78 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 29 Sep 2026 08:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 18:30:18 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — September 29, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• 6.1 Sol spec now available
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wtgfni/61_sol_spec_now_available/
+
+• GPT-6.1 Sol Launched
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wtgemz/gpt61_sol_launched/
+
+• 6.1 Sol released
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wtgdea/61_sol_released/
+
+• hello, 6.1 sol
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wtfr0q/hello_61_sol/
+
+• openai-models: `gpt-6.1-sol`
+  https://platform.openai.com/docs/models
+
+• openai-models: `gpt-6.1`
+  https://platform.openai.com/docs/models
+
+• Claude Is Down: &apos;Unable to Authenticate&apos; Error Affects Thousands Across Code, Chat and API
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeCode/comments/1wtdvh4/claude_is_down_unable_to_authenticate_error/
+
+• Discussion Hub for new Claude incident: Elevated errors on claude.ai, Claude Code and Claude Cowork on Sep 29, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1wtbgj0/discussion_hub_for_new_claude_incident_elevated/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• 6.1 Sol spec now available
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wtgfni/61_sol_spec_now_available/
+
+• GPT-6.1 Sol Launched
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wtgemz/gpt61_sol_launched/
+
+• 6.1 Sol released
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wtgdea/61_sol_released/
+
+• hello, 6.1 sol
+  https://developers.openai.com/api/docs/models
+  https://www.reddit.com/r/codex/comments/1wtfr0q/hello_61_sol/
+
+• openai-models: `gpt-6.1-sol`
+  https://platform.openai.com/docs/models
+
+• openai-models: `gpt-6.1`
+  https://platform.openai.com/docs/models
+
+• Claude Is Down: &apos;Unable to Authenticate&apos; Error Affects Thousands Across Code, Chat and API
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeCode/comments/1wtdvh4/claude_is_down_unable_to_authenticate_error/
+
+• Discussion Hub for new Claude incident: Elevated errors on claude.ai, Claude Code and Claude Cowork on Sep 29, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1wtbgj0/discussion_hub_for_new_claude_incident_elevated/]]></itunes:summary>
+      <pubDate>Tue, 29 Sep 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260929-1830.mp3" length="1614620" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20260929-1830</guid>
+      <itunes:duration>1:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — September 29, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1632,23 +1703,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260906-1830.mp3" length="706395" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260906-1830</guid>
       <itunes:duration>0:44</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 6, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.263`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.263]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.263`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.263]]></itunes:summary>
-      <pubDate>Sun, 06 Sep 2026 08:00:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260906-0800.mp3" length="876086" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260906-0800</guid>
-      <itunes:duration>0:55</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
