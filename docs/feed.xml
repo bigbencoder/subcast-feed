@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 28 Sep 2026 18:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 29, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Sonnet 5.5 Released
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/singularity/comments/1wslxcu/claude_sonnet_55_released/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Sonnet 5.5 Released
+  https://platform.claude.com/docs/en/docs/about-claude/models/overview
+  https://www.reddit.com/r/singularity/comments/1wslxcu/claude_sonnet_55_released/]]></itunes:summary>
+      <pubDate>Tue, 29 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260929-0800.mp3" length="1874173" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260929-0800</guid>
+      <itunes:duration>1:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 28, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1630,25 +1649,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260906-0800.mp3" length="876086" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260906-0800</guid>
       <itunes:duration>0:55</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 5, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• gfx906-llama-cpp: New PP/TG gains for MI50/MI60/Radeon VII/AMD GCN
-  https://github.com/iacopPBK/llama.cpp-gfx906/releases
-  https://www.reddit.com/r/LocalLLaMA/comments/1w82kpd/gfx906llamacpp_new_pptg_gains_for_mi50mi60radeon/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• gfx906-llama-cpp: New PP/TG gains for MI50/MI60/Radeon VII/AMD GCN
-  https://github.com/iacopPBK/llama.cpp-gfx906/releases
-  https://www.reddit.com/r/LocalLLaMA/comments/1w82kpd/gfx906llamacpp_new_pptg_gains_for_mi50mi60radeon/]]></itunes:summary>
-      <pubDate>Sat, 05 Sep 2026 18:30:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260905-1830.mp3" length="1113905" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260905-1830</guid>
-      <itunes:duration>1:10</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
