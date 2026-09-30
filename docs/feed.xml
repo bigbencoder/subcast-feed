@@ -11,7 +11,74 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 29 Sep 2026 18:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:00:37 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — September 30, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Dots usage is only unlimited for the first month, which was conveniently omitted.
+  https://learn.chatgpt.com/docs/dots
+  https://www.reddit.com/r/codex/comments/1wtjyxo/dots_usage_is_only_unlimited_for_the_first_month/
+
+• OpenAI: Elevated error rates for ChatGPT Pro and Plus users
+  https://status.openai.com
+
+• OpenAI: Elevated errors in ChatGPT Space Pages
+  https://status.openai.com
+
+• Ollama `v0.35.0`
+  https://github.com/ollama/ollama/releases/tag/v0.35.0
+
+• Codex `rust-v0.159.2`
+  https://github.com/openai/codex/releases/tag/rust-v0.159.2
+
+• OpenAI: Support available via email
+  https://status.openai.com
+
+• OpenAI: Elevated errors across ChatGPT, Codex, and the API including the Agents API
+  https://status.openai.com
+
+• Codex `rust-v0.159.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.159.1
+
+• Claude Code `v2.1.285`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.285]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Dots usage is only unlimited for the first month, which was conveniently omitted.
+  https://learn.chatgpt.com/docs/dots
+  https://www.reddit.com/r/codex/comments/1wtjyxo/dots_usage_is_only_unlimited_for_the_first_month/
+
+• OpenAI: Elevated error rates for ChatGPT Pro and Plus users
+  https://status.openai.com
+
+• OpenAI: Elevated errors in ChatGPT Space Pages
+  https://status.openai.com
+
+• Ollama `v0.35.0`
+  https://github.com/ollama/ollama/releases/tag/v0.35.0
+
+• Codex `rust-v0.159.2`
+  https://github.com/openai/codex/releases/tag/rust-v0.159.2
+
+• OpenAI: Support available via email
+  https://status.openai.com
+
+• OpenAI: Elevated errors across ChatGPT, Codex, and the API including the Agents API
+  https://status.openai.com
+
+• Codex `rust-v0.159.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.159.1
+
+• Claude Code `v2.1.285`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.285]]></itunes:summary>
+      <pubDate>Wed, 30 Sep 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260930-0800.mp3" length="3965640" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20260930-0800</guid>
+      <itunes:duration>4:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — September 29, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1684,25 +1751,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260907-1830.mp3" length="1351724" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260907-1830</guid>
       <itunes:duration>1:24</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 6, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• [Model] Support for Spark2_5ForCausalLM implementation by KnightYao · Pull Request #27868 · ggml-org/llama.cpp
-  https://github.com/ggml-org/llama.cpp/pull/27868
-  https://www.reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• [Model] Support for Spark2_5ForCausalLM implementation by KnightYao · Pull Request #27868 · ggml-org/llama.cpp
-  https://github.com/ggml-org/llama.cpp/pull/27868
-  https://www.reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm/]]></itunes:summary>
-      <pubDate>Sun, 06 Sep 2026 18:30:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260906-1830.mp3" length="706395" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260906-1830</guid>
-      <itunes:duration>0:44</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
