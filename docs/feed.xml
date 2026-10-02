@@ -11,7 +11,72 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 01 Oct 2026 18:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:00:50 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 2, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Clef: Open-source decision model by Cloudflare
+  https://blog.cloudflare.com/clef-decision-models/
+  https://www.reddit.com/r/codex/comments/1wv7lt7/clef_opensource_decision_model_by_cloudflare/
+
+• OpenAI: Elevated errors in ChatGPT Space Pages
+  https://status.openai.com
+
+• Anthropic: Delayed credits on the Claude Platform
+  https://status.anthropic.com
+
+• Codex `rust-v0.160.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.160.0
+
+• OpenAI: Issues with login, signup, and ads
+  https://status.openai.com
+
+• OpenAI: Issues with login and signup
+  https://status.openai.com
+
+• Introducing Claude Mods
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1wvc7vc/introducing_claude_mods/
+
+• You can now mod Claude Code: - Change how it behaves - Customize the UI - Swap in your own features Write one with a few lines of TypeScript, or have Claude build it for you. Mods ship inside plugins, so you install them with /plugin in the CLI or desktop app.
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeAI/comments/1wv8glc/you_can_now_mod_claude_code_change_how_it_behaves/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Clef: Open-source decision model by Cloudflare
+  https://blog.cloudflare.com/clef-decision-models/
+  https://www.reddit.com/r/codex/comments/1wv7lt7/clef_opensource_decision_model_by_cloudflare/
+
+• OpenAI: Elevated errors in ChatGPT Space Pages
+  https://status.openai.com
+
+• Anthropic: Delayed credits on the Claude Platform
+  https://status.anthropic.com
+
+• Codex `rust-v0.160.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.160.0
+
+• OpenAI: Issues with login, signup, and ads
+  https://status.openai.com
+
+• OpenAI: Issues with login and signup
+  https://status.openai.com
+
+• Introducing Claude Mods
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1wvc7vc/introducing_claude_mods/
+
+• You can now mod Claude Code: - Change how it behaves - Customize the UI - Swap in your own features Write one with a few lines of TypeScript, or have Claude build it for you. Mods ship inside plugins, so you install them with /plugin in the CLI or desktop app.
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeAI/comments/1wv8glc/you_can_now_mod_claude_code_change_how_it_behaves/]]></itunes:summary>
+      <pubDate>Fri, 02 Oct 2026 08:00:04 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261002-0800.mp3" length="4780243" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261002-0800</guid>
+      <itunes:duration>4:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 1, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1652,57 +1717,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260910-1830.mp3" length="2349810" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260910-1830</guid>
       <itunes:duration>2:27</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 10, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• DeepSeek V4-1 Flash is out
-  https://huggingface.co/deepseek-ai
-  https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/
-
-• DeepSeek V4.1 Flash: Stronger, Faster, More Accessible
-  https://api-docs.deepseek.com/news/
-  https://www.reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible/
-
-• Ollama `v0.34.0`
-  https://github.com/ollama/ollama/releases/tag/v0.34.0
-
-• OpenAI: Unable to open shared ChatGPT Project using direct link
-  https://status.openai.com
-
-• Codex `rust-v0.154.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.154.0
-
-• Claude Code `v2.1.267`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.267]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• DeepSeek V4-1 Flash is out
-  https://huggingface.co/deepseek-ai
-  https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/
-
-• DeepSeek V4.1 Flash: Stronger, Faster, More Accessible
-  https://api-docs.deepseek.com/news/
-  https://www.reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible/
-
-• Ollama `v0.34.0`
-  https://github.com/ollama/ollama/releases/tag/v0.34.0
-
-• OpenAI: Unable to open shared ChatGPT Project using direct link
-  https://status.openai.com
-
-• Codex `rust-v0.154.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.154.0
-
-• Claude Code `v2.1.267`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.267]]></itunes:summary>
-      <pubDate>Thu, 10 Sep 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260910-0800.mp3" length="4499792" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260910-0800</guid>
-      <itunes:duration>4:41</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
