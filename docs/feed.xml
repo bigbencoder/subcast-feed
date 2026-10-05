@@ -11,7 +11,58 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 05 Oct 2026 08:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:30:23 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 5, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1 on Oct 5, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1wy841b/discussion_hub_for_new_claude_incident_elevated/
+
+• German lab Aleph Alpha releases Kolibri: a sovereign open-weight model,78B parameters, 3.46B active. Up to 1M tokens of context.
+  https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
+  https://www.reddit.com/r/singularity/comments/1wy5b5g/german_lab_aleph_alpha_releases_kolibri_a/
+
+• OpenAI: Elevated error rates in Codex Cloud
+  https://status.openai.com
+
+• OpenAI: Elevated errors in ChatGPT conversations
+  https://status.openai.com
+
+• OpenAI: Admin Console Intermittently Inaccessible
+  https://status.openai.com
+
+• OpenAI: Issues saving and editing Pages
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1 on Oct 5, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1wy841b/discussion_hub_for_new_claude_incident_elevated/
+
+• German lab Aleph Alpha releases Kolibri: a sovereign open-weight model,78B parameters, 3.46B active. Up to 1M tokens of context.
+  https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
+  https://www.reddit.com/r/singularity/comments/1wy5b5g/german_lab_aleph_alpha_releases_kolibri_a/
+
+• OpenAI: Elevated error rates in Codex Cloud
+  https://status.openai.com
+
+• OpenAI: Elevated errors in ChatGPT conversations
+  https://status.openai.com
+
+• OpenAI: Admin Console Intermittently Inaccessible
+  https://status.openai.com
+
+• OpenAI: Issues saving and editing Pages
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Mon, 05 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261005-1830.mp3" length="1832377" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261005-1830</guid>
+      <itunes:duration>1:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 5, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1526,41 +1577,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260913-0800.mp3" length="1338349" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260913-0800</guid>
       <itunes:duration>1:24</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 12, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• tencent/AuK-Flash · Hugging Face
-  https://huggingface.co/tencent/AuK-Flash
-  https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face/
-
-• Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36
-  https://huggingface.co/Agnes-AI/Agnes-3.0-Flash
-  https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36/
-
-• Codex for Linux (yes this exists now)
-  https://github.com/openai/codex/releases/tag/rust-v0.154.0
-  https://www.reddit.com/r/codex/comments/1wec5ht/codex_for_linux_yes_this_exists_now/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• tencent/AuK-Flash · Hugging Face
-  https://huggingface.co/tencent/AuK-Flash
-  https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face/
-
-• Agnes-AI/Agnes-3.0-Flash 33B Multimodal, AA score: 36
-  https://huggingface.co/Agnes-AI/Agnes-3.0-Flash
-  https://www.reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36/
-
-• Codex for Linux (yes this exists now)
-  https://github.com/openai/codex/releases/tag/rust-v0.154.0
-  https://www.reddit.com/r/codex/comments/1wec5ht/codex_for_linux_yes_this_exists_now/]]></itunes:summary>
-      <pubDate>Sat, 12 Sep 2026 18:30:00 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260912-1830.mp3" length="1381399" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260912-1830</guid>
-      <itunes:duration>1:26</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
