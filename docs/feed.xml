@@ -11,7 +11,72 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 06 Oct 2026 08:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:30:24 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 6, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Introducing Mistral Large 4 (le Chonk)
+  https://mistral.ai/news
+  https://www.reddit.com/r/singularity/comments/1wz2rzc/introducing_mistral_large_4_le_chonk/
+
+• Discussion Hub for new Claude incident: Elevated errors for Claude Opus 5.5 on Oct 6, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1wz18zk/discussion_hub_for_new_claude_incident_elevated/
+
+• OpenAI: Computer Use Is Experiencing Issues
+  https://status.openai.com
+
+• OpenAI: Errors processing large PDFs in the Responses API
+  https://status.openai.com
+
+• OpenAI: Elevated error rates in ChatGPT Go conversations
+  https://status.openai.com
+
+• OpenAI: Elevated Work Mode errors
+  https://status.openai.com
+
+• OpenAI: Elevated error rates in Codex Cloud
+  https://status.openai.com
+
+• I approved an agent’s “oc delete —all” without reading it, so I built guardrails (and 10 other mods) with Claude Code’s new function hooks
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeAI/comments/1wz4dp5/i_approved_an_agents_oc_delete_all_without/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Introducing Mistral Large 4 (le Chonk)
+  https://mistral.ai/news
+  https://www.reddit.com/r/singularity/comments/1wz2rzc/introducing_mistral_large_4_le_chonk/
+
+• Discussion Hub for new Claude incident: Elevated errors for Claude Opus 5.5 on Oct 6, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1wz18zk/discussion_hub_for_new_claude_incident_elevated/
+
+• OpenAI: Computer Use Is Experiencing Issues
+  https://status.openai.com
+
+• OpenAI: Errors processing large PDFs in the Responses API
+  https://status.openai.com
+
+• OpenAI: Elevated error rates in ChatGPT Go conversations
+  https://status.openai.com
+
+• OpenAI: Elevated Work Mode errors
+  https://status.openai.com
+
+• OpenAI: Elevated error rates in Codex Cloud
+  https://status.openai.com
+
+• I approved an agent’s “oc delete —all” without reading it, so I built guardrails (and 10 other mods) with Claude Code’s new function hooks
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeAI/comments/1wz4dp5/i_approved_an_agents_oc_delete_all_without/]]></itunes:summary>
+      <pubDate>Tue, 06 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261006-1830.mp3" length="2339779" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261006-1830</guid>
+      <itunes:duration>2:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 6, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1582,37 +1647,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260914-0800.mp3" length="1595812" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260914-0800</guid>
       <itunes:duration>1:40</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 13, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• internlm/Intern-S2 · Hugging Face
-  https://huggingface.co/internlm/Intern-S2
-  https://www.reddit.com/r/LocalLLaMA/comments/1wf3wt2/internlminterns2_hugging_face/
-
-• OpenAI: Elevated errors for ChatGPT users in Europe
-  https://status.openai.com
-
-• OpenAI: Codex GitHub Review and Pull Request Failures
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• internlm/Intern-S2 · Hugging Face
-  https://huggingface.co/internlm/Intern-S2
-  https://www.reddit.com/r/LocalLLaMA/comments/1wf3wt2/internlminterns2_hugging_face/
-
-• OpenAI: Elevated errors for ChatGPT users in Europe
-  https://status.openai.com
-
-• OpenAI: Codex GitHub Review and Pull Request Failures
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Sun, 13 Sep 2026 18:30:01 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260913-1830.mp3" length="917046" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260913-1830</guid>
-      <itunes:duration>0:57</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
