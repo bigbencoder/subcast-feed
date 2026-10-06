@@ -11,7 +11,60 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 05 Oct 2026 18:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:00:34 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 6, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Code `v2.1.291`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.291
+
+• OpenAI: Elevated errors affecting multiple products including ChatGPT (conversations), Image generations, Spaces and Pages, API rehydration, and Dots.
+  https://status.openai.com
+
+• OpenAI: Elevated errors in API Platform login and administration APIs.
+  https://status.openai.com
+
+• OpenAI: Elevated errors in ChatGPT conversations
+  https://status.openai.com
+
+• Claude Code `v2.1.290`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.290
+
+• OpenAI: Admin Console Intermittently Inaccessible
+  https://status.openai.com
+
+• Codex `rust-v0.160.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.160.1]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Code `v2.1.291`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.291
+
+• OpenAI: Elevated errors affecting multiple products including ChatGPT (conversations), Image generations, Spaces and Pages, API rehydration, and Dots.
+  https://status.openai.com
+
+• OpenAI: Elevated errors in API Platform login and administration APIs.
+  https://status.openai.com
+
+• OpenAI: Elevated errors in ChatGPT conversations
+  https://status.openai.com
+
+• Claude Code `v2.1.290`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.290
+
+• OpenAI: Admin Console Intermittently Inaccessible
+  https://status.openai.com
+
+• Codex `rust-v0.160.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.160.1]]></itunes:summary>
+      <pubDate>Tue, 06 Oct 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261006-0800.mp3" length="2690029" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261006-0800</guid>
+      <itunes:duration>2:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 5, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1560,23 +1613,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260913-1830.mp3" length="917046" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260913-1830</guid>
       <itunes:duration>0:57</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 13, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.270`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.270]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.270`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.270]]></itunes:summary>
-      <pubDate>Sun, 13 Sep 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260913-0800.mp3" length="1338349" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260913-0800</guid>
-      <itunes:duration>1:24</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
