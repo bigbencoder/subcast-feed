@@ -11,7 +11,68 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 08 Oct 2026 08:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:00:51 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 9, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Max plans now include API credits
+  https://support.claude.com/en/articles/11145838
+  https://www.reddit.com/r/ClaudeCode/comments/1x1bq23/max_plans_now_include_api_credits/
+
+• Claude Startup Program no longer offering a year of Claude Team and $1K in API Credits
+  https://claude.com/programs/startups
+  https://www.reddit.com/r/ClaudeAI/comments/1x1af87/claude_startup_program_no_longer_offering_a_year/
+
+• Monthly API credits are now available on Max and Team plans
+  https://platform.claude.com/docs/en/about-claude/api-credits-for-subscribers
+  https://www.reddit.com/r/ClaudeCode/comments/1x13en2/monthly_api_credits_are_now_available_on_max_and/
+
+• No more abusing Claude from Nov 12th onwards, usage policy update
+  https://www.anthropic.com/legal/aup
+  https://www.reddit.com/r/ClaudeCode/comments/1x0ybl2/no_more_abusing_claude_from_nov_12th_onwards/
+
+• Ollama `v0.40.2`
+  https://github.com/ollama/ollama/releases/tag/v0.40.2
+
+• Claude Code `v2.1.295`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.295
+
+• Codex `rust-v0.162.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.162.0]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Max plans now include API credits
+  https://support.claude.com/en/articles/11145838
+  https://www.reddit.com/r/ClaudeCode/comments/1x1bq23/max_plans_now_include_api_credits/
+
+• Claude Startup Program no longer offering a year of Claude Team and $1K in API Credits
+  https://claude.com/programs/startups
+  https://www.reddit.com/r/ClaudeAI/comments/1x1af87/claude_startup_program_no_longer_offering_a_year/
+
+• Monthly API credits are now available on Max and Team plans
+  https://platform.claude.com/docs/en/about-claude/api-credits-for-subscribers
+  https://www.reddit.com/r/ClaudeCode/comments/1x13en2/monthly_api_credits_are_now_available_on_max_and/
+
+• No more abusing Claude from Nov 12th onwards, usage policy update
+  https://www.anthropic.com/legal/aup
+  https://www.reddit.com/r/ClaudeCode/comments/1x0ybl2/no_more_abusing_claude_from_nov_12th_onwards/
+
+• Ollama `v0.40.2`
+  https://github.com/ollama/ollama/releases/tag/v0.40.2
+
+• Claude Code `v2.1.295`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.295
+
+• Codex `rust-v0.162.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.162.0]]></itunes:summary>
+      <pubDate>Fri, 09 Oct 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261009-0800.mp3" length="5262568" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261009-0800</guid>
+      <itunes:duration>5:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 8, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1684,69 +1745,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260916-0800.mp3" length="3552279" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260916-0800</guid>
       <itunes:duration>3:42</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 15, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Apple Foundation Models: local AI natively on MacOS 27
-  https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/
-  https://www.reddit.com/r/LocalLLaMA/comments/1wh5fpa/apple_foundation_models_local_ai_natively_on/
-
-• Byteshape releases new Qwen 3.8 27B quants and claims very impressive numbers
-  https://huggingface.co/byteshape/Qwen3.8-27B-GGUF/blob/main/README.md
-  https://www.reddit.com/r/LocalLLaMA/comments/1wh4v55/byteshape_releases_new_qwen_38_27b_quants_and/
-
-• Occamy-1.0 by Accio Lab
-  https://github.com/Accio-Lab/occamy
-  https://www.reddit.com/r/LocalLLaMA/comments/1wgz8fo/occamy10_by_accio_lab/
-
-• Anthropic really likes rubbing it in: &quot;Reminder: The summer Claude Code promotion, which boosted weekly limits by 50%, ended on September 13. But we&apos;re making part of it permanent: your weekly limit is now 25% higher than it was before the promotion&quot;
-  https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion
-  https://www.reddit.com/r/ClaudeCode/comments/1wgtxrv/anthropic_really_likes_rubbing_it_in_reminder_the/
-
-• Anthropic: Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1
-  https://status.anthropic.com
-
-• OpenAI: Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans
-  https://status.openai.com
-
-• Koboldcpp v1.121 released
-  https://github.com/LostRuins/koboldcpp/releases
-  https://www.reddit.com/r/LocalLLaMA/comments/1wh4cg9/koboldcpp_v1121_released/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Apple Foundation Models: local AI natively on MacOS 27
-  https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/
-  https://www.reddit.com/r/LocalLLaMA/comments/1wh5fpa/apple_foundation_models_local_ai_natively_on/
-
-• Byteshape releases new Qwen 3.8 27B quants and claims very impressive numbers
-  https://huggingface.co/byteshape/Qwen3.8-27B-GGUF/blob/main/README.md
-  https://www.reddit.com/r/LocalLLaMA/comments/1wh4v55/byteshape_releases_new_qwen_38_27b_quants_and/
-
-• Occamy-1.0 by Accio Lab
-  https://github.com/Accio-Lab/occamy
-  https://www.reddit.com/r/LocalLLaMA/comments/1wgz8fo/occamy10_by_accio_lab/
-
-• Anthropic really likes rubbing it in: &quot;Reminder: The summer Claude Code promotion, which boosted weekly limits by 50%, ended on September 13. But we&apos;re making part of it permanent: your weekly limit is now 25% higher than it was before the promotion&quot;
-  https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion
-  https://www.reddit.com/r/ClaudeCode/comments/1wgtxrv/anthropic_really_likes_rubbing_it_in_reminder_the/
-
-• Anthropic: Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1
-  https://status.anthropic.com
-
-• OpenAI: Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans
-  https://status.openai.com
-
-• Koboldcpp v1.121 released
-  https://github.com/LostRuins/koboldcpp/releases
-  https://www.reddit.com/r/LocalLLaMA/comments/1wh4cg9/koboldcpp_v1121_released/]]></itunes:summary>
-      <pubDate>Tue, 15 Sep 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260915-1830.mp3" length="2282519" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260915-1830</guid>
-      <itunes:duration>2:23</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
