@@ -11,7 +11,30 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 10 Oct 2026 08:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:00:26 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 11, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Ollama `v0.40.3`
+  https://github.com/ollama/ollama/releases/tag/v0.40.3
+
+• opencode `v1.19.0`
+  https://github.com/anomalyco/opencode/releases/tag/v1.19.0]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Ollama `v0.40.3`
+  https://github.com/ollama/ollama/releases/tag/v0.40.3
+
+• opencode `v1.19.0`
+  https://github.com/anomalyco/opencode/releases/tag/v1.19.0]]></itunes:summary>
+      <pubDate>Sun, 11 Oct 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261011-0800.mp3" length="2104050" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261011-0800</guid>
+      <itunes:duration>2:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 10, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1712,45 +1735,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260918-0800.mp3" length="4628524" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260918-0800</guid>
       <itunes:duration>4:49</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 17, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• ZDTaichu5.0-9B
-  https://github.com/Taichu-AI/ZDTaichu5.0-9B
-  https://www.reddit.com/r/LocalLLaMA/comments/1wimjnv/zdtaichu509b/
-
-• XingChen-AGI/Xing4.0-29B-A4B MoE
-  https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B
-  https://www.reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe/
-
-• Claude Code `v2.1.274`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.274
-
-• OpenAI: Elevated errors in ChatGPT Work
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• ZDTaichu5.0-9B
-  https://github.com/Taichu-AI/ZDTaichu5.0-9B
-  https://www.reddit.com/r/LocalLLaMA/comments/1wimjnv/zdtaichu509b/
-
-• XingChen-AGI/Xing4.0-29B-A4B MoE
-  https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B
-  https://www.reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe/
-
-• Claude Code `v2.1.274`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.274
-
-• OpenAI: Elevated errors in ChatGPT Work
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Thu, 17 Sep 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260917-0800.mp3" length="3055325" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260917-0800</guid>
-      <itunes:duration>3:11</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
