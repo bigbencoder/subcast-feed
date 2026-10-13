@@ -11,7 +11,44 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 12 Oct 2026 18:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:30:15 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 13, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Gemini 4 Argon only for Ultra in AI Studio
+  https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/
+  https://www.reddit.com/r/singularity/comments/1x517su/gemini_4_argon_only_for_ultra_in_ai_studio/
+
+• Anthropic: Elevated errors on platform.claude.com
+  https://status.anthropic.com
+
+• OpenAI: Degraded performance in GPT-6.1 Sol Codex and Work mode
+  https://status.openai.com
+
+• OpenAI: Degraded performance in GPT-6.1 Sol Work mode
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Gemini 4 Argon only for Ultra in AI Studio
+  https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/
+  https://www.reddit.com/r/singularity/comments/1x517su/gemini_4_argon_only_for_ultra_in_ai_studio/
+
+• Anthropic: Elevated errors on platform.claude.com
+  https://status.anthropic.com
+
+• OpenAI: Degraded performance in GPT-6.1 Sol Codex and Work mode
+  https://status.openai.com
+
+• OpenAI: Degraded performance in GPT-6.1 Sol Work mode
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Tue, 13 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261013-1830.mp3" length="1182032" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261013-1830</guid>
+      <itunes:duration>1:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 12, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1628,57 +1665,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260919-0800.mp3" length="3813085" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260919-0800</guid>
       <itunes:duration>3:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 18, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• MiniMax Code is now open source. Maybe M3.1 is the next thing to watch.
-  https://github.com/MiniMax-AI/minimax-code
-  https://www.reddit.com/r/LocalLLaMA/comments/1wjujri/minimax_code_is_now_open_source_maybe_m31_is_the/
-
-• inclusionAI/Realtime-Venus · Hugging Face
-  https://huggingface.co/inclusionAI/Realtime-Venus
-  https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/
-
-• OpenAI’s current documentation still says new Pro 20x subscriptions and upgrades from Pro 5x are paused
-  https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers
-  https://www.reddit.com/r/codex/comments/1wjr07r/openais_current_documentation_still_says_new_pro/
-
-• MiniMax Code goes open source
-  https://github.com/MiniMax-AI/minimax-code
-  https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/
-
-• LlamAmpere v0.3.1 updated with support for EXL + ternary bonsai, with custom kernels for faster MTP
-  https://github.com/JakeATX/llamAmpere
-  https://www.reddit.com/r/LocalLLaMA/comments/1wjuohn/llamampere_v031_updated_with_support_for_exl/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• MiniMax Code is now open source. Maybe M3.1 is the next thing to watch.
-  https://github.com/MiniMax-AI/minimax-code
-  https://www.reddit.com/r/LocalLLaMA/comments/1wjujri/minimax_code_is_now_open_source_maybe_m31_is_the/
-
-• inclusionAI/Realtime-Venus · Hugging Face
-  https://huggingface.co/inclusionAI/Realtime-Venus
-  https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/
-
-• OpenAI’s current documentation still says new Pro 20x subscriptions and upgrades from Pro 5x are paused
-  https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers
-  https://www.reddit.com/r/codex/comments/1wjr07r/openais_current_documentation_still_says_new_pro/
-
-• MiniMax Code goes open source
-  https://github.com/MiniMax-AI/minimax-code
-  https://www.reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source/
-
-• LlamAmpere v0.3.1 updated with support for EXL + ternary bonsai, with custom kernels for faster MTP
-  https://github.com/JakeATX/llamAmpere
-  https://www.reddit.com/r/LocalLLaMA/comments/1wjuohn/llamampere_v031_updated_with_support_for_exl/]]></itunes:summary>
-      <pubDate>Fri, 18 Sep 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260918-1830.mp3" length="1484217" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260918-1830</guid>
-      <itunes:duration>1:33</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
