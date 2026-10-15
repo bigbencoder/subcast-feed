@@ -11,7 +11,24 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 15 Oct 2026 08:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:30:15 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 15, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: Widespread feature degradation
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: Widespread feature degradation
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Thu, 15 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261015-1830.mp3" length="702633" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261015-1830</guid>
+      <itunes:duration>0:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 15, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1578,25 +1595,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260921-1830.mp3" length="801689" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260921-1830</guid>
       <itunes:duration>0:50</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 21, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• PSA: Codex cache only lasts max 30 minutes
-  https://developers.openai.com/api/docs/guides/prompt-caching
-  https://www.reddit.com/r/codex/comments/1wlqlz6/psa_codex_cache_only_lasts_max_30_minutes/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• PSA: Codex cache only lasts max 30 minutes
-  https://developers.openai.com/api/docs/guides/prompt-caching
-  https://www.reddit.com/r/codex/comments/1wlqlz6/psa_codex_cache_only_lasts_max_30_minutes/]]></itunes:summary>
-      <pubDate>Mon, 21 Sep 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260921-0800.mp3" length="2425461" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260921-0800</guid>
-      <itunes:duration>2:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
