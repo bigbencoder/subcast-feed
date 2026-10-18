@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 17 Oct 2026 18:30:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:30:17 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 18, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• DeepSeek v4.1-Flash-1017 new version
+  https://api-docs.deepseek.com/news/news261017
+  https://www.reddit.com/r/singularity/comments/1x8cnzp/deepseek_v41flash1017_new_version/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• DeepSeek v4.1-Flash-1017 new version
+  https://api-docs.deepseek.com/news/news261017
+  https://www.reddit.com/r/singularity/comments/1x8cnzp/deepseek_v41flash1017_new_version/]]></itunes:summary>
+      <pubDate>Sun, 18 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261018-1830.mp3" length="847665" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261018-1830</guid>
+      <itunes:duration>0:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 17, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1510,31 +1529,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260924-0800.mp3" length="3890826" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260924-0800</guid>
       <itunes:duration>4:03</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 23, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Updated version of Humanity’s Last Exam: HLE-Diamond
-  https://agi.safe.ai/
-  https://www.reddit.com/r/singularity/comments/1wobyjp/updated_version_of_humanitys_last_exam_hlediamond/
-
-• OpenAI: Elevated Error Rates for ChatGPT across Plus and Pro plans.
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Updated version of Humanity’s Last Exam: HLE-Diamond
-  https://agi.safe.ai/
-  https://www.reddit.com/r/singularity/comments/1wobyjp/updated_version_of_humanitys_last_exam_hlediamond/
-
-• OpenAI: Elevated Error Rates for ChatGPT across Plus and Pro plans.
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Wed, 23 Sep 2026 18:30:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260923-1830.mp3" length="988517" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260923-1830</guid>
-      <itunes:duration>1:02</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
