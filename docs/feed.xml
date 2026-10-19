@@ -11,7 +11,32 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 19 Oct 2026 08:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:30:17 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 19, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: File Download errors
+  https://status.openai.com
+
+• PSA: Organization Admins can now see skills used across the team
+  https://support.claude.com/en/articles/12883420
+  https://www.reddit.com/r/ClaudeAI/comments/1xa105c/psa_organization_admins_can_now_see_skills_used/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: File Download errors
+  https://status.openai.com
+
+• PSA: Organization Admins can now see skills used across the team
+  https://support.claude.com/en/articles/12883420
+  https://www.reddit.com/r/ClaudeAI/comments/1xa105c/psa_organization_admins_can_now_see_skills_used/]]></itunes:summary>
+      <pubDate>Mon, 19 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261019-1830.mp3" length="1127697" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261019-1830</guid>
+      <itunes:duration>1:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 19, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1466,33 +1491,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260925-0800.mp3" length="3150202" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260925-0800</guid>
       <itunes:duration>3:17</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 24, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Upgraded to Max. The free $100 cloud credits also got upgraded to $250!
-  https://github.com/anthropics/claude-code/issues/96687
-  https://www.reddit.com/r/ClaudeAI/comments/1wp4pe7/upgraded_to_max_the_free_100_cloud_credits_also/
-
-• Just found this in Claude Docs. &quot;Agent Teams&quot;
-  https://code.claude.com/docs/en/agent-teams
-  https://www.reddit.com/r/ClaudeCode/comments/1wp5z44/just_found_this_in_claude_docs_agent_teams/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Upgraded to Max. The free $100 cloud credits also got upgraded to $250!
-  https://github.com/anthropics/claude-code/issues/96687
-  https://www.reddit.com/r/ClaudeAI/comments/1wp4pe7/upgraded_to_max_the_free_100_cloud_credits_also/
-
-• Just found this in Claude Docs. &quot;Agent Teams&quot;
-  https://code.claude.com/docs/en/agent-teams
-  https://www.reddit.com/r/ClaudeCode/comments/1wp5z44/just_found_this_in_claude_docs_agent_teams/]]></itunes:summary>
-      <pubDate>Thu, 24 Sep 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260924-1830.mp3" length="1478783" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260924-1830</guid>
-      <itunes:duration>1:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
