@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 20 Oct 2026 08:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:30:13 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 20, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• MiniMax M3.1 Flash - New release
+  https://agent.minimax.io/tools/m3-1-flash-preview
+  https://www.reddit.com/r/singularity/comments/1xalh1z/minimax_m31_flash_new_release/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• MiniMax M3.1 Flash - New release
+  https://agent.minimax.io/tools/m3-1-flash-preview
+  https://www.reddit.com/r/singularity/comments/1xalh1z/minimax_m31_flash_new_release/]]></itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261020-1830.mp3" length="869817" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261020-1830</guid>
+      <itunes:duration>0:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 20, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1468,25 +1487,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260926-0800.mp3" length="3242571" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260926-0800</guid>
       <itunes:duration>3:23</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 25, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Codex running app-server daemon in the background by default
-  https://github.com/openai/codex/releases
-  https://www.reddit.com/r/codex/comments/1wpx6wk/codex_running_appserver_daemon_in_the_background/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Codex running app-server daemon in the background by default
-  https://github.com/openai/codex/releases
-  https://www.reddit.com/r/codex/comments/1wpx6wk/codex_running_appserver_daemon_in_the_background/]]></itunes:summary>
-      <pubDate>Fri, 25 Sep 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260925-1830.mp3" length="706395" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260925-1830</guid>
-      <itunes:duration>0:44</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
