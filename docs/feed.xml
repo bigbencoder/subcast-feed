@@ -11,7 +11,50 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 20 Oct 2026 18:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:00:43 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 21, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Heads up: CCAO-F, CCDV-F and CCAR-P change on Dec 7 (new guides Nov 17)
+  https://www.pearsonvue.com/us/en/anthropic.html
+  https://www.reddit.com/r/ClaudeAI/comments/1xb62vz/heads_up_ccaof_ccdvf_and_ccarp_change_on_dec_7/
+
+• Ollama `v0.40.7`
+  https://github.com/ollama/ollama/releases/tag/v0.40.7
+
+• Claude Code `v2.1.306`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.306
+
+• OpenAI: Degraded performance in ChatGPT, Codex, and APIs
+  https://status.openai.com
+
+• Claude Code `v2.1.305`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.305]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Heads up: CCAO-F, CCDV-F and CCAR-P change on Dec 7 (new guides Nov 17)
+  https://www.pearsonvue.com/us/en/anthropic.html
+  https://www.reddit.com/r/ClaudeAI/comments/1xb62vz/heads_up_ccaof_ccdvf_and_ccarp_change_on_dec_7/
+
+• Ollama `v0.40.7`
+  https://github.com/ollama/ollama/releases/tag/v0.40.7
+
+• Claude Code `v2.1.306`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.306
+
+• OpenAI: Degraded performance in ChatGPT, Codex, and APIs
+  https://status.openai.com
+
+• Claude Code `v2.1.305`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.305]]></itunes:summary>
+      <pubDate>Wed, 21 Oct 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261021-0800.mp3" length="4222267" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261021-0800</guid>
+      <itunes:duration>4:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 20, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1450,43 +1493,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260926-1830.mp3" length="1102202" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260926-1830</guid>
       <itunes:duration>1:09</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 26, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Login via API key will unblock access at this time
-  https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39
-  https://www.reddit.com/r/codex/comments/1wqb71f/login_via_api_key_will_unblock_access_at_this_time/
-
-• Codex `rust-v0.157.1`
-  https://github.com/openai/codex/releases/tag/rust-v0.157.1
-
-• OpenAI: Issues with Codex
-  https://status.openai.com
-
-• Claude Code `v2.1.283`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.283]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Login via API key will unblock access at this time
-  https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39
-  https://www.reddit.com/r/codex/comments/1wqb71f/login_via_api_key_will_unblock_access_at_this_time/
-
-• Codex `rust-v0.157.1`
-  https://github.com/openai/codex/releases/tag/rust-v0.157.1
-
-• OpenAI: Issues with Codex
-  https://status.openai.com
-
-• Claude Code `v2.1.283`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.283]]></itunes:summary>
-      <pubDate>Sat, 26 Sep 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260926-0800.mp3" length="3242571" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260926-0800</guid>
-      <itunes:duration>3:23</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
