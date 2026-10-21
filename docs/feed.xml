@@ -11,7 +11,30 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 21 Oct 2026 08:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:30:14 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 21, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated error rates for gpt-5.6-luna API requests
+  https://status.openai.com
+
+• OpenAI: Elevated FedRAMP API error rates for Astra and Sol
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated error rates for gpt-5.6-luna API requests
+  https://status.openai.com
+
+• OpenAI: Elevated FedRAMP API error rates for Astra and Sol
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Wed, 21 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261021-1830.mp3" length="1010669" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261021-1830</guid>
+      <itunes:duration>1:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 21, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1474,25 +1497,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260928-0800.mp3" length="3482479" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260928-0800</guid>
       <itunes:duration>3:38</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 26, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Jev already has an open-weight competitor - Deem 9b
-  https://huggingface.co/LibertAIDAI/deem-9b-v1
-  https://www.reddit.com/r/singularity/comments/1wqtjd4/jev_already_has_an_openweight_competitor_deem_9b/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Jev already has an open-weight competitor - Deem 9b
-  https://huggingface.co/LibertAIDAI/deem-9b-v1
-  https://www.reddit.com/r/singularity/comments/1wqtjd4/jev_already_has_an_openweight_competitor_deem_9b/]]></itunes:summary>
-      <pubDate>Sat, 26 Sep 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260926-1830.mp3" length="1102202" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260926-1830</guid>
-      <itunes:duration>1:09</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
