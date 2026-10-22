@@ -11,7 +11,76 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 21 Oct 2026 18:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:00:47 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 22, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors affecting Connectors on Oct 22, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xc88v5/discussion_hub_for_new_claude_incident_elevated/
+
+• Claude Code `v2.1.308`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.308
+
+• Anthropic: Elevated errors affecting Connectors
+  https://stspg.io/4dcr8c005yxc
+
+• OpenAI: ChatGPT conversion failures in India, Japan and Korea. And Response API errors
+  https://status.openai.com
+
+• Claude Code `v2.1.307`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.307
+
+• Ollama `v0.40.8`
+  https://github.com/ollama/ollama/releases/tag/v0.40.8
+
+• Anthropic: Degraded performance for Claude Fable 5
+  https://status.anthropic.com
+
+• OpenAI: Elevated FedRAMP API error rates for Astra and Sol
+  https://status.openai.com
+
+• New in Archestra 1.4 (open source): Claude Code hands long tasks to a remote agent on your own cluster, any agent, no vendor lock-in
+  https://github.com/archestra-ai/archestra/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xbzjlf/new_in_archestra_14_open_source_claude_code_hands/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors affecting Connectors on Oct 22, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xc88v5/discussion_hub_for_new_claude_incident_elevated/
+
+• Claude Code `v2.1.308`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.308
+
+• Anthropic: Elevated errors affecting Connectors
+  https://stspg.io/4dcr8c005yxc
+
+• OpenAI: ChatGPT conversion failures in India, Japan and Korea. And Response API errors
+  https://status.openai.com
+
+• Claude Code `v2.1.307`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.307
+
+• Ollama `v0.40.8`
+  https://github.com/ollama/ollama/releases/tag/v0.40.8
+
+• Anthropic: Degraded performance for Claude Fable 5
+  https://status.anthropic.com
+
+• OpenAI: Elevated FedRAMP API error rates for Astra and Sol
+  https://status.openai.com
+
+• New in Archestra 1.4 (open source): Claude Code hands long tasks to a remote agent on your own cluster, any agent, no vendor lock-in
+  https://github.com/archestra-ai/archestra/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xbzjlf/new_in_archestra_14_open_source_claude_code_hands/]]></itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 08:00:04 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261022-0800.mp3" length="4784004" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261022-0800</guid>
+      <itunes:duration>4:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 21, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1458,45 +1527,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260928-1830.mp3" length="1414835" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260928-1830</guid>
       <itunes:duration>1:28</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 28, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Claude Opus 5.5 is out — Anthropic says ~40% cheaper than Opus 5 at similar capability, with external evals before release
-  https://platform.claude.com/docs/en/about-claude/pricing
-  https://www.reddit.com/r/ClaudeAI/comments/1ws4pam/claude_opus_55_is_out_anthropic_says_40_cheaper/
-
-• Codex `rust-v0.158.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.158.0
-
-• opencode `v1.18.33`
-  https://github.com/anomalyco/opencode/releases/tag/v1.18.33
-
-• pixoo-mcp-server now has pixoo_render_html
-  https://github.com/cyanheads/pixoo-mcp-server/releases/tag/v1.4.0
-  https://www.reddit.com/r/ClaudeAI/comments/1wrxpfk/pixoomcpserver_now_has_pixoo_render_html/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Claude Opus 5.5 is out — Anthropic says ~40% cheaper than Opus 5 at similar capability, with external evals before release
-  https://platform.claude.com/docs/en/about-claude/pricing
-  https://www.reddit.com/r/ClaudeAI/comments/1ws4pam/claude_opus_55_is_out_anthropic_says_40_cheaper/
-
-• Codex `rust-v0.158.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.158.0
-
-• opencode `v1.18.33`
-  https://github.com/anomalyco/opencode/releases/tag/v1.18.33
-
-• pixoo-mcp-server now has pixoo_render_html
-  https://github.com/cyanheads/pixoo-mcp-server/releases/tag/v1.4.0
-  https://www.reddit.com/r/ClaudeAI/comments/1wrxpfk/pixoomcpserver_now_has_pixoo_render_html/]]></itunes:summary>
-      <pubDate>Mon, 28 Sep 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260928-0800.mp3" length="3482479" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260928-0800</guid>
-      <itunes:duration>3:38</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
