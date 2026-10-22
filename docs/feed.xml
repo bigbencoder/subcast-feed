@@ -11,7 +11,36 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 22 Oct 2026 08:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:30:17 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 22, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• opencode `v1.19.4`
+  https://github.com/anomalyco/opencode/releases/tag/v1.19.4
+
+• OpenAI: ChatGPT conversion failures in India, Japan and Korea. And Response API errors
+  https://status.openai.com
+
+• Anthropic: Elevated errors affecting Connectors
+  https://status.anthropic.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• opencode `v1.19.4`
+  https://github.com/anomalyco/opencode/releases/tag/v1.19.4
+
+• OpenAI: ChatGPT conversion failures in India, Japan and Korea. And Response API errors
+  https://status.openai.com
+
+• Anthropic: Elevated errors affecting Connectors
+  https://status.anthropic.com]]></itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261022-1830.mp3" length="1209617" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261022-1830</guid>
+      <itunes:duration>1:16</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 22, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1480,53 +1509,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260929-0800.mp3" length="1874173" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20260929-0800</guid>
       <itunes:duration>1:57</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — September 28, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• anthropic-models: `claude-sonnet-5-5`
-  https://docs.anthropic.com/en/docs/about-claude/models/overview
-
-• Sonnet 5.5 available in Claude App
-  https://platform.claude.com/docs/en/models/sonnet-5-5/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1wslxm7/sonnet_55_available_in_claude_app/
-
-• Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/
-
-• Sonnet 5.5 is out!!
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1wslxd8/sonnet_55_is_out/
-
-• Claude Code `v2.1.284`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.284]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• anthropic-models: `claude-sonnet-5-5`
-  https://docs.anthropic.com/en/docs/about-claude/models/overview
-
-• Sonnet 5.5 available in Claude App
-  https://platform.claude.com/docs/en/models/sonnet-5-5/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1wslxm7/sonnet_55_available_in_claude_app/
-
-• Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/
-
-• Sonnet 5.5 is out!!
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1wslxd8/sonnet_55_is_out/
-
-• Claude Code `v2.1.284`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.284]]></itunes:summary>
-      <pubDate>Mon, 28 Sep 2026 18:30:02 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260928-1830.mp3" length="1414835" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20260928-1830</guid>
-      <itunes:duration>1:28</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
