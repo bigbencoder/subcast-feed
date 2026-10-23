@@ -11,7 +11,54 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 22 Oct 2026 18:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:00:36 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 23, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: Delays in customer support responses
+  https://status.openai.com
+
+• Codex `rust-v0.164.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.164.0
+
+• Ollama `v0.40.9`
+  https://github.com/ollama/ollama/releases/tag/v0.40.9
+
+• OpenAI: New Ad Accounts failing to provision admins
+  https://status.openai.com
+
+• Claude Code `v2.1.309`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.309
+
+• OpenAI: Degraded Performance of Dots on Enterprise
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: Delays in customer support responses
+  https://status.openai.com
+
+• Codex `rust-v0.164.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.164.0
+
+• Ollama `v0.40.9`
+  https://github.com/ollama/ollama/releases/tag/v0.40.9
+
+• OpenAI: New Ad Accounts failing to provision admins
+  https://status.openai.com
+
+• Claude Code `v2.1.309`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.309
+
+• OpenAI: Degraded Performance of Dots on Enterprise
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Fri, 23 Oct 2026 08:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261023-0800.mp3" length="3718208" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261023-0800</guid>
+      <itunes:duration>3:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 22, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1490,25 +1537,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20260929-1830.mp3" length="1614620" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20260929-1830</guid>
       <itunes:duration>1:41</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — September 29, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Claude Sonnet 5.5 Released
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/singularity/comments/1wslxcu/claude_sonnet_55_released/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Claude Sonnet 5.5 Released
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/singularity/comments/1wslxcu/claude_sonnet_55_released/]]></itunes:summary>
-      <pubDate>Tue, 29 Sep 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20260929-0800.mp3" length="1874173" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20260929-0800</guid>
-      <itunes:duration>1:57</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
