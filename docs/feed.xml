@@ -11,7 +11,32 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 25 Oct 2026 08:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:30:14 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 25, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for Claude Fable 5.1 on Oct 25, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xewsd1/discussion_hub_for_new_claude_incident_elevated/
+
+• Anthropic: Elevated errors for Claude Fable 5.1
+  https://status.anthropic.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for Claude Fable 5.1 on Oct 25, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xewsd1/discussion_hub_for_new_claude_incident_elevated/
+
+• Anthropic: Elevated errors for Claude Fable 5.1
+  https://status.anthropic.com]]></itunes:summary>
+      <pubDate>Sun, 25 Oct 2026 18:30:04 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261025-1830.mp3" length="930003" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261025-1830</guid>
+      <itunes:duration>0:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 25, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1456,37 +1481,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261002-0800.mp3" length="4780243" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261002-0800</guid>
       <itunes:duration>4:59</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 1, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• GPT-6 Pro messages drops from 200 to 100 per week as well, by the way.
-  https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers
-  https://www.reddit.com/r/codex/comments/1wuzd3u/gpt6_pro_messages_drops_from_200_to_100_per_week/
-
-• Claude Code `v2.1.287`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.287
-
-• Anthropic: Degraded performance on the Claude API and platform.claude.com
-  https://stspg.io/jg26d0skzh27]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• GPT-6 Pro messages drops from 200 to 100 per week as well, by the way.
-  https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers
-  https://www.reddit.com/r/codex/comments/1wuzd3u/gpt6_pro_messages_drops_from_200_to_100_per_week/
-
-• Claude Code `v2.1.287`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.287
-
-• Anthropic: Degraded performance on the Claude API and platform.claude.com
-  https://stspg.io/jg26d0skzh27]]></itunes:summary>
-      <pubDate>Thu, 01 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261001-1830.mp3" length="1501353" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261001-1830</guid>
-      <itunes:duration>1:34</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
