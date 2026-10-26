@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 25 Oct 2026 18:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:30:17 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 26, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-6.1-terra`
+  https://platform.openai.com/docs/models
+
+• Introducing GPT6.1 Terra
+  https://developers.openai.com/api/docs/models/gpt-6.1-terra
+  https://www.reddit.com/r/codex/comments/1xg4eqq/introducing_gpt61_terra/
+
+• OpenAI: Ads POST /ads/* endpoints elevated error rates
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-6.1-terra`
+  https://platform.openai.com/docs/models
+
+• Introducing GPT6.1 Terra
+  https://developers.openai.com/api/docs/models/gpt-6.1-terra
+  https://www.reddit.com/r/codex/comments/1xg4eqq/introducing_gpt61_terra/
+
+• OpenAI: Ads POST /ads/* endpoints elevated error rates
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Mon, 26 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261026-1830.mp3" length="1174509" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261026-1830</guid>
+      <itunes:duration>1:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 25, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1416,71 +1447,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261002-1830.mp3" length="693438" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261002-1830</guid>
       <itunes:duration>0:43</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 2, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Clef: Open-source decision model by Cloudflare
-  https://blog.cloudflare.com/clef-decision-models/
-  https://www.reddit.com/r/codex/comments/1wv7lt7/clef_opensource_decision_model_by_cloudflare/
-
-• OpenAI: Elevated errors in ChatGPT Space Pages
-  https://status.openai.com
-
-• Anthropic: Delayed credits on the Claude Platform
-  https://status.anthropic.com
-
-• Codex `rust-v0.160.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.160.0
-
-• OpenAI: Issues with login, signup, and ads
-  https://status.openai.com
-
-• OpenAI: Issues with login and signup
-  https://status.openai.com
-
-• Introducing Claude Mods
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeCode/comments/1wvc7vc/introducing_claude_mods/
-
-• You can now mod Claude Code: - Change how it behaves - Customize the UI - Swap in your own features Write one with a few lines of TypeScript, or have Claude build it for you. Mods ship inside plugins, so you install them with /plugin in the CLI or desktop app.
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeAI/comments/1wv8glc/you_can_now_mod_claude_code_change_how_it_behaves/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Clef: Open-source decision model by Cloudflare
-  https://blog.cloudflare.com/clef-decision-models/
-  https://www.reddit.com/r/codex/comments/1wv7lt7/clef_opensource_decision_model_by_cloudflare/
-
-• OpenAI: Elevated errors in ChatGPT Space Pages
-  https://status.openai.com
-
-• Anthropic: Delayed credits on the Claude Platform
-  https://status.anthropic.com
-
-• Codex `rust-v0.160.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.160.0
-
-• OpenAI: Issues with login, signup, and ads
-  https://status.openai.com
-
-• OpenAI: Issues with login and signup
-  https://status.openai.com
-
-• Introducing Claude Mods
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeCode/comments/1wvc7vc/introducing_claude_mods/
-
-• You can now mod Claude Code: - Change how it behaves - Customize the UI - Swap in your own features Write one with a few lines of TypeScript, or have Claude build it for you. Mods ship inside plugins, so you install them with /plugin in the CLI or desktop app.
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeAI/comments/1wv8glc/you_can_now_mod_claude_code_change_how_it_behaves/]]></itunes:summary>
-      <pubDate>Fri, 02 Oct 2026 08:00:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261002-0800.mp3" length="4780243" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261002-0800</guid>
-      <itunes:duration>4:59</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
