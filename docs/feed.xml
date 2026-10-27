@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 26 Oct 2026 18:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:00:28 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 27, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Code `v2.1.311`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.311
+
+• OpenAI: Ads POST /ads/* endpoints elevated error rates
+  https://status.openai.com
+
+• Anthropic released a Claude for Nonprofits plugin (Oct 26): auto-installed on nonprofit Team and Enterprise plans, Claude Code included at no extra cost
+  https://claude.com/resources/articles/expanding-claude-for-nonprofits
+  https://www.reddit.com/r/ClaudeAI/comments/1xggxay/anthropic_released_a_claude_for_nonprofits_plugin/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Code `v2.1.311`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.311
+
+• OpenAI: Ads POST /ads/* endpoints elevated error rates
+  https://status.openai.com
+
+• Anthropic released a Claude for Nonprofits plugin (Oct 26): auto-installed on nonprofit Team and Enterprise plans, Claude Code included at no extra cost
+  https://claude.com/resources/articles/expanding-claude-for-nonprofits
+  https://www.reddit.com/r/ClaudeAI/comments/1xggxay/anthropic_released_a_claude_for_nonprofits_plugin/]]></itunes:summary>
+      <pubDate>Tue, 27 Oct 2026 08:00:04 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261027-0800.mp3" length="2448866" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261027-0800</guid>
+      <itunes:duration>2:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 26, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1430,23 +1461,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261003-0800.mp3" length="3140171" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261003-0800</guid>
       <itunes:duration>3:16</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 2, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• OpenAI: Issues with data analysis and file creation in ChatGPT
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• OpenAI: Issues with data analysis and file creation in ChatGPT
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Fri, 02 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261002-1830.mp3" length="693438" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261002-1830</guid>
-      <itunes:duration>0:43</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
