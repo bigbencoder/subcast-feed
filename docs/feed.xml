@@ -11,7 +11,62 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 27 Oct 2026 18:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:00:45 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 28, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors affecting the Gmail connector on Oct 28, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xhe24w/discussion_hub_for_new_claude_incident_elevated/
+
+• opencode `v1.19.5`
+  https://github.com/anomalyco/opencode/releases/tag/v1.19.5
+
+• Anthropic: Elevated errors affecting the Gmail connector
+  https://status.anthropic.com
+
+• OpenAI: Degraded Performace on ChatGPT Work
+  https://status.openai.com
+
+• Ollama `v0.40.12`
+  https://github.com/ollama/ollama/releases/tag/v0.40.12
+
+• Codex `rust-v0.165.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.165.0
+
+• Claude Code `v2.1.312`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.312]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors affecting the Gmail connector on Oct 28, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xhe24w/discussion_hub_for_new_claude_incident_elevated/
+
+• opencode `v1.19.5`
+  https://github.com/anomalyco/opencode/releases/tag/v1.19.5
+
+• Anthropic: Elevated errors affecting the Gmail connector
+  https://status.anthropic.com
+
+• OpenAI: Degraded Performace on ChatGPT Work
+  https://status.openai.com
+
+• Ollama `v0.40.12`
+  https://github.com/ollama/ollama/releases/tag/v0.40.12
+
+• Codex `rust-v0.165.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.165.0
+
+• Claude Code `v2.1.312`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.312]]></itunes:summary>
+      <pubDate>Wed, 28 Oct 2026 08:00:03 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261028-0800.mp3" length="4688292" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261028-0800</guid>
+      <itunes:duration>4:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 27, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1464,23 +1519,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261005-0800.mp3" length="1068765" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261005-0800</guid>
       <itunes:duration>1:07</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 4, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.289`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.289]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.289`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.289]]></itunes:summary>
-      <pubDate>Sun, 04 Oct 2026 08:00:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261004-0800.mp3" length="1855782" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261004-0800</guid>
-      <itunes:duration>1:56</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
