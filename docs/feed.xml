@@ -11,7 +11,60 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 30 Oct 2026 08:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:30:22 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — October 30, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Anthropic renames Max5 and Max20 and removes 5h limits for Max20
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1xjlvlc/anthropic_renames_max5_and_max20_and_removes_5h/
+
+• Max Plans renamed. 20x is now Ultra. No more 5 hour limit.
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjm3ah/max_plans_renamed_20x_is_now_ultra_no_more_5_hour/
+
+• opencode `v2.2.4`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.4
+
+• OpenAI: Elevated errors for GPT Image 2 API image edits
+  https://status.openai.com
+
+• opencode `v2.2.3`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.3
+
+• Claude code subscription is now available in Opencode!
+  https://github.com/sst/opencode/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xjmcio/claude_code_subscription_is_now_available_in/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Anthropic renames Max5 and Max20 and removes 5h limits for Max20
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1xjlvlc/anthropic_renames_max5_and_max20_and_removes_5h/
+
+• Max Plans renamed. 20x is now Ultra. No more 5 hour limit.
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjm3ah/max_plans_renamed_20x_is_now_ultra_no_more_5_hour/
+
+• opencode `v2.2.4`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.4
+
+• OpenAI: Elevated errors for GPT Image 2 API image edits
+  https://status.openai.com
+
+• opencode `v2.2.3`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.3
+
+• Claude code subscription is now available in Opencode!
+  https://github.com/sst/opencode/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xjmcio/claude_code_subscription_is_now_available_in/]]></itunes:summary>
+      <pubDate>Fri, 30 Oct 2026 18:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261030-1830.mp3" length="2073121" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261030-1830</guid>
+      <itunes:duration>2:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — October 30, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1388,87 +1441,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261007-1830.mp3" length="2427133" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261007-1830</guid>
       <itunes:duration>2:32</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 7, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Figure founder announces computer use agent, Hark Pro
-  https://hark.com/articles/introducing-hark-pro
-  https://www.reddit.com/r/singularity/comments/1wzemgc/figure_founder_announces_computer_use_agent_hark/
-
-• Introducing EmbeddingGemma 2: An open model for natively multimodal embeddings
-  https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/
-  https://www.reddit.com/r/singularity/comments/1wzafmg/introducing_embeddinggemma_2_an_open_model_for/
-
-• Discussion Hub for new Claude incident: Elevated errors loading usage data on platform.claude.com on Oct 7, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1wzjurr/discussion_hub_for_new_claude_incident_elevated/
-
-• CVP members now have Mythos 5.1
-  https://anthropic.com/glasswing
-  https://www.reddit.com/r/ClaudeAI/comments/1wzgbby/cvp_members_now_have_mythos_51/
-
-• Mythos is now available (CVP)
-  https://anthropic.com/glasswing
-  https://www.reddit.com/r/ClaudeAI/comments/1wzfw5f/mythos_is_now_available_cvp/
-
-• OpenAI: Unable to create new ChatGPT Work threads in latest version of desktop app
-  https://status.openai.com
-
-• OpenAI: Workspace Agents Degraded and Responses Impacted
-  https://status.openai.com
-
-• Anthropic: Elevated errors loading usage data on platform.claude.com
-  https://status.anthropic.com
-
-• OpenAI: Errors processing large PDFs in the Responses API
-  https://status.openai.com
-
-• OpenAI: Computer Use Is Experiencing Issues
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Figure founder announces computer use agent, Hark Pro
-  https://hark.com/articles/introducing-hark-pro
-  https://www.reddit.com/r/singularity/comments/1wzemgc/figure_founder_announces_computer_use_agent_hark/
-
-• Introducing EmbeddingGemma 2: An open model for natively multimodal embeddings
-  https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/
-  https://www.reddit.com/r/singularity/comments/1wzafmg/introducing_embeddinggemma_2_an_open_model_for/
-
-• Discussion Hub for new Claude incident: Elevated errors loading usage data on platform.claude.com on Oct 7, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1wzjurr/discussion_hub_for_new_claude_incident_elevated/
-
-• CVP members now have Mythos 5.1
-  https://anthropic.com/glasswing
-  https://www.reddit.com/r/ClaudeAI/comments/1wzgbby/cvp_members_now_have_mythos_51/
-
-• Mythos is now available (CVP)
-  https://anthropic.com/glasswing
-  https://www.reddit.com/r/ClaudeAI/comments/1wzfw5f/mythos_is_now_available_cvp/
-
-• OpenAI: Unable to create new ChatGPT Work threads in latest version of desktop app
-  https://status.openai.com
-
-• OpenAI: Workspace Agents Degraded and Responses Impacted
-  https://status.openai.com
-
-• Anthropic: Elevated errors loading usage data on platform.claude.com
-  https://status.anthropic.com
-
-• OpenAI: Errors processing large PDFs in the Responses API
-  https://status.openai.com
-
-• OpenAI: Computer Use Is Experiencing Issues
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Wed, 07 Oct 2026 08:00:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261007-0800.mp3" length="4454653" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261007-0800</guid>
-      <itunes:duration>4:38</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
