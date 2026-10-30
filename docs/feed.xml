@@ -11,7 +11,50 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 29 Oct 2026 18:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:00:32 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 30, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Code `v2.1.314`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.314
+
+• opencode `process-daemon-v0.4.0`
+  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.4.0
+
+• Codex `rust-v0.166.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.166.0
+
+• opencode `v2.2.2`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.2
+
+• If you haven’t noticed yet, you can select your effort level AND ultracode now
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeAI/comments/1xiz51m/if_you_havent_noticed_yet_you_can_select_your/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Code `v2.1.314`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.314
+
+• opencode `process-daemon-v0.4.0`
+  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.4.0
+
+• Codex `rust-v0.166.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.166.0
+
+• opencode `v2.2.2`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.2
+
+• If you haven’t noticed yet, you can select your effort level AND ultracode now
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeAI/comments/1xiz51m/if_you_havent_noticed_yet_you_can_select_your/]]></itunes:summary>
+      <pubDate>Fri, 30 Oct 2026 08:00:01 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261030-0800.mp3" length="3704416" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261030-0800</guid>
+      <itunes:duration>3:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 29, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1426,71 +1469,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261007-0800.mp3" length="4454653" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261007-0800</guid>
       <itunes:duration>4:38</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 6, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Introducing Mistral Large 4 (le Chonk)
-  https://mistral.ai/news
-  https://www.reddit.com/r/singularity/comments/1wz2rzc/introducing_mistral_large_4_le_chonk/
-
-• Discussion Hub for new Claude incident: Elevated errors for Claude Opus 5.5 on Oct 6, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1wz18zk/discussion_hub_for_new_claude_incident_elevated/
-
-• OpenAI: Computer Use Is Experiencing Issues
-  https://status.openai.com
-
-• OpenAI: Errors processing large PDFs in the Responses API
-  https://status.openai.com
-
-• OpenAI: Elevated error rates in ChatGPT Go conversations
-  https://status.openai.com
-
-• OpenAI: Elevated Work Mode errors
-  https://status.openai.com
-
-• OpenAI: Elevated error rates in Codex Cloud
-  https://status.openai.com
-
-• I approved an agent’s “oc delete —all” without reading it, so I built guardrails (and 10 other mods) with Claude Code’s new function hooks
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeAI/comments/1wz4dp5/i_approved_an_agents_oc_delete_all_without/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Introducing Mistral Large 4 (le Chonk)
-  https://mistral.ai/news
-  https://www.reddit.com/r/singularity/comments/1wz2rzc/introducing_mistral_large_4_le_chonk/
-
-• Discussion Hub for new Claude incident: Elevated errors for Claude Opus 5.5 on Oct 6, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1wz18zk/discussion_hub_for_new_claude_incident_elevated/
-
-• OpenAI: Computer Use Is Experiencing Issues
-  https://status.openai.com
-
-• OpenAI: Errors processing large PDFs in the Responses API
-  https://status.openai.com
-
-• OpenAI: Elevated error rates in ChatGPT Go conversations
-  https://status.openai.com
-
-• OpenAI: Elevated Work Mode errors
-  https://status.openai.com
-
-• OpenAI: Elevated error rates in Codex Cloud
-  https://status.openai.com
-
-• I approved an agent’s “oc delete —all” without reading it, so I built guardrails (and 10 other mods) with Claude Code’s new function hooks
-  https://github.com/anthropics/claude-code/releases
-  https://www.reddit.com/r/ClaudeAI/comments/1wz4dp5/i_approved_an_agents_oc_delete_all_without/]]></itunes:summary>
-      <pubDate>Tue, 06 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261006-1830.mp3" length="2339779" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261006-1830</guid>
-      <itunes:duration>2:26</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
