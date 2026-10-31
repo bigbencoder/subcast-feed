@@ -11,7 +11,94 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 30 Oct 2026 18:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:00:39 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — October 31, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Max 20x is now “Ultra” and verified Ultra accounts have no 5-hour limit anymore. Max 5x is just “Max”. Prices unchanged.
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1xk018y/max_20x_is_now_ultra_and_verified_ultra_accounts/
+
+• Max 20 plan is gone - it’s now ultra and no more 5 hr limits
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1xjs887/max_20_plan_is_gone_its_now_ultra_and_no_more_5/
+
+• Max 20 plan is gone, it’s now ultra with no 5 hr limits
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjs96o/max_20_plan_is_gone_its_now_ultra_with_no_5_hr/
+
+• Claude&apos;s $200 plan is now Ultra, and verified accounts lose the 5-hour limit
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjqqjh/claudes_200_plan_is_now_ultra_and_verified/
+
+• Ultra (previously 20x) is officially confirmed as 2x the weekly limit of Max (previously 5x).
+  https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan
+  https://www.reddit.com/r/ClaudeAI/comments/1xjoff4/ultra_previously_20x_is_officially_confirmed_as/
+
+• Claude 20x is now Ultra which has 10x weekly limit
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjop3c/claude_20x_is_now_ultra_which_has_10x_weekly_limit/
+
+• Anthropic renames Max5 and Max20 and removes 5h limits for Max20
+  https://claude.com/pricing
+  https://www.reddit.com/r/singularity/comments/1xjlx48/anthropic_renames_max5_and_max20_and_removes_5h/
+
+• 5h will be removed: Max 20x is now Ultra
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjo3vf/5h_will_be_removed_max_20x_is_now_ultra/
+
+• Claude Code `v2.1.316`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.316
+
+• opencode `v2.2.5`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.5]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Max 20x is now “Ultra” and verified Ultra accounts have no 5-hour limit anymore. Max 5x is just “Max”. Prices unchanged.
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1xk018y/max_20x_is_now_ultra_and_verified_ultra_accounts/
+
+• Max 20 plan is gone - it’s now ultra and no more 5 hr limits
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1xjs887/max_20_plan_is_gone_its_now_ultra_and_no_more_5/
+
+• Max 20 plan is gone, it’s now ultra with no 5 hr limits
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjs96o/max_20_plan_is_gone_its_now_ultra_with_no_5_hr/
+
+• Claude&apos;s $200 plan is now Ultra, and verified accounts lose the 5-hour limit
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjqqjh/claudes_200_plan_is_now_ultra_and_verified/
+
+• Ultra (previously 20x) is officially confirmed as 2x the weekly limit of Max (previously 5x).
+  https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan
+  https://www.reddit.com/r/ClaudeAI/comments/1xjoff4/ultra_previously_20x_is_officially_confirmed_as/
+
+• Claude 20x is now Ultra which has 10x weekly limit
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjop3c/claude_20x_is_now_ultra_which_has_10x_weekly_limit/
+
+• Anthropic renames Max5 and Max20 and removes 5h limits for Max20
+  https://claude.com/pricing
+  https://www.reddit.com/r/singularity/comments/1xjlx48/anthropic_renames_max5_and_max20_and_removes_5h/
+
+• 5h will be removed: Max 20x is now Ultra
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeCode/comments/1xjo3vf/5h_will_be_removed_max_20x_is_now_ultra/
+
+• Claude Code `v2.1.316`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.316
+
+• opencode `v2.2.5`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.5]]></itunes:summary>
+      <pubDate>Sat, 31 Oct 2026 08:00:01 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261031-0800.mp3" length="4815351" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261031-0800</guid>
+      <itunes:duration>5:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — October 30, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1376,71 +1463,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261008-0800.mp3" length="3752899" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261008-0800</guid>
       <itunes:duration>3:54</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 7, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• anthropic-models: `claude-haiku-5-5`
-  https://docs.anthropic.com/en/docs/about-claude/models/overview
-
-• Haiku 5.5 released
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1x03mho/haiku_55_released/
-
-• Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/
-
-• Discussion Hub for new Claude incident: Elevated errors on platform.claude.com on Oct 7, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1wzwhdg/discussion_hub_for_new_claude_incident_elevated/
-
-• OpenAI: Dot in Codex may fail to create new threads
-  https://status.openai.com
-
-• OpenAI: Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity
-  https://status.openai.com
-
-• Codex `rust-v0.161.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.161.0
-
-• Anthropic: Elevated errors on platform.claude.com
-  https://stspg.io/sjkw7njwf0mt]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• anthropic-models: `claude-haiku-5-5`
-  https://docs.anthropic.com/en/docs/about-claude/models/overview
-
-• Haiku 5.5 released
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1x03mho/haiku_55_released/
-
-• Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released
-  https://platform.claude.com/docs/en/docs/about-claude/models/overview
-  https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/
-
-• Discussion Hub for new Claude incident: Elevated errors on platform.claude.com on Oct 7, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1wzwhdg/discussion_hub_for_new_claude_incident_elevated/
-
-• OpenAI: Dot in Codex may fail to create new threads
-  https://status.openai.com
-
-• OpenAI: Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity
-  https://status.openai.com
-
-• Codex `rust-v0.161.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.161.0
-
-• Anthropic: Elevated errors on platform.claude.com
-  https://stspg.io/sjkw7njwf0mt]]></itunes:summary>
-      <pubDate>Wed, 07 Oct 2026 18:30:06 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261007-1830.mp3" length="2427133" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261007-1830</guid>
-      <itunes:duration>2:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
