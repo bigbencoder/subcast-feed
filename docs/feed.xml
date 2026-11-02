@@ -11,7 +11,34 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 02 Nov 2026 09:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:30:17 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 2, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Max 20x is now Ultra and the 5 hour limit is gone (for verified accounts)
+  https://support.claude.com/en/articles/17728952
+  https://www.reddit.com/r/ClaudeAI/comments/1xlwotm/max_20x_is_now_ultra_and_the_5_hour_limit_is_gone/
+
+• 🚀 Jev-style decisions for IMAGES are here: Fovea-4B, an open 4B model leading on ImageJev tasks (Apache-2.0)
+  https://huggingface.co/Sivasuthan/fovea-4b
+  https://www.reddit.com/r/singularity/comments/1xltc0t/jevstyle_decisions_for_images_are_here_fovea4b_an/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Max 20x is now Ultra and the 5 hour limit is gone (for verified accounts)
+  https://support.claude.com/en/articles/17728952
+  https://www.reddit.com/r/ClaudeAI/comments/1xlwotm/max_20x_is_now_ultra_and_the_5_hour_limit_is_gone/
+
+• 🚀 Jev-style decisions for IMAGES are here: Fovea-4B, an open 4B model leading on ImageJev tasks (Apache-2.0)
+  https://huggingface.co/Sivasuthan/fovea-4b
+  https://www.reddit.com/r/singularity/comments/1xltc0t/jevstyle_decisions_for_images_are_here_fovea4b_an/]]></itunes:summary>
+      <pubDate>Mon, 02 Nov 2026 19:30:02 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261102-1930.mp3" length="1352142" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261102-1930</guid>
+      <itunes:duration>1:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 2, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1340,67 +1367,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261009-1830.mp3" length="1327482" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261009-1830</guid>
       <itunes:duration>1:23</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 9, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Max plans now include API credits
-  https://support.claude.com/en/articles/11145838
-  https://www.reddit.com/r/ClaudeCode/comments/1x1bq23/max_plans_now_include_api_credits/
-
-• Claude Startup Program no longer offering a year of Claude Team and $1K in API Credits
-  https://claude.com/programs/startups
-  https://www.reddit.com/r/ClaudeAI/comments/1x1af87/claude_startup_program_no_longer_offering_a_year/
-
-• Monthly API credits are now available on Max and Team plans
-  https://platform.claude.com/docs/en/about-claude/api-credits-for-subscribers
-  https://www.reddit.com/r/ClaudeCode/comments/1x13en2/monthly_api_credits_are_now_available_on_max_and/
-
-• No more abusing Claude from Nov 12th onwards, usage policy update
-  https://www.anthropic.com/legal/aup
-  https://www.reddit.com/r/ClaudeCode/comments/1x0ybl2/no_more_abusing_claude_from_nov_12th_onwards/
-
-• Ollama `v0.40.2`
-  https://github.com/ollama/ollama/releases/tag/v0.40.2
-
-• Claude Code `v2.1.295`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.295
-
-• Codex `rust-v0.162.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.162.0]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Max plans now include API credits
-  https://support.claude.com/en/articles/11145838
-  https://www.reddit.com/r/ClaudeCode/comments/1x1bq23/max_plans_now_include_api_credits/
-
-• Claude Startup Program no longer offering a year of Claude Team and $1K in API Credits
-  https://claude.com/programs/startups
-  https://www.reddit.com/r/ClaudeAI/comments/1x1af87/claude_startup_program_no_longer_offering_a_year/
-
-• Monthly API credits are now available on Max and Team plans
-  https://platform.claude.com/docs/en/about-claude/api-credits-for-subscribers
-  https://www.reddit.com/r/ClaudeCode/comments/1x13en2/monthly_api_credits_are_now_available_on_max_and/
-
-• No more abusing Claude from Nov 12th onwards, usage policy update
-  https://www.anthropic.com/legal/aup
-  https://www.reddit.com/r/ClaudeCode/comments/1x0ybl2/no_more_abusing_claude_from_nov_12th_onwards/
-
-• Ollama `v0.40.2`
-  https://github.com/ollama/ollama/releases/tag/v0.40.2
-
-• Claude Code `v2.1.295`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.295
-
-• Codex `rust-v0.162.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.162.0]]></itunes:summary>
-      <pubDate>Fri, 09 Oct 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261009-0800.mp3" length="5262568" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261009-0800</guid>
-      <itunes:duration>5:29</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
