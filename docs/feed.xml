@@ -11,7 +11,60 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 02 Nov 2026 19:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:00:35 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 3, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Teams plans now come with a weekly limit
+  https://support.claude.com/en/articles/9266767-what-is-the-team-plan
+  https://www.reddit.com/r/ClaudeCode/comments/1xmeozw/claude_teams_plans_now_come_with_a_weekly_limit/
+
+• PSA if you have a banked reset from Claude Duet and downgrade from Ultra &gt; Max, they take your reset away
+  https://support.claude.com/en/articles/17007452-what-is-a-limit-reset
+  https://www.reddit.com/r/ClaudeCode/comments/1xm7meb/psa_if_you_have_a_banked_reset_from_claude_duet/
+
+• Ollama `v0.40.14`
+  https://github.com/ollama/ollama/releases/tag/v0.40.14
+
+• OpenAI: File upload errors in ChatGPT
+  https://status.openai.com
+
+• Claude Code `v2.1.317`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.317
+
+• Anthropic added “message threads” to the Messages API (public beta): send the conversation once, then only new messages. Already on by default in Claude Code
+  https://platform.claude.com/docs/en/release-notes/api
+  https://www.reddit.com/r/ClaudeAI/comments/1xmh012/anthropic_added_message_threads_to_the_messages/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Teams plans now come with a weekly limit
+  https://support.claude.com/en/articles/9266767-what-is-the-team-plan
+  https://www.reddit.com/r/ClaudeCode/comments/1xmeozw/claude_teams_plans_now_come_with_a_weekly_limit/
+
+• PSA if you have a banked reset from Claude Duet and downgrade from Ultra &gt; Max, they take your reset away
+  https://support.claude.com/en/articles/17007452-what-is-a-limit-reset
+  https://www.reddit.com/r/ClaudeCode/comments/1xm7meb/psa_if_you_have_a_banked_reset_from_claude_duet/
+
+• Ollama `v0.40.14`
+  https://github.com/ollama/ollama/releases/tag/v0.40.14
+
+• OpenAI: File upload errors in ChatGPT
+  https://status.openai.com
+
+• Claude Code `v2.1.317`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.317
+
+• Anthropic added “message threads” to the Messages API (public beta): send the conversation once, then only new messages. Already on by default in Claude Code
+  https://platform.claude.com/docs/en/release-notes/api
+  https://www.reddit.com/r/ClaudeAI/comments/1xmh012/anthropic_added_message_threads_to_the_messages/]]></itunes:summary>
+      <pubDate>Tue, 03 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261103-0900.mp3" length="3598254" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261103-0900</guid>
+      <itunes:duration>3:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 2, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1334,39 +1387,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261010-0800.mp3" length="3557294" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261010-0800</guid>
       <itunes:duration>3:42</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 9, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• OpenAI: Delayed Costs data in the Compliance API
-  https://status.openai.com
-
-• Claude Dashboards and Claude Motion are in beta today
-  https://claude.com/resources/articles/dashboards-and-motion
-  https://www.reddit.com/r/ClaudeCode/comments/1x1j5n2/claude_dashboards_and_claude_motion_are_in_beta/
-
-• Introduction Claude Dashboards and Claude Motion
-  https://claude.com/resources/articles/dashboards-and-motion
-  https://www.reddit.com/r/ClaudeCode/comments/1x1iwa4/introduction_claude_dashboards_and_claude_motion/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• OpenAI: Delayed Costs data in the Compliance API
-  https://status.openai.com
-
-• Claude Dashboards and Claude Motion are in beta today
-  https://claude.com/resources/articles/dashboards-and-motion
-  https://www.reddit.com/r/ClaudeCode/comments/1x1j5n2/claude_dashboards_and_claude_motion_are_in_beta/
-
-• Introduction Claude Dashboards and Claude Motion
-  https://claude.com/resources/articles/dashboards-and-motion
-  https://www.reddit.com/r/ClaudeCode/comments/1x1iwa4/introduction_claude_dashboards_and_claude_motion/]]></itunes:summary>
-      <pubDate>Fri, 09 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261009-1830.mp3" length="1327482" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261009-1830</guid>
-      <itunes:duration>1:23</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
