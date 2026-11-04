@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 04 Nov 2026 09:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:30:14 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 4, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• TIL you can manage Claude Code skills like project dependencies using APM
+  https://github.com/microsoft/apm
+  https://www.reddit.com/r/ClaudeAI/comments/1xnm8x2/til_you_can_manage_claude_code_skills_like/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• TIL you can manage Claude Code skills like project dependencies using APM
+  https://github.com/microsoft/apm
+  https://www.reddit.com/r/ClaudeAI/comments/1xnm8x2/til_you_can_manage_claude_code_skills_like/]]></itunes:summary>
+      <pubDate>Wed, 04 Nov 2026 19:30:02 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261104-1930.mp3" length="1170747" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261104-1930</guid>
+      <itunes:duration>1:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 4, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1354,29 +1373,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261012-1830.mp3" length="1089663" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261012-1830</guid>
       <itunes:duration>1:08</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 11, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Ollama `v0.40.3`
-  https://github.com/ollama/ollama/releases/tag/v0.40.3
-
-• opencode `v1.19.0`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.0]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Ollama `v0.40.3`
-  https://github.com/ollama/ollama/releases/tag/v0.40.3
-
-• opencode `v1.19.0`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.0]]></itunes:summary>
-      <pubDate>Sun, 11 Oct 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261011-0800.mp3" length="2104050" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261011-0800</guid>
-      <itunes:duration>2:11</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
