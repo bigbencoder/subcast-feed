@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 04 Nov 2026 19:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:00:31 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 5, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-image-2.6`
+  https://platform.openai.com/docs/models
+
+• Ricursive Intelligence released their first LLM: Ripple-65B Preview, a 65B dense model.
+  https://huggingface.co/ricursiveAI/Ripple-65B-Preview
+  https://www.reddit.com/r/singularity/comments/1xnwetn/ricursive_intelligence_released_their_first_llm/
+
+• OpenAI: Elevated error rates across paid ChatGPT plans
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-image-2.6`
+  https://platform.openai.com/docs/models
+
+• Ricursive Intelligence released their first LLM: Ripple-65B Preview, a 65B dense model.
+  https://huggingface.co/ricursiveAI/Ripple-65B-Preview
+  https://www.reddit.com/r/singularity/comments/1xnwetn/ricursive_intelligence_released_their_first_llm/
+
+• OpenAI: Elevated error rates across paid ChatGPT plans
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261105-0900.mp3" length="2784070" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261105-0900</guid>
+      <itunes:duration>2:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 4, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1348,31 +1379,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261013-1830.mp3" length="1182032" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261013-1830</guid>
       <itunes:duration>1:14</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 12, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Cloudflare released Clef-omni, a 30B-A3B decision model that takes audio and video directly (Apache-2.0, Qwen3-Omni base)
-  https://huggingface.co/Cloudflare/Clef-omni
-  https://www.reddit.com/r/singularity/comments/1x3mtxw/cloudflare_released_clefomni_a_30ba3b_decision/
-
-• OpenAI: Delayed Costs data in the Compliance API
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Cloudflare released Clef-omni, a 30B-A3B decision model that takes audio and video directly (Apache-2.0, Qwen3-Omni base)
-  https://huggingface.co/Cloudflare/Clef-omni
-  https://www.reddit.com/r/singularity/comments/1x3mtxw/cloudflare_released_clefomni_a_30ba3b_decision/
-
-• OpenAI: Delayed Costs data in the Compliance API
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Mon, 12 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261012-1830.mp3" length="1089663" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261012-1830</guid>
-      <itunes:duration>1:08</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
