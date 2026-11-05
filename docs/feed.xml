@@ -11,7 +11,36 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 05 Nov 2026 09:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:30:16 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 5, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-6-cyber`
+  https://platform.openai.com/docs/models
+
+• opencode `process-daemon-v0.5.0`
+  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.0
+
+• OpenAI: ChatGPT Issues
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-6-cyber`
+  https://platform.openai.com/docs/models
+
+• opencode `process-daemon-v0.5.0`
+  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.0
+
+• OpenAI: ChatGPT Issues
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 19:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261105-1930.mp3" length="1202094" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261105-1930</guid>
+      <itunes:duration>1:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 5, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1342,43 +1371,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261014-0800.mp3" length="2878946" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261014-0800</guid>
       <itunes:duration>3:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 13, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Gemini 4 Argon only for Ultra in AI Studio
-  https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/
-  https://www.reddit.com/r/singularity/comments/1x517su/gemini_4_argon_only_for_ultra_in_ai_studio/
-
-• Anthropic: Elevated errors on platform.claude.com
-  https://status.anthropic.com
-
-• OpenAI: Degraded performance in GPT-6.1 Sol Codex and Work mode
-  https://status.openai.com
-
-• OpenAI: Degraded performance in GPT-6.1 Sol Work mode
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Gemini 4 Argon only for Ultra in AI Studio
-  https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/
-  https://www.reddit.com/r/singularity/comments/1x517su/gemini_4_argon_only_for_ultra_in_ai_studio/
-
-• Anthropic: Elevated errors on platform.claude.com
-  https://status.anthropic.com
-
-• OpenAI: Degraded performance in GPT-6.1 Sol Codex and Work mode
-  https://status.openai.com
-
-• OpenAI: Degraded performance in GPT-6.1 Sol Work mode
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Tue, 13 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261013-1830.mp3" length="1182032" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261013-1830</guid>
-      <itunes:duration>1:14</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
