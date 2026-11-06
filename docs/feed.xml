@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 06 Nov 2026 09:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:30:20 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 6, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated error rates with Brex Cards and U.S. business Mastercards
+  https://status.openai.com
+
+• Claude Code `v2.1.319`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.319
+
+• agent-desktop (Vercel Labs): computer use for Claude Code via the OS accessibility tree instead of screenshots
+  https://github.com/vercel-labs/agent-desktop
+  https://www.reddit.com/r/ClaudeAI/comments/1xp8xcp/agentdesktop_vercel_labs_computer_use_for_claude/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated error rates with Brex Cards and U.S. business Mastercards
+  https://status.openai.com
+
+• Claude Code `v2.1.319`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.319
+
+• agent-desktop (Vercel Labs): computer use for Claude Code via the OS accessibility tree instead of screenshots
+  https://github.com/vercel-labs/agent-desktop
+  https://www.reddit.com/r/ClaudeAI/comments/1xp8xcp/agentdesktop_vercel_labs_computer_use_for_claude/]]></itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 19:30:03 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261106-1930.mp3" length="1798104" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261106-1930</guid>
+      <itunes:duration>1:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 6, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1342,35 +1373,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261015-0800.mp3" length="2122440" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261015-0800</guid>
       <itunes:duration>2:13</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 14, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• OpenAI: Delayed Costs data in the Compliance API
-  https://status.openai.com
-
-• OpenAI: Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst
-  https://status.openai.com
-
-• OpenAI: Degraded performance in Codex and ChatGPT Work
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• OpenAI: Delayed Costs data in the Compliance API
-  https://status.openai.com
-
-• OpenAI: Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst
-  https://status.openai.com
-
-• OpenAI: Degraded performance in Codex and ChatGPT Work
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Wed, 14 Oct 2026 18:30:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261014-1830.mp3" length="1210035" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261014-1830</guid>
-      <itunes:duration>1:16</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
