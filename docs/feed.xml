@@ -11,7 +11,48 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 06 Nov 2026 19:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:00:34 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 7, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Inkling releases Inkling Small 2 - highest AA scoring non-chinese open-weights model (pending release)
+  https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it
+  https://www.reddit.com/r/singularity/comments/1xoz60i/inkling_releases_inkling_small_2_highest_aa/
+
+• opencode `v2.2.6`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.6
+
+• Anthropic&apos;s message threads are in public beta - agents can stop resending the whole conversation every turn
+  https://platform.claude.com/docs/en/release-notes/api
+  https://www.reddit.com/r/ClaudeCode/comments/1xpvzzb/anthropics_message_threads_are_in_public_beta/
+
+• Claude just added cashflow bank connector that’s read only and it’s FREE!!! You don’t need to pay for era context anymore thank god
+  https://support.claude.com/en/articles/18185620-use-personal-finance-in-claude
+  https://www.reddit.com/r/ClaudeAI/comments/1xpragn/claude_just_added_cashflow_bank_connector_thats/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Inkling releases Inkling Small 2 - highest AA scoring non-chinese open-weights model (pending release)
+  https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it
+  https://www.reddit.com/r/singularity/comments/1xoz60i/inkling_releases_inkling_small_2_highest_aa/
+
+• opencode `v2.2.6`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.6
+
+• Anthropic&apos;s message threads are in public beta - agents can stop resending the whole conversation every turn
+  https://platform.claude.com/docs/en/release-notes/api
+  https://www.reddit.com/r/ClaudeCode/comments/1xpvzzb/anthropics_message_threads_are_in_public_beta/
+
+• Claude just added cashflow bank connector that’s read only and it’s FREE!!! You don’t need to pay for era context anymore thank god
+  https://support.claude.com/en/articles/18185620-use-personal-finance-in-claude
+  https://www.reddit.com/r/ClaudeAI/comments/1xpragn/claude_just_added_cashflow_bank_connector_thats/]]></itunes:summary>
+      <pubDate>Sat, 07 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261107-0900.mp3" length="3725732" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261107-0900</guid>
+      <itunes:duration>3:53</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 6, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1356,23 +1397,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261015-1830.mp3" length="702633" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261015-1830</guid>
       <itunes:duration>0:44</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 15, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.300`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.300]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.300`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.300]]></itunes:summary>
-      <pubDate>Thu, 15 Oct 2026 08:00:01 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261015-0800.mp3" length="2122440" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261015-0800</guid>
-      <itunes:duration>2:13</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
