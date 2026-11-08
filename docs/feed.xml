@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 08 Nov 2026 09:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:30:17 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 8, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated errors with image generation
+  https://status.openai.com
+
+• Anthropic: Degraded performance for Claude Fable 5.1
+  https://status.anthropic.com
+
+• Claude Code 2.1.319: new denyInsteadOfPrompting setting, MCP tasks go to the background, /loop behavior change
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.319
+  https://www.reddit.com/r/ClaudeAI/comments/1xqvimf/claude_code_21319_new_denyinsteadofprompting/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated errors with image generation
+  https://status.openai.com
+
+• Anthropic: Degraded performance for Claude Fable 5.1
+  https://status.anthropic.com
+
+• Claude Code 2.1.319: new denyInsteadOfPrompting setting, MCP tasks go to the background, /loop behavior change
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.319
+  https://www.reddit.com/r/ClaudeAI/comments/1xqvimf/claude_code_21319_new_denyinsteadofprompting/]]></itunes:summary>
+      <pubDate>Sun, 08 Nov 2026 19:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261108-1930.mp3" length="1477947" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261108-1930</guid>
+      <itunes:duration>1:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 8, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1356,55 +1387,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261016-1830.mp3" length="835962" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261016-1830</guid>
       <itunes:duration>0:52</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 16, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• META has released Muse Spark Open, the most capable US open-weight model to date
-  https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B
-  https://www.reddit.com/r/singularity/comments/1x6se5a/meta_has_released_muse_spark_open_the_most/
-
-• opencode `v1.19.2`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.2
-
-• Codex `rust-v0.163.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.163.0
-
-• Ollama `v0.40.5`
-  https://github.com/ollama/ollama/releases/tag/v0.40.5
-
-• opencode `v1.19.1`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.1
-
-• Claude Code `v2.1.301`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.301]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• META has released Muse Spark Open, the most capable US open-weight model to date
-  https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B
-  https://www.reddit.com/r/singularity/comments/1x6se5a/meta_has_released_muse_spark_open_the_most/
-
-• opencode `v1.19.2`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.2
-
-• Codex `rust-v0.163.0`
-  https://github.com/openai/codex/releases/tag/rust-v0.163.0
-
-• Ollama `v0.40.5`
-  https://github.com/ollama/ollama/releases/tag/v0.40.5
-
-• opencode `v1.19.1`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.1
-
-• Claude Code `v2.1.301`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.301]]></itunes:summary>
-      <pubDate>Fri, 16 Oct 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261016-0800.mp3" length="5084935" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261016-0800</guid>
-      <itunes:duration>5:18</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
