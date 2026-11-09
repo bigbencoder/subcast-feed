@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 08 Nov 2026 19:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:00:20 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 9, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Ant Ling has published Claude Code setup instructions for its new Ling-3.2-flash model
+  https://developer.ant-ling.com/en/docs/integrations/claude-code/
+  https://www.reddit.com/r/ClaudeAI/comments/1xrhojf/ant_ling_has_published_claude_code_setup/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Ant Ling has published Claude Code setup instructions for its new Ling-3.2-flash model
+  https://developer.ant-ling.com/en/docs/integrations/claude-code/
+  https://www.reddit.com/r/ClaudeAI/comments/1xrhojf/ant_ling_has_published_claude_code_setup/]]></itunes:summary>
+      <pubDate>Mon, 09 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261109-0900.mp3" length="1684419" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261109-0900</guid>
+      <itunes:duration>1:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 8, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1358,35 +1377,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261017-0800.mp3" length="3126378" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261017-0800</guid>
       <itunes:duration>3:15</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 16, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• opencode `pr-56106-video`
-  https://github.com/anomalyco/opencode/releases/tag/pr-56106-video
-
-• opencode `v1.19.3`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.3
-
-• OpenAI: Delayed Costs data in the Compliance API
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• opencode `pr-56106-video`
-  https://github.com/anomalyco/opencode/releases/tag/pr-56106-video
-
-• opencode `v1.19.3`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.3
-
-• OpenAI: Delayed Costs data in the Compliance API
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Fri, 16 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261016-1830.mp3" length="835962" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261016-1830</guid>
-      <itunes:duration>0:52</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
