@@ -11,7 +11,52 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 10 Nov 2026 09:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:30:21 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 10, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-live-1`
+  https://platform.openai.com/docs/models
+
+• Claude Fable 5.2 is out at $8/$40 per million tokens. The API changes worth checking before you switch
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1xshu6a/claude_fable_52_is_out_at_840_per_million_tokens/
+
+• OpenAI: Elevated error rates with some U.S. business Mastercards
+  https://status.openai.com
+
+• opencode `v2.2.7`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.7
+
+• New in Claude: Sheets and Whiteboard
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1xsuc07/new_in_claude_sheets_and_whiteboard/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• openai-models: `gpt-live-1`
+  https://platform.openai.com/docs/models
+
+• Claude Fable 5.2 is out at $8/$40 per million tokens. The API changes worth checking before you switch
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1xshu6a/claude_fable_52_is_out_at_840_per_million_tokens/
+
+• OpenAI: Elevated error rates with some U.S. business Mastercards
+  https://status.openai.com
+
+• opencode `v2.2.7`
+  https://github.com/anomalyco/opencode/releases/tag/v2.2.7
+
+• New in Claude: Sheets and Whiteboard
+  https://claude.com/pricing
+  https://www.reddit.com/r/ClaudeAI/comments/1xsuc07/new_in_claude_sheets_and_whiteboard/]]></itunes:summary>
+      <pubDate>Tue, 10 Nov 2026 19:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261110-1930.mp3" length="2027146" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261110-1930</guid>
+      <itunes:duration>2:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 10, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1438,25 +1483,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261019-0800.mp3" length="1792253" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261019-0800</guid>
       <itunes:duration>1:52</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 18, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• DeepSeek v4.1-Flash-1017 new version
-  https://api-docs.deepseek.com/news/news261017
-  https://www.reddit.com/r/singularity/comments/1x8cnzp/deepseek_v41flash1017_new_version/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• DeepSeek v4.1-Flash-1017 new version
-  https://api-docs.deepseek.com/news/news261017
-  https://www.reddit.com/r/singularity/comments/1x8cnzp/deepseek_v41flash1017_new_version/]]></itunes:summary>
-      <pubDate>Sun, 18 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261018-1830.mp3" length="847665" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261018-1830</guid>
-      <itunes:duration>0:53</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
