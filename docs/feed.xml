@@ -11,7 +11,98 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 09 Nov 2026 19:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:43 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 10, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Fable 5.2 is out: Medium effort is the default in Claude Code, 49.1% on FrontierCode 2.0
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xsc7gv/claude_fable_52_is_out_medium_effort_is_the/
+
+• Fable 5.2 and Mythos 5.2 System Card
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1xs7sqx/fable_52_and_mythos_52_system_card/
+
+• Fable 5.2 is here
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs2qbq/fable_52_is_here/
+
+• Introducing Claude Fable 5.2 and Claude Mythos 5.2
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs21w9/introducing_claude_fable_52_and_claude_mythos_52/
+
+• Introducing Fable 5.2 and Mythos 5.2
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/singularity/comments/1xs0d1i/introducing_fable_52_and_mythos_52/
+
+• Introducing Claude Fable 5.2 and Mythos 5.2
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs10l7/introducing_claude_fable_52_and_mythos_52/
+
+• Fable 5.2 vien d&apos;arriver
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs0o1k/fable_52_vien_darriver/
+
+• Fable 5.2 is here! 30% cheaper and much cheaper than Fable 5.1
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs0qxm/fable_52_is_here_30_cheaper_and_much_cheaper_than/
+
+• Fable 5.2 is out
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs0flp/fable_52_is_out/
+
+• Fable reset - refills your 5 hour limit and returns what fable used from your weekly limit.
+  https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers
+  https://www.reddit.com/r/ClaudeCode/comments/1xs690p/fable_reset_refills_your_5_hour_limit_and_returns/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Fable 5.2 is out: Medium effort is the default in Claude Code, 49.1% on FrontierCode 2.0
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xsc7gv/claude_fable_52_is_out_medium_effort_is_the/
+
+• Fable 5.2 and Mythos 5.2 System Card
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeAI/comments/1xs7sqx/fable_52_and_mythos_52_system_card/
+
+• Fable 5.2 is here
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs2qbq/fable_52_is_here/
+
+• Introducing Claude Fable 5.2 and Claude Mythos 5.2
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs21w9/introducing_claude_fable_52_and_claude_mythos_52/
+
+• Introducing Fable 5.2 and Mythos 5.2
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/singularity/comments/1xs0d1i/introducing_fable_52_and_mythos_52/
+
+• Introducing Claude Fable 5.2 and Mythos 5.2
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs10l7/introducing_claude_fable_52_and_mythos_52/
+
+• Fable 5.2 vien d&apos;arriver
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs0o1k/fable_52_vien_darriver/
+
+• Fable 5.2 is here! 30% cheaper and much cheaper than Fable 5.1
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs0qxm/fable_52_is_here_30_cheaper_and_much_cheaper_than/
+
+• Fable 5.2 is out
+  https://platform.claude.com/docs/en/about-claude/models/overview
+  https://www.reddit.com/r/ClaudeCode/comments/1xs0flp/fable_52_is_out/
+
+• Fable reset - refills your 5 hour limit and returns what fable used from your weekly limit.
+  https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers
+  https://www.reddit.com/r/ClaudeCode/comments/1xs690p/fable_reset_refills_your_5_hour_limit_and_returns/]]></itunes:summary>
+      <pubDate>Tue, 10 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261110-0900.mp3" length="3926352" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261110-0900</guid>
+      <itunes:duration>4:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 9, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1366,23 +1457,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261018-1830.mp3" length="847665" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261018-1830</guid>
       <itunes:duration>0:53</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 17, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Ollama `v0.40.6`
-  https://github.com/ollama/ollama/releases/tag/v0.40.6]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Ollama `v0.40.6`
-  https://github.com/ollama/ollama/releases/tag/v0.40.6]]></itunes:summary>
-      <pubDate>Sat, 17 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261017-1830.mp3" length="890715" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261017-1830</guid>
-      <itunes:duration>0:56</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
