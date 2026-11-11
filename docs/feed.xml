@@ -11,7 +11,56 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 10 Nov 2026 19:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:00:34 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 11, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Qwen 4 Max Preview released
+  https://x.com/Alibaba_Qwen/status/2120335993643684315
+  https://www.reddit.com/r/singularity/comments/1xt5qc3/qwen_4_max_preview_released/
+
+• Discussion Hub for new Claude incident: Elevated errors on Fable 52 and Mythos 52 on Nov 10, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xszs5l/discussion_hub_for_new_claude_incident_elevated/
+
+• Gemini Carbon out now while we wait for 6.2 Astra
+  https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
+  https://www.reddit.com/r/codex/comments/1xsy6u3/gemini_carbon_out_now_while_we_wait_for_62_astra/
+
+• Codex `rust-v0.167.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.167.1
+
+• Claude can now open apps like Asana, Canva and Vercel inside the chat and work in them (rolling out, all plans)
+  https://support.claude.com/en/articles/13454812/use-interactive-connectors-in-claude
+  https://www.reddit.com/r/ClaudeAI/comments/1xt7krc/claude_can_now_open_apps_like_asana_canva_and/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Qwen 4 Max Preview released
+  https://x.com/Alibaba_Qwen/status/2120335993643684315
+  https://www.reddit.com/r/singularity/comments/1xt5qc3/qwen_4_max_preview_released/
+
+• Discussion Hub for new Claude incident: Elevated errors on Fable 52 and Mythos 52 on Nov 10, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xszs5l/discussion_hub_for_new_claude_incident_elevated/
+
+• Gemini Carbon out now while we wait for 6.2 Astra
+  https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
+  https://www.reddit.com/r/codex/comments/1xsy6u3/gemini_carbon_out_now_while_we_wait_for_62_astra/
+
+• Codex `rust-v0.167.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.167.1
+
+• Claude can now open apps like Asana, Canva and Vercel inside the chat and work in them (rolling out, all plans)
+  https://support.claude.com/en/articles/13454812/use-interactive-connectors-in-claude
+  https://www.reddit.com/r/ClaudeAI/comments/1xt7krc/claude_can_now_open_apps_like_asana_canva_and/]]></itunes:summary>
+      <pubDate>Wed, 11 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261111-0900.mp3" length="3428981" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261111-0900</guid>
+      <itunes:duration>3:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 10, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1458,31 +1507,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261019-1830.mp3" length="1127697" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261019-1830</guid>
       <itunes:duration>1:10</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 19, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Day 23: Codex stops reading AGENTS.md files past 32 KiB by default; measure yours
-  https://developers.openai.com/codex/guides/agents-md
-  https://www.reddit.com/r/ClaudeCode/comments/1x9ghwj/day_23_codex_stops_reading_agentsmd_files_past_32/
-
-• Claude Code `v2.1.303`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.303]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Day 23: Codex stops reading AGENTS.md files past 32 KiB by default; measure yours
-  https://developers.openai.com/codex/guides/agents-md
-  https://www.reddit.com/r/ClaudeCode/comments/1x9ghwj/day_23_codex_stops_reading_agentsmd_files_past_32/
-
-• Claude Code `v2.1.303`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.303]]></itunes:summary>
-      <pubDate>Mon, 19 Oct 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261019-0800.mp3" length="1792253" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261019-0800</guid>
-      <itunes:duration>1:52</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
