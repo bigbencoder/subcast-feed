@@ -11,7 +11,52 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 11 Nov 2026 09:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:00:32 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 12, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Downgraded my plan and all my saved limit resets are gone
+  https://support.claude.com/en/articles/17007452-what-is-a-limit-reset
+  https://www.reddit.com/r/ClaudeAI/comments/1xtv25m/downgraded_my_plan_and_all_my_saved_limit_resets/
+
+• OpenAI: Unable to start new Workspace Agent runs
+  https://status.openai.com
+
+• Codex `rust-v0.167.2`
+  https://github.com/openai/codex/releases/tag/rust-v0.167.2
+
+• opencode `process-daemon-v0.5.2`
+  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2
+
+• PSA: Claude Code now automatically syncs claude.ai web skills and plugins to local machines (enabled by default)
+  https://code.claude.com/docs/en/skills
+  https://www.reddit.com/r/ClaudeAI/comments/1xtrrxf/psa_claude_code_now_automatically_syncs_claudeai/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Downgraded my plan and all my saved limit resets are gone
+  https://support.claude.com/en/articles/17007452-what-is-a-limit-reset
+  https://www.reddit.com/r/ClaudeAI/comments/1xtv25m/downgraded_my_plan_and_all_my_saved_limit_resets/
+
+• OpenAI: Unable to start new Workspace Agent runs
+  https://status.openai.com
+
+• Codex `rust-v0.167.2`
+  https://github.com/openai/codex/releases/tag/rust-v0.167.2
+
+• opencode `process-daemon-v0.5.2`
+  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.5.2
+
+• PSA: Claude Code now automatically syncs claude.ai web skills and plugins to local machines (enabled by default)
+  https://code.claude.com/docs/en/skills
+  https://www.reddit.com/r/ClaudeAI/comments/1xtrrxf/psa_claude_code_now_automatically_syncs_claudeai/]]></itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261112-0900.mp3" length="3153546" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261112-0900</guid>
+      <itunes:duration>3:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 11, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1482,31 +1527,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261020-0800.mp3" length="3358764" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261020-0800</guid>
       <itunes:duration>3:30</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 19, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• OpenAI: File Download errors
-  https://status.openai.com
-
-• PSA: Organization Admins can now see skills used across the team
-  https://support.claude.com/en/articles/12883420
-  https://www.reddit.com/r/ClaudeAI/comments/1xa105c/psa_organization_admins_can_now_see_skills_used/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• OpenAI: File Download errors
-  https://status.openai.com
-
-• PSA: Organization Admins can now see skills used across the team
-  https://support.claude.com/en/articles/12883420
-  https://www.reddit.com/r/ClaudeAI/comments/1xa105c/psa_organization_admins_can_now_see_skills_used/]]></itunes:summary>
-      <pubDate>Mon, 19 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261019-1830.mp3" length="1127697" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261019-1830</guid>
-      <itunes:duration>1:10</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
