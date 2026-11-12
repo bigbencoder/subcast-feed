@@ -11,7 +11,44 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 12 Nov 2026 09:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:30:19 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 12, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors affecting the Microsoft 365 connector on Nov 12, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xujm6h/discussion_hub_for_new_claude_incident_elevated/
+
+• OpenAI: Elevated errors affecting the Microsoft 365 connector
+  https://status.openai.com
+
+• Anthropic: Elevated errors affecting the Microsoft 365 connector
+  https://stspg.io/m0rbx38nmy1c
+
+• OpenAI: GPT-image-2.5 and 2.6 Sunburst &amp; Flare High error rate
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors affecting the Microsoft 365 connector on Nov 12, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xujm6h/discussion_hub_for_new_claude_incident_elevated/
+
+• OpenAI: Elevated errors affecting the Microsoft 365 connector
+  https://status.openai.com
+
+• Anthropic: Elevated errors affecting the Microsoft 365 connector
+  https://stspg.io/m0rbx38nmy1c
+
+• OpenAI: GPT-image-2.5 and 2.6 Sunburst &amp; Flare High error rate
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 19:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261112-1930.mp3" length="1623397" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261112-1930</guid>
+      <itunes:duration>1:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 12, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1502,31 +1539,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261020-1830.mp3" length="869817" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261020-1830</guid>
       <itunes:duration>0:54</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 20, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Day 24: In the VS Code extension, CLAUDE_CONFIG_DIR only works as an absolute path
-  https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
-  https://www.reddit.com/r/ClaudeCode/comments/1xabgxv/day_24_in_the_vs_code_extension_claude_config_dir/
-
-• Claude Code `v2.1.304`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.304]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Day 24: In the VS Code extension, CLAUDE_CONFIG_DIR only works as an absolute path
-  https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
-  https://www.reddit.com/r/ClaudeCode/comments/1xabgxv/day_24_in_the_vs_code_extension_claude_config_dir/
-
-• Claude Code `v2.1.304`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.304]]></itunes:summary>
-      <pubDate>Tue, 20 Oct 2026 08:00:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261020-0800.mp3" length="3358764" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261020-0800</guid>
-      <itunes:duration>3:30</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
