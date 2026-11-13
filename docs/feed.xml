@@ -11,7 +11,58 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 13 Nov 2026 09:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:30:20 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 13, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Fable 5.2 launch resets disappeared after switching Ultra → Max (still an eligible plan), no warning
+  https://support.claude.com/en/articles/17506494
+  https://www.reddit.com/r/ClaudeAI/comments/1xvagbx/fable_52_launch_resets_disappeared_after/
+
+• Discussion Hub for new Claude incident: Elevated errors on claude.ai, the Claude API, and Claude Code on Nov 13, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xv7hxz/discussion_hub_for_new_claude_incident_elevated/
+
+• OpenAI: Delayed Costs Data in the Compliance API
+  https://status.openai.com
+
+• Anthropic: Elevated errors on claude.ai, the Claude API, and Claude Code
+  https://status.anthropic.com
+
+• Anthropic: Elevated errors on claude.ai, Claude Code, and platform.claude.com
+  https://status.anthropic.com
+
+• opencode `v2.3.0`
+  https://github.com/anomalyco/opencode/releases/tag/v2.3.0]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Fable 5.2 launch resets disappeared after switching Ultra → Max (still an eligible plan), no warning
+  https://support.claude.com/en/articles/17506494
+  https://www.reddit.com/r/ClaudeAI/comments/1xvagbx/fable_52_launch_resets_disappeared_after/
+
+• Discussion Hub for new Claude incident: Elevated errors on claude.ai, the Claude API, and Claude Code on Nov 13, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xv7hxz/discussion_hub_for_new_claude_incident_elevated/
+
+• OpenAI: Delayed Costs Data in the Compliance API
+  https://status.openai.com
+
+• Anthropic: Elevated errors on claude.ai, the Claude API, and Claude Code
+  https://status.anthropic.com
+
+• Anthropic: Elevated errors on claude.ai, Claude Code, and platform.claude.com
+  https://status.anthropic.com
+
+• opencode `v2.3.0`
+  https://github.com/anomalyco/opencode/releases/tag/v2.3.0]]></itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 19:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261113-1930.mp3" length="2088168" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261113-1930</guid>
+      <itunes:duration>2:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 13, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1528,49 +1579,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261021-1830.mp3" length="1010669" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261021-1830</guid>
       <itunes:duration>1:03</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 21, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Heads up: CCAO-F, CCDV-F and CCAR-P change on Dec 7 (new guides Nov 17)
-  https://www.pearsonvue.com/us/en/anthropic.html
-  https://www.reddit.com/r/ClaudeAI/comments/1xb62vz/heads_up_ccaof_ccdvf_and_ccarp_change_on_dec_7/
-
-• Ollama `v0.40.7`
-  https://github.com/ollama/ollama/releases/tag/v0.40.7
-
-• Claude Code `v2.1.306`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.306
-
-• OpenAI: Degraded performance in ChatGPT, Codex, and APIs
-  https://status.openai.com
-
-• Claude Code `v2.1.305`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.305]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Heads up: CCAO-F, CCDV-F and CCAR-P change on Dec 7 (new guides Nov 17)
-  https://www.pearsonvue.com/us/en/anthropic.html
-  https://www.reddit.com/r/ClaudeAI/comments/1xb62vz/heads_up_ccaof_ccdvf_and_ccarp_change_on_dec_7/
-
-• Ollama `v0.40.7`
-  https://github.com/ollama/ollama/releases/tag/v0.40.7
-
-• Claude Code `v2.1.306`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.306
-
-• OpenAI: Degraded performance in ChatGPT, Codex, and APIs
-  https://status.openai.com
-
-• Claude Code `v2.1.305`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.305]]></itunes:summary>
-      <pubDate>Wed, 21 Oct 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261021-0800.mp3" length="4222267" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261021-0800</guid>
-      <itunes:duration>4:24</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
