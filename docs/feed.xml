@@ -11,7 +11,58 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 12 Nov 2026 19:30:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:00:43 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 13, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Codex `rust-v0.169.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.169.0
+
+• OpenAI: Sites: Publishing failing
+  https://status.openai.com
+
+• Codex `rust-v0.168.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.168.0
+
+• Claude Code `v2.1.323`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.323
+
+• Claude Managed Agents can now run self-hosted, inside your own perimeter (private beta)
+  https://platform.claude.com/docs/en/managed-agents/self-hosted
+  https://www.reddit.com/r/ClaudeAI/comments/1xuw68g/claude_managed_agents_can_now_run_selfhosted/
+
+• Claude Managed Agents can now be self-hosted (private beta): harness, sandboxes, credentials and session history all run in your own cloud
+  https://platform.claude.com/docs/en/managed-agents/self-hosted
+  https://www.reddit.com/r/ClaudeAI/comments/1xuwdfs/claude_managed_agents_can_now_be_selfhosted/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Codex `rust-v0.169.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.169.0
+
+• OpenAI: Sites: Publishing failing
+  https://status.openai.com
+
+• Codex `rust-v0.168.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.168.0
+
+• Claude Code `v2.1.323`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.323
+
+• Claude Managed Agents can now run self-hosted, inside your own perimeter (private beta)
+  https://platform.claude.com/docs/en/managed-agents/self-hosted
+  https://www.reddit.com/r/ClaudeAI/comments/1xuw68g/claude_managed_agents_can_now_run_selfhosted/
+
+• Claude Managed Agents can now be self-hosted (private beta): harness, sandboxes, credentials and session history all run in your own cloud
+  https://platform.claude.com/docs/en/managed-agents/self-hosted
+  https://www.reddit.com/r/ClaudeAI/comments/1xuwdfs/claude_managed_agents_can_now_be_selfhosted/]]></itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261113-0900.mp3" length="4345147" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261113-0900</guid>
+      <itunes:duration>4:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 12, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1520,25 +1571,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261021-0800.mp3" length="4222267" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261021-0800</guid>
       <itunes:duration>4:24</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 20, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• MiniMax M3.1 Flash - New release
-  https://agent.minimax.io/tools/m3-1-flash-preview
-  https://www.reddit.com/r/singularity/comments/1xalh1z/minimax_m31_flash_new_release/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• MiniMax M3.1 Flash - New release
-  https://agent.minimax.io/tools/m3-1-flash-preview
-  https://www.reddit.com/r/singularity/comments/1xalh1z/minimax_m31_flash_new_release/]]></itunes:summary>
-      <pubDate>Tue, 20 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261020-1830.mp3" length="869817" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261020-1830</guid>
-      <itunes:duration>0:54</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
