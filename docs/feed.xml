@@ -11,7 +11,62 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 13 Nov 2026 19:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:00:29 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 14, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Some users unable to sign up with Apple on the Claude iOS app on Nov 14, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xvw39p/discussion_hub_for_new_claude_incident_some_users/
+
+• Anthropic: Some users unable to sign up with Apple on the Claude iOS app
+  https://stspg.io/4858wf40dx89
+
+• OpenAI: Elevated errors with ChatGPT billing and Ads billing
+  https://status.openai.com
+
+• Anthropic: Elevated purchasing errors on claude.ai
+  https://status.anthropic.com
+
+• OpenAI: Elevated errors affecting the Microsoft 365 connector
+  https://status.openai.com
+
+• Anthropic: Elevated errors affecting the Microsoft 365 connector
+  https://status.anthropic.com
+
+• Claude Code `v2.1.325`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.325]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Some users unable to sign up with Apple on the Claude iOS app on Nov 14, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xvw39p/discussion_hub_for_new_claude_incident_some_users/
+
+• Anthropic: Some users unable to sign up with Apple on the Claude iOS app
+  https://stspg.io/4858wf40dx89
+
+• OpenAI: Elevated errors with ChatGPT billing and Ads billing
+  https://status.openai.com
+
+• Anthropic: Elevated purchasing errors on claude.ai
+  https://status.anthropic.com
+
+• OpenAI: Elevated errors affecting the Microsoft 365 connector
+  https://status.openai.com
+
+• Anthropic: Elevated errors affecting the Microsoft 365 connector
+  https://status.anthropic.com
+
+• Claude Code `v2.1.325`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.325]]></itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261114-0900.mp3" length="2837151" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261114-0900</guid>
+      <itunes:duration>2:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 13, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1556,29 +1611,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261022-0800.mp3" length="4784004" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261022-0800</guid>
       <itunes:duration>4:59</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 21, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• OpenAI: Elevated error rates for gpt-5.6-luna API requests
-  https://status.openai.com
-
-• OpenAI: Elevated FedRAMP API error rates for Astra and Sol
-  https://status.openai.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• OpenAI: Elevated error rates for gpt-5.6-luna API requests
-  https://status.openai.com
-
-• OpenAI: Elevated FedRAMP API error rates for Astra and Sol
-  https://status.openai.com]]></itunes:summary>
-      <pubDate>Wed, 21 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261021-1830.mp3" length="1010669" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261021-1830</guid>
-      <itunes:duration>1:03</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
