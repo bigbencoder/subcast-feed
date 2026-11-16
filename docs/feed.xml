@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sun, 15 Nov 2026 09:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:00:22 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 16, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2 on Nov 16, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xxjl2n/discussion_hub_for_new_claude_incident_elevated/
+
+• Anthropic: Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2
+  https://stspg.io/n18qjkd7dt4q
+
+• OpenAI: Delayed Costs Data in the Compliance API
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2 on Nov 16, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xxjl2n/discussion_hub_for_new_claude_incident_elevated/
+
+• Anthropic: Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2
+  https://stspg.io/n18qjkd7dt4q
+
+• OpenAI: Delayed Costs Data in the Compliance API
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 09:00:01 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261116-0900.mp3" length="2323479" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261116-0900</guid>
+      <itunes:duration>2:25</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 15, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1532,35 +1563,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261023-0800.mp3" length="3718208" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261023-0800</guid>
       <itunes:duration>3:52</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 22, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• opencode `v1.19.4`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.4
-
-• OpenAI: ChatGPT conversion failures in India, Japan and Korea. And Response API errors
-  https://status.openai.com
-
-• Anthropic: Elevated errors affecting Connectors
-  https://status.anthropic.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• opencode `v1.19.4`
-  https://github.com/anomalyco/opencode/releases/tag/v1.19.4
-
-• OpenAI: ChatGPT conversion failures in India, Japan and Korea. And Response API errors
-  https://status.openai.com
-
-• Anthropic: Elevated errors affecting Connectors
-  https://status.anthropic.com]]></itunes:summary>
-      <pubDate>Thu, 22 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261022-1830.mp3" length="1209617" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261022-1830</guid>
-      <itunes:duration>1:16</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
