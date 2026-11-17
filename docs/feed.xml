@@ -11,7 +11,58 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Mon, 16 Nov 2026 19:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:00:39 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 17, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• If you still have your Fable reset, use it before 2:59am Eastern time to get your quota back from Fable 5.2
+  https://support.claude.com/en/articles/17506494
+  https://www.reddit.com/r/ClaudeCode/comments/1xye2dv/if_you_still_have_your_fable_reset_use_it_before/
+
+• opencode `v1.19.6`
+  https://github.com/anomalyco/opencode/releases/tag/v1.19.6
+
+• opencode `process-daemon-v0.6.0`
+  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.6.0
+
+• Claude Code `v2.1.326`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.326
+
+• Anthropic: Some users unable to sign up with Apple on the Claude iOS app
+  https://status.anthropic.com
+
+• PSA: Claude Code has an experimental &quot;Code Mode&quot; now (batches tool calls into JS)
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xy0xr9/psa_claude_code_has_an_experimental_code_mode_now/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• If you still have your Fable reset, use it before 2:59am Eastern time to get your quota back from Fable 5.2
+  https://support.claude.com/en/articles/17506494
+  https://www.reddit.com/r/ClaudeCode/comments/1xye2dv/if_you_still_have_your_fable_reset_use_it_before/
+
+• opencode `v1.19.6`
+  https://github.com/anomalyco/opencode/releases/tag/v1.19.6
+
+• opencode `process-daemon-v0.6.0`
+  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.6.0
+
+• Claude Code `v2.1.326`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.326
+
+• Anthropic: Some users unable to sign up with Apple on the Claude iOS app
+  https://status.anthropic.com
+
+• PSA: Claude Code has an experimental &quot;Code Mode&quot; now (batches tool calls into JS)
+  https://github.com/anthropics/claude-code/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xy0xr9/psa_claude_code_has_an_experimental_code_mode_now/]]></itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 09:00:03 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261117-0900.mp3" length="3511737" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261117-0900</guid>
+      <itunes:duration>3:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 16, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1522,31 +1573,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261024-0800.mp3" length="4457160" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261024-0800</guid>
       <itunes:duration>4:39</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 23, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Kimi K3.1 Pro rolling out now
-  https://platform.kimi.ai/docs/introduction
-  https://www.reddit.com/r/singularity/comments/1xditjc/kimi_k31_pro_rolling_out_now/
-
-• Ollama `v0.40.10`
-  https://github.com/ollama/ollama/releases/tag/v0.40.10]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Kimi K3.1 Pro rolling out now
-  https://platform.kimi.ai/docs/introduction
-  https://www.reddit.com/r/singularity/comments/1xditjc/kimi_k31_pro_rolling_out_now/
-
-• Ollama `v0.40.10`
-  https://github.com/ollama/ollama/releases/tag/v0.40.10]]></itunes:summary>
-      <pubDate>Fri, 23 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261023-1830.mp3" length="1019446" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261023-1830</guid>
-      <itunes:duration>1:04</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
