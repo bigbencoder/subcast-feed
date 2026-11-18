@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 18 Nov 2026 09:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:30:22 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 18, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: Costs API data is delayed
+  https://status.openai.com
+
+• OpenAI: Elevated conversation errors for Free and Go users
+  https://status.openai.com
+
+• Ghost in the Droid 1.6: Claude Code gets 100+ Android skills, a reworked Skill Hub and captcha solving with a human in the loop
+  https://github.com/ghost-in-the-droid/android-agent/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xzhdzo/ghost_in_the_droid_16_claude_code_gets_100/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: Costs API data is delayed
+  https://status.openai.com
+
+• OpenAI: Elevated conversation errors for Free and Go users
+  https://status.openai.com
+
+• Ghost in the Droid 1.6: Claude Code gets 100+ Android skills, a reworked Skill Hub and captcha solving with a human in the loop
+  https://github.com/ghost-in-the-droid/android-agent/releases
+  https://www.reddit.com/r/ClaudeCode/comments/1xzhdzo/ghost_in_the_droid_16_claude_code_gets_100/]]></itunes:summary>
+      <pubDate>Wed, 18 Nov 2026 19:30:03 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261118-1930.mp3" length="1276491" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261118-1930</guid>
+      <itunes:duration>1:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 18, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1588,45 +1619,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261025-1830.mp3" length="930003" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261025-1830</guid>
       <itunes:duration>0:58</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 25, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Discussion Hub for new Claude incident: Elevated errors for multiple models on Oct 25, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1xeuqsz/discussion_hub_for_new_claude_incident_elevated/
-
-• Anthropic: Elevated errors for Claude Sonnet 5.5 and other models
-  https://status.anthropic.com
-
-• Anthropic: Elevated errors for multiple models
-  https://stspg.io/s3wd6gmdsdhn
-
-• Unified Claude (chat + Cowork in one) is now GA for Enterprise plans, with four new admin cost controls including an “Efficient mode”
-  https://claude.com/resources/articles/unified-claude-enterprise
-  https://www.reddit.com/r/ClaudeAI/comments/1xeq9ps/unified_claude_chat_cowork_in_one_is_now_ga_for/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Discussion Hub for new Claude incident: Elevated errors for multiple models on Oct 25, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1xeuqsz/discussion_hub_for_new_claude_incident_elevated/
-
-• Anthropic: Elevated errors for Claude Sonnet 5.5 and other models
-  https://status.anthropic.com
-
-• Anthropic: Elevated errors for multiple models
-  https://stspg.io/s3wd6gmdsdhn
-
-• Unified Claude (chat + Cowork in one) is now GA for Enterprise plans, with four new admin cost controls including an “Efficient mode”
-  https://claude.com/resources/articles/unified-claude-enterprise
-  https://www.reddit.com/r/ClaudeAI/comments/1xeq9ps/unified_claude_chat_cowork_in_one_is_now_ga_for/]]></itunes:summary>
-      <pubDate>Sun, 25 Oct 2026 08:00:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261025-0800.mp3" length="4231044" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261025-0800</guid>
-      <itunes:duration>4:24</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
