@@ -11,7 +11,84 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 17 Nov 2026 19:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:38 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 18, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors affecting the Google Docs connector on Nov 18, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xz22sy/discussion_hub_for_new_claude_incident_elevated/
+
+• Codex `rust-v0.170.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.170.0
+
+• Anthropic: Elevated errors affecting the Google Docs connector
+  https://status.anthropic.com
+
+• opencode `v2.3.2`
+  https://github.com/anomalyco/opencode/releases/tag/v2.3.2
+
+• opencode `v2.3.1`
+  https://github.com/anomalyco/opencode/releases/tag/v2.3.1
+
+• Claude Code `v2.1.327`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.327
+
+• Codex `rust-v0.169.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.169.1
+
+• Anthropic: Some users unable to sign in with Apple on claude.ai and the Claude iOS app
+  https://status.anthropic.com
+
+• Anthropic added linked billing to the Claude Platform (beta): users of third-party tools can pay for Claude usage from their own org, no API key sharing
+  https://claude.com/resources/articles/linked-billing-on-claude-platform
+  https://www.reddit.com/r/ClaudeAI/comments/1xz6tqj/anthropic_added_linked_billing_to_the_claude/
+
+• Claude Code on desktop can now drive an iPhone Duo in the iOS simulator
+  https://code.claude.com/docs/en/desktop-ios-simulator
+  https://www.reddit.com/r/ClaudeCode/comments/1xz1ft7/claude_code_on_desktop_can_now_drive_an_iphone/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors affecting the Google Docs connector on Nov 18, 2026
+  https://status.claude.com/
+  https://www.reddit.com/r/ClaudeAI/comments/1xz22sy/discussion_hub_for_new_claude_incident_elevated/
+
+• Codex `rust-v0.170.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.170.0
+
+• Anthropic: Elevated errors affecting the Google Docs connector
+  https://status.anthropic.com
+
+• opencode `v2.3.2`
+  https://github.com/anomalyco/opencode/releases/tag/v2.3.2
+
+• opencode `v2.3.1`
+  https://github.com/anomalyco/opencode/releases/tag/v2.3.1
+
+• Claude Code `v2.1.327`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.327
+
+• Codex `rust-v0.169.1`
+  https://github.com/openai/codex/releases/tag/rust-v0.169.1
+
+• Anthropic: Some users unable to sign in with Apple on claude.ai and the Claude iOS app
+  https://status.anthropic.com
+
+• Anthropic added linked billing to the Claude Platform (beta): users of third-party tools can pay for Claude usage from their own org, no API key sharing
+  https://claude.com/resources/articles/linked-billing-on-claude-platform
+  https://www.reddit.com/r/ClaudeAI/comments/1xz6tqj/anthropic_added_linked_billing_to_the_claude/
+
+• Claude Code on desktop can now drive an iPhone Duo in the iOS simulator
+  https://code.claude.com/docs/en/desktop-ios-simulator
+  https://www.reddit.com/r/ClaudeCode/comments/1xz1ft7/claude_code_on_desktop_can_now_drive_an_iphone/]]></itunes:summary>
+      <pubDate>Wed, 18 Nov 2026 09:00:02 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261118-0900.mp3" length="4777317" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261118-0900</guid>
+      <itunes:duration>4:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 17, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1550,23 +1627,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261025-0800.mp3" length="4231044" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261025-0800</guid>
       <itunes:duration>4:24</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 24, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Ollama `v0.40.11`
-  https://github.com/ollama/ollama/releases/tag/v0.40.11]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Ollama `v0.40.11`
-  https://github.com/ollama/ollama/releases/tag/v0.40.11]]></itunes:summary>
-      <pubDate>Sat, 24 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261024-1830.mp3" length="1092589" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261024-1830</guid>
-      <itunes:duration>1:08</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
