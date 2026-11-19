@@ -11,7 +11,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 18 Nov 2026 19:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:00:32 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 19, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Gemini 4 Neon is out now, including on Pro plans, sits between Hydrogen and Carbon at $3 / $15 per 1M tokens
+  https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+  https://www.reddit.com/r/singularity/comments/1xzqlv8/gemini_4_neon_is_out_now_including_on_pro_plans/
+
+• Anthropic: Claude unable to join meetings
+  https://status.anthropic.com
+
+• Claude Code `v2.1.328`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.328]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Gemini 4 Neon is out now, including on Pro plans, sits between Hydrogen and Carbon at $3 / $15 per 1M tokens
+  https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+  https://www.reddit.com/r/singularity/comments/1xzqlv8/gemini_4_neon_is_out_now_including_on_pro_plans/
+
+• Anthropic: Claude unable to join meetings
+  https://status.anthropic.com
+
+• Claude Code `v2.1.328`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.328]]></itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261119-0900.mp3" length="2917817" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261119-0900</guid>
+      <itunes:duration>3:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 18, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1594,31 +1625,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261026-1830.mp3" length="1174509" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261026-1830</guid>
       <itunes:duration>1:13</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 25, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Discussion Hub for new Claude incident: Elevated errors for Claude Fable 5.1 on Oct 25, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1xewsd1/discussion_hub_for_new_claude_incident_elevated/
-
-• Anthropic: Elevated errors for Claude Fable 5.1
-  https://status.anthropic.com]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Discussion Hub for new Claude incident: Elevated errors for Claude Fable 5.1 on Oct 25, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1xewsd1/discussion_hub_for_new_claude_incident_elevated/
-
-• Anthropic: Elevated errors for Claude Fable 5.1
-  https://status.anthropic.com]]></itunes:summary>
-      <pubDate>Sun, 25 Oct 2026 18:30:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261025-1830.mp3" length="930003" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261025-1830</guid>
-      <itunes:duration>0:58</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
