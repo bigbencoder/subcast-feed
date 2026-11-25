@@ -11,7 +11,80 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 19 Nov 2026 19:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:01:15 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 25, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for multiple models on Nov 25, 2026
+  https://stspg.io/z0c74vfltddb
+  https://www.reddit.com/r/ClaudeAI/comments/1y4zcv7/discussion_hub_for_new_claude_incident_elevated/
+
+• openai-models: `gpt-live-1.1`
+  https://platform.openai.com/docs/models
+
+• Claude Code `v2.1.332`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.332
+
+• Anthropic: Elevated errors for Claude Haiku 5.5
+  https://status.anthropic.com
+
+• Ollama `v0.40.18`
+  https://github.com/ollama/ollama/releases/tag/v0.40.18
+
+• Anthropic: Claude for Microsoft 365 add-in missing for some users
+  https://stspg.io/ffdq2qfv8frk
+
+• Codex `rust-v0.172.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.172.0
+
+• Claude Code `v2.1.331`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.331
+
+• OpenAI: Elevated errors with GPT-6 conversations on paid ChatGPT plans
+  https://status.openai.com
+
+• opencode `v2.4.1`
+  https://github.com/anomalyco/opencode/releases/tag/v2.4.1]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Discussion Hub for new Claude incident: Elevated errors for multiple models on Nov 25, 2026
+  https://stspg.io/z0c74vfltddb
+  https://www.reddit.com/r/ClaudeAI/comments/1y4zcv7/discussion_hub_for_new_claude_incident_elevated/
+
+• openai-models: `gpt-live-1.1`
+  https://platform.openai.com/docs/models
+
+• Claude Code `v2.1.332`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.332
+
+• Anthropic: Elevated errors for Claude Haiku 5.5
+  https://status.anthropic.com
+
+• Ollama `v0.40.18`
+  https://github.com/ollama/ollama/releases/tag/v0.40.18
+
+• Anthropic: Claude for Microsoft 365 add-in missing for some users
+  https://stspg.io/ffdq2qfv8frk
+
+• Codex `rust-v0.172.0`
+  https://github.com/openai/codex/releases/tag/rust-v0.172.0
+
+• Claude Code `v2.1.331`
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.331
+
+• OpenAI: Elevated errors with GPT-6 conversations on paid ChatGPT plans
+  https://status.openai.com
+
+• opencode `v2.4.1`
+  https://github.com/anomalyco/opencode/releases/tag/v2.4.1]]></itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 09:00:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261125-0900.mp3" length="4708772" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261125-0900</guid>
+      <itunes:duration>4:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 19, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1588,37 +1661,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261027-1830.mp3" length="1775952" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261027-1830</guid>
       <itunes:duration>1:51</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 27, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.311`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.311
-
-• OpenAI: Ads POST /ads/* endpoints elevated error rates
-  https://status.openai.com
-
-• Anthropic released a Claude for Nonprofits plugin (Oct 26): auto-installed on nonprofit Team and Enterprise plans, Claude Code included at no extra cost
-  https://claude.com/resources/articles/expanding-claude-for-nonprofits
-  https://www.reddit.com/r/ClaudeAI/comments/1xggxay/anthropic_released_a_claude_for_nonprofits_plugin/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Claude Code `v2.1.311`
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.311
-
-• OpenAI: Ads POST /ads/* endpoints elevated error rates
-  https://status.openai.com
-
-• Anthropic released a Claude for Nonprofits plugin (Oct 26): auto-installed on nonprofit Team and Enterprise plans, Claude Code included at no extra cost
-  https://claude.com/resources/articles/expanding-claude-for-nonprofits
-  https://www.reddit.com/r/ClaudeAI/comments/1xggxay/anthropic_released_a_claude_for_nonprofits_plugin/]]></itunes:summary>
-      <pubDate>Tue, 27 Oct 2026 08:00:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261027-0800.mp3" length="2448866" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261027-0800</guid>
-      <itunes:duration>2:33</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
