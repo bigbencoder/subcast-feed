@@ -11,7 +11,36 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 25 Nov 2026 09:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:30:28 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 25, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated errors with Codex GitHub reviews and pull request merges
+  https://status.openai.com
+
+• OpenAI: ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors
+  https://status.openai.com
+
+• OpenAI: User error rates accross plans elevated
+  https://status.openai.com]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• OpenAI: Elevated errors with Codex GitHub reviews and pull request merges
+  https://status.openai.com
+
+• OpenAI: ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors
+  https://status.openai.com
+
+• OpenAI: User error rates accross plans elevated
+  https://status.openai.com]]></itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 19:30:05 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261125-1930.mp3" length="1278163" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261125-1930</guid>
+      <itunes:duration>1:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 25, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1610,57 +1639,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261028-0800.mp3" length="4688292" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261028-0800</guid>
       <itunes:duration>4:53</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 27, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Discussion Hub for new Claude incident: Elevated errors for Claude Sonnet 5.5 on Oct 27, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1xgno85/discussion_hub_for_new_claude_incident_elevated/
-
-• Mirendil announces Fern v0.1: Their first model with a 10M context window
-  https://mirendil.com/news/introducing-fern/
-  https://www.reddit.com/r/singularity/comments/1xgcvkn/mirendil_announces_fern_v01_their_first_model/
-
-• OpenAI: 6.1 Sol Degraded Model Performance
-  https://status.openai.com
-
-• Anthropic: Elevated errors for Claude Sonnet 5.5
-  https://status.anthropic.com
-
-• OpenAI: Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories
-  https://status.openai.com
-
-• opencode `v2.2.0`
-  https://github.com/anomalyco/opencode/releases/tag/v2.2.0]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Discussion Hub for new Claude incident: Elevated errors for Claude Sonnet 5.5 on Oct 27, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1xgno85/discussion_hub_for_new_claude_incident_elevated/
-
-• Mirendil announces Fern v0.1: Their first model with a 10M context window
-  https://mirendil.com/news/introducing-fern/
-  https://www.reddit.com/r/singularity/comments/1xgcvkn/mirendil_announces_fern_v01_their_first_model/
-
-• OpenAI: 6.1 Sol Degraded Model Performance
-  https://status.openai.com
-
-• Anthropic: Elevated errors for Claude Sonnet 5.5
-  https://status.anthropic.com
-
-• OpenAI: Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories
-  https://status.openai.com
-
-• opencode `v2.2.0`
-  https://github.com/anomalyco/opencode/releases/tag/v2.2.0]]></itunes:summary>
-      <pubDate>Tue, 27 Oct 2026 18:30:05 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261027-1830.mp3" length="1775952" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261027-1830</guid>
-      <itunes:duration>1:51</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
