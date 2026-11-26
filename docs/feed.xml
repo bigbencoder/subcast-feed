@@ -11,7 +11,40 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 26 Nov 2026 09:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:30:18 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 26, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Code only loads the first 200 lines (or 25KB) of MEMORY.md. I put the same rule at line 20 and at line 240: followed 9/9 times vs 0/9
+  https://code.claude.com/docs/en/memory
+  https://www.reddit.com/r/ClaudeCode/comments/1y61vu2/claude_code_only_loads_the_first_200_lines_or/
+
+• OpenAI: Elevated errors with Codex GitHub reviews and pull request merges
+  https://status.openai.com
+
+• wrkflw 0.9.0: run GitHub Actions locally, now with an MCP server so coding agents can check CI before they push
+  https://github.com/bahdotsh/wrkflw/releases/tag/v0.9.0
+  https://www.reddit.com/r/ClaudeAI/comments/1y5zhbm/wrkflw_090_run_github_actions_locally_now_with_an/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Code only loads the first 200 lines (or 25KB) of MEMORY.md. I put the same rule at line 20 and at line 240: followed 9/9 times vs 0/9
+  https://code.claude.com/docs/en/memory
+  https://www.reddit.com/r/ClaudeCode/comments/1y61vu2/claude_code_only_loads_the_first_200_lines_or/
+
+• OpenAI: Elevated errors with Codex GitHub reviews and pull request merges
+  https://status.openai.com
+
+• wrkflw 0.9.0: run GitHub Actions locally, now with an MCP server so coding agents can check CI before they push
+  https://github.com/bahdotsh/wrkflw/releases/tag/v0.9.0
+  https://www.reddit.com/r/ClaudeAI/comments/1y5zhbm/wrkflw_090_run_github_actions_locally_now_with_an/]]></itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 19:30:02 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261126-1930.mp3" length="1776370" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261126-1930</guid>
+      <itunes:duration>1:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Standup — November 26, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1578,37 +1611,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261029-0800.mp3" length="3178205" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261029-0800</guid>
       <itunes:duration>3:19</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 28, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Discussion Hub for new Claude incident: Elevated errors affecting the Google Calendar connector on Oct 28, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1xhsnwc/discussion_hub_for_new_claude_incident_elevated/
-
-• Anthropic: Elevated errors affecting the Google Calendar connector
-  https://stspg.io/75qq31h8672d
-
-• opencode `process-daemon-v0.3.2`
-  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Discussion Hub for new Claude incident: Elevated errors affecting the Google Calendar connector on Oct 28, 2026
-  https://status.claude.com/
-  https://www.reddit.com/r/ClaudeAI/comments/1xhsnwc/discussion_hub_for_new_claude_incident_elevated/
-
-• Anthropic: Elevated errors affecting the Google Calendar connector
-  https://stspg.io/75qq31h8672d
-
-• opencode `process-daemon-v0.3.2`
-  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.2]]></itunes:summary>
-      <pubDate>Wed, 28 Oct 2026 18:30:03 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261028-1830.mp3" length="1309928" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261028-1830</guid>
-      <itunes:duration>1:22</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
