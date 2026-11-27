@@ -11,7 +11,26 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Thu, 26 Nov 2026 19:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:36:01 +0000</lastBuildDate>
+    <item>
+      <title>Afternoon Standup — November 27, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Claude Code drops your prompt cache TTL from 1 hour to 5 minutes as soon as your plan spills into usage credits
+  https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
+  https://www.reddit.com/r/ClaudeAI/comments/1y6w1q0/claude_code_drops_your_prompt_cache_ttl_from_1/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Claude Code drops your prompt cache TTL from 1 hour to 5 minutes as soon as your plan spills into usage credits
+  https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md
+  https://www.reddit.com/r/ClaudeAI/comments/1y6w1q0/claude_code_drops_your_prompt_cache_ttl_from_1/]]></itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 23:35:48 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261127-2335.mp3" length="1287776" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-afternoon-20261127-2335</guid>
+      <itunes:duration>1:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 26, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1574,43 +1593,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261029-1830.mp3" length="1207528" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-afternoon-20261029-1830</guid>
       <itunes:duration>1:15</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning Standup — October 29, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• opencode `v2.2.1`
-  https://github.com/anomalyco/opencode/releases/tag/v2.2.1
-
-• Ollama `v0.40.13`
-  https://github.com/ollama/ollama/releases/tag/v0.40.13
-
-• Anthropic: Elevated errors affecting the Google Calendar connector
-  https://status.anthropic.com
-
-• Claude Enterprise now has smart reports, in-app surveys and pooled group budgets (GA as of Oct 28)
-  https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets
-  https://www.reddit.com/r/ClaudeAI/comments/1xi8n7s/claude_enterprise_now_has_smart_reports_inapp/]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• opencode `v2.2.1`
-  https://github.com/anomalyco/opencode/releases/tag/v2.2.1
-
-• Ollama `v0.40.13`
-  https://github.com/ollama/ollama/releases/tag/v0.40.13
-
-• Anthropic: Elevated errors affecting the Google Calendar connector
-  https://status.anthropic.com
-
-• Claude Enterprise now has smart reports, in-app surveys and pooled group budgets (GA as of Oct 28)
-  https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets
-  https://www.reddit.com/r/ClaudeAI/comments/1xi8n7s/claude_enterprise_now_has_smart_reports_inapp/]]></itunes:summary>
-      <pubDate>Thu, 29 Oct 2026 08:00:03 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261029-0800.mp3" length="3178205" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-morning-20261029-0800</guid>
-      <itunes:duration>3:19</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
