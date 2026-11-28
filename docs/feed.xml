@@ -11,7 +11,32 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Fri, 27 Nov 2026 23:36:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:00:24 +0000</lastBuildDate>
+    <item>
+      <title>Morning Standup — November 28, 2026</title>
+      <description><![CDATA[Sources for this episode:
+
+• Ollama `v0.40.19`
+  https://github.com/ollama/ollama/releases/tag/v0.40.19
+
+• Claude Code now tells you when a resumed chat is missing earlier messages in VS Code and Desktop
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.332
+  https://www.reddit.com/r/ClaudeCode/comments/1y7esua/claude_code_now_tells_you_when_a_resumed_chat_is/]]></description>
+      <itunes:summary><![CDATA[Sources for this episode:
+
+• Ollama `v0.40.19`
+  https://github.com/ollama/ollama/releases/tag/v0.40.19
+
+• Claude Code now tells you when a resumed chat is missing earlier messages in VS Code and Desktop
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.332
+  https://www.reddit.com/r/ClaudeCode/comments/1y7esua/claude_code_now_tells_you_when_a_resumed_chat_is/]]></itunes:summary>
+      <pubDate>Sat, 28 Nov 2026 09:00:01 +0000</pubDate>
+      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261128-0900.mp3" length="2277503" type="audio/mpeg"/>
+      <guid isPermaLink="false">subcast-morning-20261128-0900</guid>
+      <itunes:duration>2:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Afternoon Standup — November 27, 2026</title>
       <description><![CDATA[Sources for this episode:
@@ -1568,31 +1593,6 @@
       <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-morning-20261030-0800.mp3" length="3704416" type="audio/mpeg"/>
       <guid isPermaLink="false">subcast-morning-20261030-0800</guid>
       <itunes:duration>3:51</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Afternoon Standup — October 29, 2026</title>
-      <description><![CDATA[Sources for this episode:
-
-• Mistral releases open weights for its 1 trillion-parameter Large 4 model
-  https://mistral.ai/news/mistral-large-4-oss/
-  https://www.reddit.com/r/singularity/comments/1xilupe/mistral_releases_open_weights_for_its_1/
-
-• opencode `process-daemon-v0.3.3`
-  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.3]]></description>
-      <itunes:summary><![CDATA[Sources for this episode:
-
-• Mistral releases open weights for its 1 trillion-parameter Large 4 model
-  https://mistral.ai/news/mistral-large-4-oss/
-  https://www.reddit.com/r/singularity/comments/1xilupe/mistral_releases_open_weights_for_its_1/
-
-• opencode `process-daemon-v0.3.3`
-  https://github.com/anomalyco/opencode/releases/tag/process-daemon-v0.3.3]]></itunes:summary>
-      <pubDate>Thu, 29 Oct 2026 18:30:04 +0000</pubDate>
-      <enclosure url="https://bigbencoder.github.io/subcast-feed/audio/standup-afternoon-20261029-1830.mp3" length="1207528" type="audio/mpeg"/>
-      <guid isPermaLink="false">subcast-afternoon-20261029-1830</guid>
-      <itunes:duration>1:15</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
